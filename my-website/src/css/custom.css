@@ -28,3 +28,32 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+    max-width:600px;
+}
+img[src*='#centersmall'] { 
+    display: block;
+    margin: auto;
+    max-width:50%;
+}
+
+footer
+{
+    font-size: 0.8em;
+}
+
+td, th, tr,thead {
+   background: none;
+   border: none!important;
+   text-align: center;
+}
+
+.svcard{
+   text-align: center;
+}
+.svcard h2 {
+    padding-top: 20px;
+}
