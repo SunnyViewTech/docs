@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '道乐师 - 上海晴观信息科技有限公司',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/dollars_icon3.png',
+  favicon: 'img/dollars_icon.png',
 
   // Set the production url of your site here
   url: 'https://docs.sunnyview.tech',
