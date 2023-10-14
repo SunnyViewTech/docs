@@ -58,7 +58,7 @@ const config = {
         title: '道乐师使用文档',
         logo: {
           alt: 'My Site Logo',
-          src: '/img/dollars_icon3.png',
+          src: '/img/dollars_icon.png',
         },
         items: [
           {
