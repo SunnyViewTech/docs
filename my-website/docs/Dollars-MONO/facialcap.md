@@ -33,4 +33,4 @@ title: 面部捕捉
 
 ![](../img/Flev3MT6OBv5XlJ076YsgTLlnpxc.png#center)
 
-![](http://elbrus.sunnyview.tech/FoZElOM_maZtNfeFT9tAu36tw6WG.gif#center)
+![](https://elbrus.oss-cn-beijing.aliyuncs.com/FoZElOM_maZtNfeFT9tAu36tw6WG.gif#center)
