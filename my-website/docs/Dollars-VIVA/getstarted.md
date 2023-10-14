@@ -25,7 +25,7 @@ title: 准备使用
 
 您可以将脚部追踪器器固定在鞋面上，确保追踪更为稳定。
 
-![](../img/FmDLmZ0G2He4vIPw6wYHFtkPXBkl.png#center)
+![](http://elbrus.sunnyview.tech/FmDLmZ0G2He4vIPw6wYHFtkPXBkl.png#center)
 
 手持 VIVE 手柄时，您可以四指微曲。
 
