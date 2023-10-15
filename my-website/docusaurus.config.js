@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '道乐师 - 上海晴观信息科技有限公司',
-  tagline: 'Dinosaurs are cool',
+  tagline: '道乐师，您的元宇宙领路人',
   favicon: 'img/dollars_icon.png',
 
   // Set the production url of your site here
@@ -57,19 +57,13 @@ const config = {
       navbar: {
         title: '道乐师使用文档',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Dollars Logo',
           src: '/img/dollars_icon.png',
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            label: '晴观科技',
+            href: 'https://www.sunnyview.tech',
             position: 'right',
           },
         ],

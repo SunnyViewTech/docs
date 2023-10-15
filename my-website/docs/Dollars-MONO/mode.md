@@ -20,7 +20,7 @@ title: 动捕模式
 
 比如以下的动作，适合使用跳跃模式，
 
-<iframe src="//player.bilibili.com/player.html?aid=600156591&bvid=BV1hB4y1s7Ah&cid=751527164&p=1" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1hB4y1s7Ah&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 平地模式
 
@@ -28,4 +28,4 @@ title: 动捕模式
 
 比如以下的动作，适合使用平地模式，
 
-<iframe src="//player.bilibili.com/player.html?aid=215180687&bvid=BV1Va411x73C&cid=751529099&p=1" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1Va411x73C&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>

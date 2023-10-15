@@ -15,4 +15,4 @@ title: 动捕灵敏度
 
 您可以在下面的视频中看到灵敏度对动捕结果的影响
 
-<iframe src="//player.bilibili.com/player.html?aid=940169434&bvid=BV16W4y167ei&cid=751525708&p=1" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV16W4y167ei&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
