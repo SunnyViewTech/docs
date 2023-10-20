@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '道乐师 - 上海晴观信息科技有限公司',
-  tagline: '道乐师，您的元宇宙领路人',
+  title: 'Dollars MoCap - SunnyViewTech',
+  tagline: 'Your Guide to the Metaverse',
   favicon: 'img/dollars_icon.png',
 
   // Set the production url of your site here
@@ -55,22 +55,22 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '道乐师使用文档',
+        title: 'Dollars MoCap Documents',
         logo: {
           alt: 'Dollars Logo',
           src: '/img/dollars_icon.png',
         },
         items: [
           {
-            label: '晴观科技',
-            href: 'https://www.sunnyview.tech',
+            label: 'Dollars MoCap',
+            href: 'https://www.dollarsmocap.com',
             position: 'right',
           },
         ],
       },
       footer: {
         style: 'dark',
-        copyright: `www.sunnyview.tech<br/>上海晴观信息科技有限公司<br/>所有权利保留<br/>Built with Docusaurus<br/><br/>沪ICP备19026871号-1`,
+        copyright: `SunnyView Technology Co.Ltd.<br/>www.dollarsmocap.com<br/>All Rights Reserved<br/><br/>Built with Docusaurus`,
       },
       prism: {
         theme: lightCodeTheme,

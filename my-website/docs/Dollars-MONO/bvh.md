@@ -1,22 +1,22 @@
 ---
 sidebar_position: 50
-title: 录制 BVH 文件
+title: Record BVH files
 ---
 
-# 录制 BVH 文件
+# Record BVH files
 
-您可以按下图中按钮开始、结束 BVH 文件的录制。
+You can press the button in the picture to start and end the recording of the BVH file.
 
-![](../img/FgjblB_4YUSJS3mHz8dvVCR03oJ-.png#center)
+![](../img/2023-10-20_22_49_40-806424_940206.png#center)
 
 :::info
 
-录制频率：30FPS
- 
-预估大小：每分钟 5M
+Recording frequency: 30FPS
+
+Estimated size: 5M per minute
 
 :::
 
-录制的文件将以当前时间戳为文件名，存放于道乐师程序根目录下。
+The recorded files will be saved with the current timestamp as the file name in the root directory of the Dollar MONO program.
 
 ![](../img/Fl6Q4YjY87r8iBedfrMyncM6LFMK.png#center)

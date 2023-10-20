@@ -1,31 +1,52 @@
 ---
-sidebar_position: 20
-title: 动捕模式
+sidebar_position: 10
+title: Motion Capture Mode
 ---
 
-# 动捕模式
+# Motion Capture Mode
 
-道乐师无穿戴版提供”上半身“，“跳跃”以及“平地”三种动捕模式，您可以根据实际动捕需求，通过点击按钮在这些模式间进行切换。
+Dollar MONO offers three motion capture modes,
+
+- Upper Body Mode
+- Jump Mode
+- Ground Mode
+
+You can switch between these modes according to your needs by clicking the button.
 
 ![](../img/FqK6yqb6STxaAsL3gM4uMeaVlMc4.png#center)
 
+## Upper Body Mode
 
-## 上半身模式
+In the Upper Body mode, motion capture will only capture your upper body, while the lower body will be locked.
 
-在“上半身”模式中，动捕只会捕捉您的上半身，下半身将被锁定。
+## Jump Mode
 
-## 跳跃模式
+In the Jump mode, changes in your waist position will be interpreted as changes in height, allowing for actions such as jumping and crouching.
 
-在“跳跃”模式中，您的腰部位置变化将被视为高度变化，从而可以完成跳跃，下蹲等动作。但是在该模式下，您将无法前后走动。
+However, in this mode, you will not be able to move forward or backward.
 
-比如以下的动作，适合使用跳跃模式，
+For example, Jump mode is suitable for the following action,
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1hB4y1s7Ah&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/GW67roizcPk?si=BchmLixZmWUbCIHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 平地模式
+The same video in Ground Mode,
 
-在“平地”模式中，您的腰部位置变化将被视为平面的位置变化，从而实现前后的走动。但是在该模式下，您将无法跳跃。
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Ss0bqUFUzRM?si=sBoEBp7P58LduU9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-比如以下的动作，适合使用平地模式，
+## Ground Mode
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Va411x73C&autoplay=0" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+In Ground mode, changes in your waist position will be interpreted as changes in position on the ground, allowing for actions such as moving forward or backward.
+
+However, in this mode, you will not be able to jump.
+
+For example, Ground mode is suitable for the following action,
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/71s5SaO9ECs?si=Otp9VUNd_INByWRe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+The same video in Jump Mode,
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/MvghpYhe1Mc?si=7thNBCGeWsNRbcGX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Jump mode is intended to capture jumping, crouching, and similar actions, while the Ground mode is intended to capture walking, running, or similar actions.
+
+Using the wrong mode will result in less accurate motion capture and may not capture the desired actions. So, it is important to understand the difference between the two modes and to use the correct one for the desired action.

@@ -1,24 +1,24 @@
 ---
 sidebar_position: 70
-title:  共享摄像头
+title:  Sharing the camera
 ---
 
-# 在多个应用程序中共享摄像头
+# Sharing the camera across multiple applications
 
-下面将介绍如何利用 OBS 的虚拟摄像头，在多个应用程序中使用同一个摄像头作为输入。这样您可以在道乐师中进行动作捕捉，同时在 Animaze，VSeeFace 等软件中进行面部捕捉。
+Below we will show you how to use OBS virtual camera to share the same camera in multiple applications, so that you can do motion capture in Dollars MONO, while also do facial capture in VTuber softwares such as Animaze and VSeeFace.
 
-您可以在这里下载 OBS，https://obsproject.com
+You can download OBS here, https://obsproject.com
 
-您可以将视频，桌面窗口，或者摄像头加入 OBS 后，通过右侧按钮启动虚拟摄像头。
+You can add a desktop window, or video capture device to OBS and start the virtual camera using the button on the right.
 
 ![](../img/FktWqShQT4QzysPfF0e6uDl2wp_A.png#center)
 
-在道乐师中，选择 OBS 的虚拟摄像头作为视频源，
+In Dollars MONO, select OBS Virtual Camera as the video source,
 
-![](../img/FrDSay4m6wJrr4FIjIc5ADsuNYy9.png#center)
+![](../img/2023-10-20_22_52_56-563201_119831.png#center)
 
-同时在 Animaze 也以 OBS 虚拟摄像头作为输入。
+And in Animaze, also use OBS Virtual Camera as input.
 
 ![](../img/Ft3Pf9KIgAM5tAs65dU8IYTJNGAd.png#center)
 
-这样您就可以通过一个摄像头，在道乐师中进行动作捕捉，同时在 Animaze 中进行表情捕捉。
+This way, you can use one camera for motion capture in Dollars MoCap, while using the same camera to capture facial expressions in Animaze.

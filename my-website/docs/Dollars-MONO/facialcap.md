@@ -1,36 +1,40 @@
 ---
 sidebar_position: 40
-title: 面部捕捉
+title: Facial Capture
 ---
 
-# 面部捕捉
+# Facial Capture
 
-道乐师提供与 ARKit 兼容的面部表情捕捉。
+Dollars MONO provides ARKit-compatible facial expression capture.
 
-您可以通过图中按钮打开或关闭面部捕捉。
+You can turn on or off facial capture using the button in the image.
 
 ![](../img/Fk_j-tirZ0NKlmgv2i6l_C_PGofu.png#center)
 
-在开始捕捉前，表情放松，目视前方进行一次校准会确保后期获得更好的捕捉效果。
+Before the capture, it is recommended to relax your facial expression, look straight ahead, and do a calibration.
+
+This will help to improve the accuracy.
 
 ![](../img/Fjr4SZHNuHfUdCzp6kvqPJKgoZKZ.png#center)
 
-## 表情幅度
-您可以通过右侧滑动条控制表情的幅度。
+## Strength of Facial Expressions
+
+You can control the strength of the facial expressions by using the slider on the right side.
 
 ![](../img/FpET_nzvQ8xlsxPxfswYIiJ4HAsx.png#center)
 
 ![](../img/Fhtog3ArmA4V9g8fJPuX6ATOmC_Y.gif#center)
 
-## 主视眼
-由于拍摄时的灯光，角度，成像清晰度，是否佩戴眼镜等因素，有时双眼的转向可能会有误识别。此时，您可以通过设置主视眼来确保双眼转向同步。
+## Dominant Eye
+
+Due to factors such as lighting, angles, image clarity, or wearing glasses during the capture, there may be instances where the eye gaze of both eyes is misrecognized. In such cases, you can ensure synchronized eye gaze by setting a dominant eye.
 
 ![](../img/FgC6VmI1xDIDUM9UR1K7aqdsvx1i.png#center)
 
 ![](../img/Fs0iOgo0UNBNUxBbrg7DlMGmtOJ1.gif#center)
 
-设置主视眼的代价是您将无法做出斗鸡眼的表情。
+Please note that setting a dominant eye comes at the cost of not being able to make a crossed-eye expression.
 
 ![](../img/Flev3MT6OBv5XlJ076YsgTLlnpxc.png#center)
 
-![](https://elbrus.oss-cn-beijing.aliyuncs.com/FoZElOM_maZtNfeFT9tAu36tw6WG.gif#center)
+![](../img/FoZElOM_maZtNfeFT9tAu36tw6WG.gif#center)

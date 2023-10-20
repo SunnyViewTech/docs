@@ -1,30 +1,31 @@
 ---
 sidebar_position: 60
-title: 使用 OBS 虚拟摄像头作为输入
+title: Using Virtual Camera as Input
 ---
 
-# 使用 OBS 虚拟摄像头作为输入
+# Using Virtual Camera as Input
 
-道乐师从 v.230722 版本开始支持 OBS 的原生虚拟摄像头，借助虚拟摄像头，可以实现如下一些场景， 
+Starting from v.230722, Dollars MONO supports OBS virtual camera. With the help of the virtual camera, the following scenarios can be achieved,
 
-- 把摄像头竖直摆放，更方便照到全身
-- 使用手机作为视频源，一台手机实现面捕动捕
-- 将网络视频，甚至任何桌面上显示的画面直接作为动捕输入
+- Mount the web camera vertically for easier full-body shots.
+- Use a smartphone as the video source to achieve both facial and motion capture with just one device.
+- Directly capture motion from the desktop window.
 
-您可以在这里下载 OBS，https://obsproject.com
+You can download OBS here, https://obsproject.com/
 
-您可以在 OBS 中点击右侧按钮启动虚拟摄像头，
+You can click the button on the right side in OBS to start the virtual camera.
 
 ![](../img/FmGJNYbQkGzM90He-NJ65vMF52N3.png#center)
 
-同时在道乐师中，选择 OBS 的虚拟摄像头作为视频来源，
+And in Dollars MONO, select OBS virtual camera as the video source.
 
-![](../img/Fqtg95Q351LH5eQPk66z8tW9S2wJ.png#center)
+![](../img/2023-10-20_22_52_56-563201_119831.png#center)
 
-之后，您可以通过 OBS 的抓屏功能，将桌面上其他窗口的画面直接作为动捕输入，
+You can use the Window Capture feature of OBS to directly capture other windows on the screen, and use it as motion capture input.
 
 ![](../img/Fk7jI2WHupLW3IFNjrhFoNitJUOR.png#center)
 
-或者在手机投屏到电脑后，将 Live Link Face 的画面作为动捕输入，实现用一台手机同时进行动捕和面捕。
+
+Or screen mirroring a mobile phone to the computer, and do both the facial and motion capture by using apps like Live Link Face.
 
 ![](../img/FpeGmsLdyjnwXsCSLpOb1w2tX_Ym.png#center)

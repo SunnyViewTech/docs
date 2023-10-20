@@ -1,18 +1,18 @@
 ---
 sidebar_position: 80
-title:  同步至其他应用程序
+title:  Stream
 ---
 
-# 同步至其他应用程序
+# Stream To Unity & Unreal
 
-您可以通过同步引擎的选项开启、关闭同步至引擎的功能。
+You can enable or disable the streaming function in the options dialog.
 
-目标 IP 为引擎所在电脑的 IP 地址，如果在同一台电脑动捕以及使用引擎，保持 127.0.0.1 就好。
+The Target IP option is the IP address of the computer where the engine is located. If you use motion capture and the engine on the same computer, keep it as 127.0.0.1.
 
-端口选项为道乐师的引擎插件所监听的端口，利用这些端口，可以实现在同一项目中进行多人动捕。
+The port option is the port that the Dollar MoCap engine plugin is listening on. By using these ports, you can achieve multi-person motion capture in one project.
 
-![](../img/FrN-ALynnAyZN3rTVM02pCvGXKc_.png#center)
+![](../img/2023-10-20_22_58_04-349257_443785.png#center)
 
-当您开启或关闭同步功能后，您可以在程序左上角看到相应提示。
+After changing the streaming option, you can see the corresponding information in the upper left corner of the program.
 
 ![](../img/Fssio5cvW52BexBffDBFmwMG5xPw.png#center)

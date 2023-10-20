@@ -9,42 +9,42 @@ const FeatureList = [
     Svg: '/img/motion-capture.png',
     description1: (
       <>
-        用单摄像头或者视频文件，
+        Using a single camera or video file,
       </>
     ),
     description2: (
       <>
-        实时捕捉表情、手势、全身动作！
+        to capture expressions, gestures, and full-body movements in real-time!
       </>
     ),
   },
   {
-    title: 'Dollars VIVA',
-    link: '/category/dollars-viva',
-    Svg: '/img/motion-capture-viva.png',
+    title: 'Dollars DEEP',
+    link: '/category/dollars-deep',
+    Svg: '/img/kinect.png',
     description1: (
       <>
-        借助于 HTC Vive 硬件，使用六点追踪，
+        Based on Dollars MONO, Dollars DEEP can achieve enhanced hip and feet tracking
       </>
     ),
     description2: (
       <>
-        在减轻动捕演员负担的同时，提供低成本高质量的全身动作捕捉。
+        by utilizing Azure Kinect
       </>
     ),
   },
   {
-    title: '与引擎以及 DCC 软件的整合',
+    title: 'Integration with Game Engines and DCC Softwares',
     link: '/category/%E4%B8%8E%E5%BC%95%E6%93%8E%E4%BB%A5%E5%8F%8A-dcc-%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%95%B4%E5%90%88',
     Svg: '/img/digital-platform.png',
     description1: (
       <>
-        了解如何在游戏引擎以及 3D 软件中
+        Use Dollars MoCap's data streaming and
       </>
     ),
     description2: (
       <>
-        使用道乐师的数据流送以及 BVH 文件
+        BVH files in game engines and 3D software
       </>
     ),
   },
