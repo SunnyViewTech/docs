@@ -1,6 +1,6 @@
 ---
 sidebar_position: 70
-title:  Sharing the camera
+title:  Sharing the Camera
 ---
 
 # Sharing the camera across multiple applications
