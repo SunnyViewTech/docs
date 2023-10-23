@@ -7,8 +7,8 @@ title: Motion Capture Mode
 
 Dollar DEEP offers two motion capture modes,
 
+- Full Body Mode
 - Upper Body Mode
-- Jump Mode
 
 ![](../img/2023-10-20_20_07_13.png#center)
 

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 50
-title: Record BVH files
+title: Record BVH Files
 ---
 
-# Record BVH files
+# Record BVH Files
 
 You can press the button in the picture to start and end the recording of the BVH file.
 
