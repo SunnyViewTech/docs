@@ -38,7 +38,7 @@ Download [v.230903](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230903
 
 Download [v.230722](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230722.zip)
 
-## 2023年07月08日
+## July 8th, 2023
 - Facial Capture!
 - (Known Issues) Hand jitter during video playback
 
