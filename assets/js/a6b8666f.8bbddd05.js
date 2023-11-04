@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[493],{2022:e=>{e.exports=JSON.parse('{"title":"Dollars VIVA","slug":"/category/dollars-viva","permalink":"/category/dollars-viva","navigation":{"previous":{"title":"Calibration","permalink":"/Dollars-DEEP/calibration"},"next":{"title":"Before Started","permalink":"/Dollars-VIVA/beforeuse"}}}')}}]);

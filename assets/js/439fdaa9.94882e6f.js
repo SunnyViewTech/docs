@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[904],{8665:e=>{e.exports=JSON.parse('{"title":"UnrealEngine","slug":"/category/unrealengine","permalink":"/category/unrealengine","navigation":{"previous":{"title":"Integration","permalink":"/category/integration"},"next":{"title":"Unreal Engine","permalink":"/ue"}}}')}}]);
