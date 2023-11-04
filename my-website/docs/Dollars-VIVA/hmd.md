@@ -1,24 +1,22 @@
 ---
 sidebar_position: 30
-title: 使用头戴显示器进行动捕
+title: Using an HMD for Motion Capture
 ---
 
-# 使用头戴显示器进行动捕
+# Using an HMD for Motion Capture
 
-您也可以使用头戴显示器进行动捕。
+You can also use an HMD for motion capture.
 
-打开道乐师程序根目录下的 settings.json，将其中的 useHMD 字段的值，由 0 改为 1。
+Please open the options and check "uses HMD."
 
-![](../img/Fno9X1rEcF6EH3AIWG9kngqL4DVl.png#center)
+![](../img/2023_11_02_17_37_52-Dollars_VIVA.png#center)
 
-启动道乐师，可以看到程序中显示出头显。
+Launch Dollars VIVA, and you will see the headset displayed in the program.
 
 ![](../img/FvAjkltW_cXZtfW1RabtVNg2Sg9Y.png#center)
 
-之后您就可以正常使用道乐师了。
+Afterward, you can use Dollars VIVA as usual.
 
 ![](../img/FoNH-JQ72B-UZCbkyA_uVM3W_B5s.png#center)
 
-如果您希望头戴 VIVE Tracker 进行动捕，可以将 useHMD 字段改为 0。
-
-![](../img/Fle0PZw3HccAPJAiVcROdAgj61Pz.png#center)
+If you want to use VIVE Tracker on your head for motion capture, please make sure that this option is not checked.

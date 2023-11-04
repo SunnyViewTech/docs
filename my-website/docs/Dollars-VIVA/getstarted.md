@@ -1,76 +1,92 @@
 ---
 sidebar_position: 10
-title: 准备使用
+title: Wearing the Trackers
 ---
 
-# 准备使用
+# Wearing the Trackers
 
-在 SteamVR 的房间设置阶段，请确保 SteamVR 的正向（左图中箭头所指方向）和动捕演员面朝的方向一致。
+Before opening Dollars VIVA, it is recommended that you turn on the Trackers you are going to wear and ensure that each Tracker is being stably tracked on the SteamVR panel.
 
-![](../img/FnQ0l5F5DiMNNihvuOlQB_-wM7We.png#center)
+![](../img/2023-11-02-19-42-26-939.mp4.jpg#center)
 
-使用道乐师进行动捕，除了双手握 HTC VIVE 控制器之外，需要在额头，腰部，以及双脚脚面佩戴 HTC VIVE Tracker。
+:::dangerNote
+Stable tracking of Trackers is a prerequisite for good motion capture results. 
+
+Before starting motion capture, make sure that the icons on the SteamVR panel are not flashing.
+:::
+
+To perform motion capture with Dollars VIVA, in addition to holding HTC VIVE controllers in both hands, you need to wear HTC VIVE Trackers on your forehead, waist, and the top of both feet.
 
 ![](../img/FkljWrLx3A0Ziey9xwbMXmGEXX8M.png#center)
 
-佩戴头部追踪器时，请注意确保追踪器的绿灯指向上方。
+When wearing the tracker on your head, be sure to ensure that the green light of the tracker is pointing upwards.
 
 ![](../img/FgrS3TO83-n0tbFbzLjT7eFpNl0-.jpg#center)
 
-腰部控制器佩戴在前后方都可。
-
-请注意，VIVE Tracker 3.0 与 2.0 绿灯所在位置不同。3.0 的话就是绿灯所在边的对角指向上方。
+Please note that the location of the green light on the VIVE Tracker 3.0 is different from that on the 2.0. For the 3.0, the opposite corner of the side where the green light is located should be pointing upwards.
 
 ![](../img/Fh8_CGkjtgeLAi78SJW600jm1E90.png#center)
 
-您可以将脚部追踪器器固定在鞋面上，确保追踪更为稳定。
+The tracker can be worn on the front or back of the waist.
 
-![](https://elbrus.oss-cn-beijing.aliyuncs.com/FmDLmZ0G2He4vIPw6wYHFtkPXBkl.png#center)
+You can attach the foot trackers to the top of your shoes to ensure more stable tracking.
 
-手持 VIVE 手柄时，您可以四指微曲。
+![](../img/FmDLmZ0G2He4vIPw6wYHFtkPXBkl.png#center)
+
+When holding the VIVE controllers, you can slightly curl your four fingers.
 
 ![](../img/FkvOtdy9CTzfLicZm-8aayDAsQaK.png#center)
 
-然后用手指包裹住手柄曲面。
+Then wrap your fingers around the curved surface of the controller.
 
 ![](../img/Fsi1TUTwiufxtKITmnrcKlTePUHl.png#center)
 
-请注意确保您可以扣动到手柄扳机。
+Please make sure that you can pull the trigger on the controller.
 
 ![](../img/Fi9HKB4qS3vHtBQ88jAF46D7Lb7c.png#center)
 
-手部握法对于动捕质量有较大影响，请注意在动捕过程中维持握法不变。
+The way you hold your hands has a significant impact on the quality of motion capture, so please make sure to maintain the same grip throughout the motion capture process.
 
-您也可以在手部佩戴追踪器。左图是佩戴在手背的情况。
+You can also wear trackers on your hands. The following image shows the tracker worn on the back of the hand.
 
 ![](../img/Fq3lZe6EYODEvfoA29OPS-gv7Bbe.jpg#center)
 
-此时，您可以根据需要修改道乐师根目录下 settings.json 中的 HandTrackerVOffset 和 HandTrackerHOffset 两个值。
- 
-HandTrackerVOffset 代表追踪器底部中心和您手腕中心的垂直距离，单位米，下图中约为 3 厘米，HandTrackerVOffset 为 0.03。
+In this case, you need to adjust the vertical and horizontal offsets in the options dialog box according to the actual situation.
 
-![](../img/Frw7JTwnDZJDDcqWRLIu7L7NIBZr.png#center)
+The vertical offset represents the vertical distance between the center of the bottom of the tracker and the center of your wrist. In the image below, it is about 3 centimeters.
 
-HandTrackerHOffset 则代表追踪器底部中心和您手腕中心的水平距离，单位米，如果追踪器在您手腕的外侧，则为正值。下图中约为 6 厘米，HandTrackerHOffset 设为 0.06。
+![](../img/2023_11_02_20_35_25-Frw7JTwnDZJ.png#center)
 
-![](../img/Fitox_m2OcqTgPxo3VjaaU-6ZXW0.png#center)
+The horizontal offset represents the horizontal distance between the center of the bottom of the tracker and the center of your wrist. If the tracker is on the outside of your wrist, this is a positive value. In the image below, it is about 6 centimeters.
 
-您也可以将追踪器佩戴在手腕上方。
+![](../img/2023_11_02_20_35_53-Fitox_m2OcqTgPxo3VjaaU.png#center)
+
+The unit of measurement for entering the offset is meters, so we would enter 0.03 in the vertical offset and set the horizontal offset to 0.06.
+
+![](../img/2023_11_02_20_23_10-Dollars_VIVA.png#center)
+
+You can also wear the tracker on the upper side of your wrist.
 
 ![](../img/FpOD6I8yQuXtlw_-_pEvo16fR7em.jpg#center)
 
-同样，您可以修改 HandTrackerVOffset 和 HandTrackerHOffset，图中 HandTrackerVOffset 仍为 0.03.
+Similarly, you would need to adjust the offset values accordingly. In the image, the vertical offset remains at 0.03.
 
-![](../img/FmnMhm-L7UqIwMk5aH4f4OoFdRNU.png#center)
+![](../img/2023_11_02_20_39_35-FmnMhm-L7UqIwM.png#center)
 
-此时，追踪器在您手腕的内侧，HandTrackerHOffset 为负值，左图中约为 3 厘米，HandTrackerHOffset 设为 -0.03。
+At this time, since the tracker is on the inside of your wrist, the horizontal offset would be a negative value. In the following image, it is approximately 3 centimeters.
 
-![](../img/FryyGWUkLZhqc1Ao_TPQrmZb4lRf.png#center)
+![](../img/2023_11_02_20_39_59-FryyGWUkLZhqc1Ao_TPQ.png#center)
+
+Therefore, we would set the horizontal offset to -0.03.
+
+![](../img/2023_11_02_20_43_32-Dollars_VIVA.png#center)
 
 :::info
-如果您双手佩戴追踪器，请注意确保佩戴的位置相同。并且在更换动捕演员，或者调整佩戴位置时，根据需要修改 HandTrackerVOffset 和 HandTrackerHOffset。
+If you wear trackers on both hands, make sure they are positioned identically.
+
+Also, when changing the motion capture performer or adjusting the position of the trackers, modify the offset values as needed.
 :::
 
-肘部的追踪器，建议佩戴在靠近关节处的外侧，避免肌肉伸缩引起的追踪器移动。
+For the elbow tracker, it is recommended to wear it on the outside, near the joint, to avoid tracker movement caused by muscle flexion.
 
 ![](../img/Ft045U6qMKlZqgaaVcuB9KFST4BG.png#center)
