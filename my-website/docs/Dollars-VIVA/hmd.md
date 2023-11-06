@@ -7,9 +7,9 @@ title: Using an HMD for Motion Capture
 
 You can also use an HMD for motion capture.
 
-Please open the options and check "uses HMD."
+Please open the options and check "Use HMD."
 
-![](../img/2023_11_02_17_37_52-Dollars_VIVA.png#center)
+![](../img/2023_11_06_16_22_35-Dollars_VIVA.png#center)
 
 Launch Dollars VIVA, and you will see the headset displayed in the program.
 

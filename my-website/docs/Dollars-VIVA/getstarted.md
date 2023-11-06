@@ -51,7 +51,9 @@ You can also wear trackers on your hands. The following image shows the tracker 
 
 ![](../img/Fq3lZe6EYODEvfoA29OPS-gv7Bbe.jpg#center)
 
-In this case, you need to adjust the vertical and horizontal offsets in the options dialog box according to the actual situation.
+In this case, you need to adjust the vertical <b>(Hand Tracker V. Offset)</b> and horizontal <b>(Hand Tracker H. Offset)</b> offsets in the options dialog box according to the actual situation.
+
+![](../img/2023_11_06_16_25_19-Dollars_VIVA.png#center)
 
 The vertical offset represents the vertical distance between the center of the bottom of the tracker and the center of your wrist. In the image below, it is about 3 centimeters.
 
@@ -63,7 +65,7 @@ The horizontal offset represents the horizontal distance between the center of t
 
 The unit of measurement for entering the offset is meters, so we would enter 0.03 in the vertical offset and set the horizontal offset to 0.06.
 
-![](../img/2023_11_02_20_23_10-Dollars_VIVA.png#center)
+![](../img/2023_11_06_16_28_01-Dollars_VIVA.png#center)
 
 You can also wear the tracker on the upper side of your wrist.
 
@@ -79,7 +81,7 @@ At this time, since the tracker is on the inside of your wrist, the horizontal o
 
 Therefore, we would set the horizontal offset to -0.03.
 
-![](../img/2023_11_02_20_43_32-Dollars_VIVA.png#center)
+![](../img/2023_11_06_16_29_05-Dollars_VIVA.png#center)
 
 :::info
 If you wear trackers on both hands, make sure they are positioned identically.
