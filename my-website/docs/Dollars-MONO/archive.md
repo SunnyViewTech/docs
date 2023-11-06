@@ -5,6 +5,12 @@ title: Archive
 
 # Download Archive
 
+## Oct 10th, 2023
+- Dollars Markerless Mocap has been renamed as Dollars MONO
+- Minor bug fixes
+
+Download [v.231010](https://kilimanjaro.sunnyview.tech/Dollars_MONO_231010.zip)
+
 ## Sep 28th, 2023
 - Improve hand jitter
 - Fix iClone streaming issue
