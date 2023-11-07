@@ -50,6 +50,6 @@ You can modify the animation blueprint by changing the Begin Play event to Initi
 
 ![](../../img/566c2b857ae79a7f2b2c60a417bb0bb21911024894.png)
 
-Please note that switching animation blueprints at runtime may cause the character to have no animation. It is recommended to switch between motion capture and animation sequences within the same animation blueprint by using state changes. You can refer to [here](/ue-parentclass).
+Please note that switching animation blueprints at runtime may cause the character to have no animation. It is recommended to switch between motion capture and animation sequences within the same animation blueprint by using state changes. You can refer to [here](/ue-advanced).
 
 
