@@ -9,8 +9,15 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
-## Mannequin facing the wrong direction
+## Finger tracking support
 
+Dollars VIVA natively supports the use of Valve Index controllers for finger tracking.
+
+You can also use gloves with Dollars VIVA, and integrate fingers and body within the engine, as well as DCC software.
+
+You can see an example [here](/otherdevices).
+
+## Mannequin facing the wrong direction
 
 The direction of the mannequin is determined by two factors:
 
