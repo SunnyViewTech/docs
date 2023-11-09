@@ -55,7 +55,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Dollars MoCap Documents',
+        title: 'Dollars MoCap Documentation',
         logo: {
           alt: 'Dollars Logo',
           src: '/img/dollars_icon.png',
