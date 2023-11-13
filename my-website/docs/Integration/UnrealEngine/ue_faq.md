@@ -10,6 +10,15 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
+## How to Combine Facial and Motion
+
+You can combine facial animation and movement animation using the Apply Additive animation node, as demonstrated in the image below.
+
+![](../../img/20231113153601.jpg)
+
+You can find examples of combining expressions and movements in almost all of Dollars' Unreal samples. It is recommended to download these for reference. The download links can be found in the descriptions of the videos.
+
+
 ## BluePrint compile errors
 
 Suggest comparing against the video to check for errors in the blueprint, and particularly recommend downloading the example project from the video description for comparison.
