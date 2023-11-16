@@ -7,7 +7,7 @@ slug: /unity
 
 # Unity
 
-## Streaming to Unreal Engine
+## Streaming to Unity
 
 ### Record Unity Animation Clips
 
