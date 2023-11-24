@@ -1,7 +1,7 @@
 ---
 sidebar_position: 40
 title: SDK Guide
-slug: /sdk-spec
+slug: /sdk-guide
 ---
 
 # Dollars Markerless MoCap SDK Guide
