@@ -1,11 +1,11 @@
 ---
 sidebar_position: 20
-title: Multi-person motion capture
+title: Multi-person Motion Capture
 slug: /unity-multiplayer
 
 ---
 
-# Multi-person motion capture
+# Multi-person Motion Capture
 
 You can run the Dollars MoCap program on multiple computers separately, and gather the motion capture results into the same Unity scene to achieve multi-character interaction on the same scene.
 

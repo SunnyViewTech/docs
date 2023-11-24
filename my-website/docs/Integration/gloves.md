@@ -1,10 +1,10 @@
 ---
 sidebar_position: 40
-title: Use with other tracking devices
+title: Use with Other Tracking Devices
 slug: /otherdevices
 ---
 
-# Use with other tracking devices
+# Use with Other Tracking Devices
 
 All Dollars products can be used with other tracking devices and the tracking results can be integrated in the game engines and DCC software.
 
