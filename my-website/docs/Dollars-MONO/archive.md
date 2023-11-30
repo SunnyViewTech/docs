@@ -5,6 +5,11 @@ title: Archive
 
 # Download Archive
 
+## Nov 6th, 2023
+- Minor bug fixes
+
+Download [v.231106](https://kilimanjaro.sunnyview.tech/Dollars_MONO_231106.zip)
+
 ## Oct 10th, 2023
 - Dollars Markerless Mocap has been renamed as Dollars MONO
 - Minor bug fixes
