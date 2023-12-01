@@ -34,6 +34,21 @@ const FeatureList = [
     ),
   },
   {
+    title: 'Dollars EGAO',
+    link: '/category/dollars-egao',
+    Svg: '/img/face-scan.png',
+    description1: (
+      <>
+        A completely free facial capture software,
+      </>
+    ),
+    description2: (
+      <>
+      supporting VMC protocol, Unity, Unreal Engine, iClone8, and Virt-A-Mate
+      </>
+    ),
+  },
+  {
     title: 'Dollars VIVA',
     link: '/category/dollars-viva',
     Svg: '/img/motion-capture-viva.png',
