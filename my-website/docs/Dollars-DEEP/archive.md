@@ -5,6 +5,17 @@ title: Archive
 
 # Download Archive
 
+# Nov 29th, 2023
+- Fixed memory leaks caused by the Azure Kinect Sensor SDK
+- Improved tracking quality
+- Corrected issue with arms and legs moving on opposite sides
+- Added notifications for new version availability
+- Implemented error messaging when the iClone port is occupied
+- Conducted minor bug fixes
+- Minor bug fixes
+
+Download [v.231129](https://kilimanjaro.dollarsmocap.com/Dollars_DEEP_231129_2.zip)
+
 ## Nov 6th, 2023
 - Minor bug fixes
 
