@@ -66,6 +66,11 @@ const config = {
             href: 'https://www.dollarsmocap.com',
             position: 'right',
           },
+          {
+            label: 'Discord',
+            href: 'https://discord.gg/JNbb8sKjXH',
+            position: 'right',
+          },
         ],
       },
       footer: {
