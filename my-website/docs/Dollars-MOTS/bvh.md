@@ -3,7 +3,7 @@ sidebar_position: 50
 title: Record BVH Files
 ---
 
-# 录制 BVH 文件
+# Record BVH Files
 
 You can record BVH files by pressing the button in the top left corner.
 
