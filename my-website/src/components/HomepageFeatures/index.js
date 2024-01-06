@@ -64,6 +64,20 @@ to offer low-cost, high-quality full-body motion capture
     ),
   },
   {
+    title: 'Dollars MOTS',
+    link: '/category/dollars-mots',
+    Svg: '/img/T2M.png',
+    description1: (
+      <>
+    Generate full-body motions based on text!
+    </>
+    ),
+    description2: (
+      <>
+    </>
+    ),
+  },
+  {
     title: 'Integration with Game Engines and DCC Software',
     link: '/category/integration',
     Svg: '/img/digital-platform.png',
