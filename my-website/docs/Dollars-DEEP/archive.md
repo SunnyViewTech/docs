@@ -5,7 +5,13 @@ title: Archive
 
 # Download Archive
 
-# Nov 29th, 2023
+## Dec 11st, 2023
+- Added facial capture sensitivity parameter
+- Fixed streaming failure
+
+Download [v.231211](https://kilimanjaro.dollarsmocap.com/Dollars_DEEP_231211.zip)
+
+## Nov 29th, 2023
 - Fixed memory leaks caused by the Azure Kinect Sensor SDK
 - Improved tracking quality
 - Corrected issue with arms and legs moving on opposite sides
