@@ -22,7 +22,7 @@ In Blender, real-time facial capture for VRM requires two steps: modifying the p
 
 Usually it is in C:\Users\\{username}\AppData\Roaming\Blender Foundation\Blender\3.0\scripts\addons\VMC4B.
 
-- Download config.py from [here](https://kilimanjaro.sunnyview.tech/config.py) and overwrite the file with the same name in the core directory under VMC4B directory.
+- Download config.py from [here](https://kilimanjaro.dollarsmocap.com/config.py) and overwrite the file with the same name in the core directory under VMC4B directory.
 
 The difference between the two is as follows, the left side is modified.
 
