@@ -91,7 +91,7 @@ TongueOut
 
 - If not, make the change.
 
-For example this VRM file, https://hub.vroid.com/en/characters/4525722107349736/models/6119522983111913549
+For example this VRM file, https://hub.vroid.com/characters/6076267521797946217/models/7503229929586800812
 
 ![](../../../img/2024_01_23_10_36_19-Blender.png)
 
