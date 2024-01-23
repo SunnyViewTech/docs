@@ -5,6 +5,15 @@ title: Archive
 
 # Download Archive
 
+## Nov 30th, 2023
+- Improved tracking quality
+- Added notifications for new version availability
+- Implemented error messaging when the iClone port is occupied
+- Conducted minor bug fixes
+- Minor bug fixes
+
+Download [v.231130](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_231130.zip)
+
 ## Nov 6th, 2023
 - Minor bug fixes
 
