@@ -29,7 +29,7 @@ const FeatureList = [
     ),
     description2: (
       <>
-        by utilizing Azure Kinect
+        by using a depth camera
       </>
     ),
   },

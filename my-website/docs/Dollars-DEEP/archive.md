@@ -5,6 +5,11 @@ title: Archive
 
 # Download Archive
 
+## Jan 19th, 2024
+- Fixed hip movement failure
+
+Download [v.240119](https://kilimanjaro.dollarsmocap.com/Dollars_DEEP_240119.zip)
+
 ## Dec 11st, 2023
 - Added facial capture sensitivity parameter
 - Fixed streaming failure

@@ -18,7 +18,11 @@ In Blender, real-time facial capture for VRM requires two steps: modifying the p
 
 ## Modifying the plug-in file
 
-- Find the directory where VMC4B is located.
+:::info
+If you are using VMC4B version 1.1.2，you don't need this step.
+:::
+
+- - Find the directory where VMC4B is located.
 
 Usually it is in C:\Users\\{username}\AppData\Roaming\Blender Foundation\Blender\3.0\scripts\addons\VMC4B.
 
