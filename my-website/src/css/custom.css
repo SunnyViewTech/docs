@@ -43,3 +43,6 @@ footer
 {
     font-size: 0.8em;
 }
+:root {
+  --ifm-font-color-base: #444;
+}

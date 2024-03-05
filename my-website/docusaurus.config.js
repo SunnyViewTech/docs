@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/dollars_icon.png',
 
   // Set the production url of your site here
-  url: 'https://docs.sunnyview.tech',
+  url: 'https://docs.dollarsmocap.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -49,6 +49,15 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-7F76Y3V6C1',
+        anonymizeIP: true,
+      },
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
