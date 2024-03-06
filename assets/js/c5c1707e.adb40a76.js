@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5847],{8261:e=>{e.exports=JSON.parse('{"title":"Dollars MOTS","slug":"/category/dollars-mots","permalink":"/category/dollars-mots","navigation":{"previous":{"title":"Record BVH Files","permalink":"/Dollars-VIVA/bvh"},"next":{"title":"Get Started","permalink":"/Dollars-MOTS/getstarted"}}}')}}]);

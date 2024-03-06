@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9231],{746:e=>{e.exports=JSON.parse('{"title":"FAQ","description":"Common questions about Dollars MoCap products.","slug":"/category/faq","permalink":"/category/faq","navigation":{"previous":{"title":"SDK Guide","permalink":"/sdk-guide"},"next":{"title":"MONO","permalink":"/mono-faq"}}}')}}]);
