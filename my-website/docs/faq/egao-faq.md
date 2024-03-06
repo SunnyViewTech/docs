@@ -1,6 +1,6 @@
 ---
-sidebar_position: 90
-title: FAQ
+sidebar_position: 30
+title: EGAO
 slug: /egao-faq
 ---	
 

@@ -1,6 +1,7 @@
 ---
-sidebar_position: 90
-title: FAQ 
+sidebar_position: 50
+title: MOTS
+slug: /mots-faq
 ---	
 
 # FAQ 

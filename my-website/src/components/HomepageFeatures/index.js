@@ -92,6 +92,21 @@ to offer low-cost, high-quality full-body motion capture
       </>
     ),
   },
+  {
+    title: 'FAQ',
+    link: '/category/faq',
+    Svg: '/img/faq.png',
+    description1: (
+      <>
+      Common questions about
+      </>
+    ),
+    description2: (
+      <>
+       usage and integration
+      </>
+    ),
+  },
 ];
 
 function Feature({Svg, title, description1, description2, link}) {

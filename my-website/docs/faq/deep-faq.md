@@ -1,6 +1,7 @@
 ---
-sidebar_position: 90
-title: FAQ 
+sidebar_position: 20
+title: DEEP
+slug: /deep-faq
 ---	
 
 # FAQ

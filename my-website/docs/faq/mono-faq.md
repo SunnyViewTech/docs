@@ -1,6 +1,8 @@
 ---
-sidebar_position: 90
-title: 📢 FAQ 
+sidebar_position: 10
+title: MONO
+slug: /mono-faq
+
 ---	
 
 # FAQ

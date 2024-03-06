@@ -1,6 +1,7 @@
 ---
-sidebar_position: 60
-title: 📢 FAQ 
+sidebar_position: 40
+title: VIVA
+slug: /viva-faq
 ---	
 
 # FAQ
