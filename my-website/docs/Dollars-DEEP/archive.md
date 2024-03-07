@@ -5,6 +5,22 @@ title: Archive
 
 # Download Archive
 
+## Mar 6th, 2024
+- Better standing posture
+- VRChat streaming support
+
+Download [v.240306](https://kilimanjaro.dollarsmocap.com/Dollars_DEEP_240306.zip)
+
+## Feb 27th, 2024
+- Fixed facial capture errors
+- Fixed hip tracking errors
+- Minor bug fixes
+
+Download [v.240227](https://kilimanjaro.dollarsmocap.com/Dollars_DEEP_240227.zip)
+
+## Feb 2nd, 2024
+- Femto Bolt support
+
 ## Jan 19th, 2024
 - Fixed hip movement failure
 
