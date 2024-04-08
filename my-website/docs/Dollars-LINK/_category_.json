@@ -1,8 +1,7 @@
 {
   "label": "Dollars LINK",
-  "position": 50,
+  "position": 46,
   "link": {
     "type": "generated-index",
-    "description": "The documentation for Dollars MONO is also suitable for Dollars EGAO. Below are some aspects that are unique to Dollars EGAO or different from MONO."
   }
 }
