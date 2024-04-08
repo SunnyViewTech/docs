@@ -78,6 +78,21 @@ to offer low-cost, high-quality full-body motion capture
     ),
   },
   {
+    title: 'Dollars LINK',
+    link: '/category/dollars-link',
+    Svg: '/img/link.png',
+    description1: (
+      <>
+    Use Live Link Face 
+    </>
+    ),
+    description2: (
+      <>
+      for facial capture in iClone8
+    </>
+    ),
+  },
+  {
     title: 'Integration with Game Engines and DCC Software',
     link: '/category/integration',
     Svg: '/img/digital-platform.png',
@@ -94,7 +109,7 @@ to offer low-cost, high-quality full-body motion capture
   },
   {
     title: 'FAQ',
-    link: '/category/faq',
+    link: '/faq',
     Svg: '/img/faq.png',
     description1: (
       <>

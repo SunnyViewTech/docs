@@ -1,6 +1,6 @@
 ---
-sidebar_position: 50
-title: MOTS
+sidebar_position: 70
+title: FAQ
 slug: /mots-faq
 ---	
 

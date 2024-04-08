@@ -1,6 +1,6 @@
 ---
-sidebar_position: 10
-title: MONO
+sidebar_position: 90
+title: FAQ
 slug: /mono-faq
 
 ---	

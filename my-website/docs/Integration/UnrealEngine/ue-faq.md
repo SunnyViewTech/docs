@@ -1,6 +1,6 @@
 ---
 sidebar_position: 60
-title: Unreal Engine
+title: FAQ
 slug: /ue-faq
 ---	
 
@@ -14,7 +14,7 @@ import TOCInline from '@theme/TOCInline';
 
 You can combine facial animation and movement animation using the Apply Additive animation node, as demonstrated in the image below.
 
-![](../img/20231113153601.jpg)
+![](../../img/20231113153601.jpg)
 
 You can find examples of combining expressions and movements in almost all of Dollars' Unreal samples. It is recommended to download these for reference. The download links can be found in the descriptions of the videos.
 
@@ -39,7 +39,7 @@ You can try the following two points:
 
 - If it's a MetaHuman project, remove the Post Process Animation Blueprint from the Animation Blueprint
 
-![](../img/2023_11_03_23_28_05-DollarsMetaHuman_FC.png)
+![](../../img/2023_11_03_23_28_05-DollarsMetaHuman_FC.png)
 
 ## Unable to copy Ctrl Rig in Unreal Engine 5.1
 
@@ -57,7 +57,7 @@ Please refer to the following video, starting at around 4:43.
 
 You can modify the animation blueprint by changing the Begin Play event to Initialize Animation, as shown in the following image
 
-![](../img/566c2b857ae79a7f2b2c60a417bb0bb21911024894.png)
+![](../../img/566c2b857ae79a7f2b2c60a417bb0bb21911024894.png)
 
 Please note that switching animation blueprints at runtime may cause the character to have no animation. It is recommended to switch between motion capture and animation sequences within the same animation blueprint by using state changes. You can refer to [here](/ue-advanced).
 
