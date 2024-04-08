@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6498],{5015:e=>{e.exports=JSON.parse('{"title":"Dollars LINK","slug":"/category/dollars-link","permalink":"/category/dollars-link","navigation":{"previous":{"title":"FAQ","permalink":"/mots-faq"},"next":{"title":"Get Started","permalink":"/Dollars-LINK/getstarted"}}}')}}]);
