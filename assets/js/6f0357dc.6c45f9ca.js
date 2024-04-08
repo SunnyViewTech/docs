@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[187],{8455:e=>{e.exports=JSON.parse('{"title":"DCC Software","slug":"/category/dcc-software","permalink":"/category/dcc-software","navigation":{"previous":{"title":"Multi-person Motion Capture","permalink":"/unity-multiplayer"},"next":{"title":"Blender","permalink":"/category/blender"}}}')}}]);
