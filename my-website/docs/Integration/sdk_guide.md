@@ -1,5 +1,5 @@
 ---
-sidebar_position: 40
+sidebar_position: 90
 title: SDK Guide
 slug: /sdk-guide
 ---

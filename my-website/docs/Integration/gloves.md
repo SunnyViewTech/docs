@@ -1,5 +1,5 @@
 ---
-sidebar_position: 40
+sidebar_position: 70
 title: Use with Other Tracking Devices
 slug: /otherdevices
 ---

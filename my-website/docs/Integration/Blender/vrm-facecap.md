@@ -30,7 +30,7 @@ Usually it is in C:\Users\\{username}\AppData\Roaming\Blender Foundation\Blender
 
 The difference between the two is as follows, the left side is modified.
 
-![](../../../img/2024_01_23_10_07_00-config.py.png)
+![](../../img/2024_01_23_10_07_00-config.py.png)
 
 ## Confirming VRM Blend Shape Proxy
 
@@ -97,15 +97,15 @@ TongueOut
 
 For example this VRM file, https://hub.vroid.com/characters/6076267521797946217/models/7503229929586800812
 
-![](../../../img/2024_01_23_10_36_19-Blender.png)
+![](../../img/2024_01_23_10_36_19-Blender.png)
 
 Before,
 
-![](../../../img/2024_01_23_10_44_00-Blender.png)
+![](../../img/2024_01_23_10_44_00-Blender.png)
 
 After,
 
-![](../../../img/2024_01_23_10_44_14-Blender.png)
+![](../../img/2024_01_23_10_44_14-Blender.png)
 
 - After all changes are made, export the VRM.
 
@@ -115,4 +115,4 @@ After,
 
 For example this VRM file, https://hub.vroid.com/characters/7173430845109381047/models/6304450858378362082
 
-![](../../../img/2024_01_23_12_58_02-Blender.png)
+![](../../img/2024_01_23_12_58_02-Blender.png)

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 10
-title: iClone & CTA
-slug: /iclone
+title: Video Tutorials
+slug: /iClone-tutorials
 
 ---
 
@@ -18,8 +18,3 @@ slug: /iclone
 ## Using BVH files in iClone8
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-mleAdkP4x8?si=69cGEObQ7I2Mlsj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Using BVH files in CTA5
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Hx61uYG3UP8?si=69cGEObQ7I2Mlsj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
