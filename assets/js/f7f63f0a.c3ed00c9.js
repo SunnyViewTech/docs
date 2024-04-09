@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2602],{1396:e=>{e.exports=JSON.parse('{"title":"iClone","slug":"/category/iclone","permalink":"/category/iclone","navigation":{"previous":{"title":"VRM Facial Cap","permalink":"/blender-vrm-facecap"},"next":{"title":"Using the Plugin","permalink":"/iClone"}}}')}}]);
