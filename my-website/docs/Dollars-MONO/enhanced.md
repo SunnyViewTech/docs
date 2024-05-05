@@ -5,7 +5,7 @@ title: Enhanced Mode
 
 # Enhanced Mode
 
-You can check the "Enhanced Mode" option in the Settings window to achieve higher quality motion capture.
+You can check the "Enhanced Mode" option in the Options window to achieve higher quality motion capture.
 
 ![](../img/2024_05_05_21_07_18-Dollars_MONO.png)
 
