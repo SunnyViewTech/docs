@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7875],{4410:e=>{e.exports=JSON.parse('{"title":"Blender","slug":"/category/blender","permalink":"/category/blender","navigation":{"previous":{"title":"FAQ","permalink":"/unity-faq"},"next":{"title":"Video Tutorials","permalink":"/blender"}}}')}}]);
