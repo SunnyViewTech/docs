@@ -19,6 +19,10 @@ slug: /ue
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fsNpU4sruSI?si=GywYrdof1zjxi00A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### CC4 Characters in UE
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/vlGl9-5zZDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Animate CharacterCreator in UE
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NDslO7iYeto?si=COF8upk1l5qZl8v2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

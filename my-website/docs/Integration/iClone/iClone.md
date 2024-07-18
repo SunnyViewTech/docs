@@ -18,3 +18,11 @@ slug: /iClone-tutorials
 ## Using BVH files in iClone8
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-mleAdkP4x8?si=69cGEObQ7I2Mlsj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Using BVH files in Cartoon Animator 5
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Hx61uYG3UP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Real-time Motion Capture in Cartoon Animator 5
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/lMGz0tBdFyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
