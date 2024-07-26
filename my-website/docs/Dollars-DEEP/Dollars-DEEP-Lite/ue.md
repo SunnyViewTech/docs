@@ -5,7 +5,8 @@ title: Using DEEP Lite in Unreal Engine
 
 # Using DEEP Lite in Unreal Engine
 
-You need to download the Unreal Engine plugin and the UE4 Mannequin blueprint compatible with DEEP Lite from here.
+You need to download the [Unreal Engine plugin](https://kilimanjaro.dollarsmocap.com/DEEP_Lite/Dollars.zip) and the [UE4 Mannequin blueprint](https://kilimanjaro.dollarsmocap.com/DEEP_Lite/Dollars_UE4Mannequin.zip
+) compatible with DEEP Lite.
 
 The usage of the plugin is essentially the same as other Dollars products. You can refer to this link for more information.
 
