@@ -34,21 +34,6 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Dollars EGAO',
-    link: '/category/dollars-egao',
-    Svg: '/img/face-scan.png',
-    description1: (
-      <>
-        A completely free facial capture software,
-      </>
-    ),
-    description2: (
-      <>
-      supporting VMC protocol, Unity, Unreal Engine, iClone8, and Virt-A-Mate
-      </>
-    ),
-  },
-  {
     title: 'Dollars VIVA',
     link: '/category/dollars-viva',
     Svg: '/img/motion-capture-viva.png',
@@ -64,17 +49,33 @@ to offer low-cost, high-quality full-body motion capture
     ),
   },
   {
-    title: 'Dollars MOTS',
-    link: '/category/dollars-mots',
-    Svg: '/img/T2M.png',
+    title: 'Dollars EGAO',
+    link: '/category/dollars-egao',
+    Svg: '/img/face-scan.png',
     description1: (
       <>
-    Generate full-body motions based on text!
-    </>
+        A completely free facial capture software,
+      </>
     ),
     description2: (
       <>
-    </>
+      supporting VMC protocol, Unity, Unreal Engine, iClone8, and Virt-A-Mate
+      </>
+    ),
+  },
+  {
+    title: 'Dollars NVIS',
+    link: '/category/dollars-nvis',
+    Svg: '/img/nvis.png',
+    description1: (
+      <>
+       Powered by NVIDIA,
+      </>
+    ),
+    description2: (
+      <>
+      delivering facial capture close to an iPhone
+      </>
     ),
   },
   {
@@ -89,6 +90,20 @@ to offer low-cost, high-quality full-body motion capture
     description2: (
       <>
       for facial capture in iClone8
+    </>
+    ),
+  },
+  {
+    title: 'Dollars MOTS',
+    link: '/category/dollars-mots',
+    Svg: '/img/T2M.png',
+    description1: (
+      <>
+    Generate full-body motions based on text!
+    </>
+    ),
+    description2: (
+      <>
     </>
     ),
   },

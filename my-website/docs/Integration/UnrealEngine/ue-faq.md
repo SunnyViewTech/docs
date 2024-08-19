@@ -23,9 +23,13 @@ You can find examples of combining expressions and movements in almost all of Do
 
 Suggest comparing against the video to check for errors in the blueprint, and particularly recommend downloading the example project from the video description for comparison.
 
-## Dropped frames in Unreal Engine
+## Motion Lag in Unreal Engine
 
-When the Unreal Engine window is active, it may cause motion capture to drop frames. You can try:
+Make sure that you DO NOT check Use Less CPU when in Background in the Editor Preferences.
+
+![](../../img/2024_08_13_19_58_26.png)
+
+And, when the Unreal Engine window is active, it may cause motion capture to drop frames. You can try:
 
 - Keeping the window of another program active
 

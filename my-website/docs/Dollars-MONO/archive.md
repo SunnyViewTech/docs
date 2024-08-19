@@ -5,6 +5,18 @@ title: Archive
 
 # Download Archive
 
+
+## Apr 30th, 2024
+- Added enhanced mode!
+
+- Download [v.240430](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_240430.zip)
+
+## Jan 22nd, 2024
+- Added facial capture sensitivity settings
+- Optimized BVH output
+
+- Download [v.240122](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_240122.zip)
+
 ## Nov 30th, 2023
 - Improved tracking quality
 - Added notifications for new version availability
