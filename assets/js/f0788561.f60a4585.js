@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2655],{9048:e=>{e.exports=JSON.parse('{"title":"iClone and CTA","slug":"/category/iclone-and-cta","permalink":"/category/iclone-and-cta","navigation":{"previous":{"title":"non-VRM Facial Cap","permalink":"/blender-facecap"},"next":{"title":"Using the Plugin","permalink":"/iClone"}}}')}}]);
