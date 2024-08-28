@@ -14,6 +14,7 @@ import TOCInline from '@theme/TOCInline';
 
 Please confirm the following points,
 
+- The runtime library matching your depth camera has already been selected, refer to [Switching Runtime Libraries](/Dollars-DEEP/ilbraries) for details
 - DEEP is in full-body motion capture mode
 - The motion capture doll is blue
 - The lower body of the motion capture actor is fully captured in the frame
