@@ -4,10 +4,10 @@ title: VRChat
 slug: /vrchat
 ---
 
-# VRChat Fullbody Tracking
+# VRChat Full-Body Tracking
 
 :::info
-The following Dollars MoCap product supports VRChat FBT,
+The following Dollars MoCap product supports VRChat Full-Body Trackings,
 
 - Dollars DEEP (since v.240306)
 :::
@@ -24,11 +24,11 @@ Please enable VRChat Streaming. If necessary, modify the IP address and port.
 
 #### Enable OSC
 
-Open the Action Menu, and access the OSC settings via Options > OSC
+Open the Action Menu, and access the OSC settings via **Options > OSC**.
 
 ![](../img/osc-option1.png)
 
-Click 'Enabled' to activate OSC.
+Click **Enabled** to activate OSC.
 
 ![](../img/osc-option2.png)
 
@@ -36,13 +36,13 @@ Depending on the controller you use, the method to open the Action Menu varies. 
 
 https://docs.vrchat.com/docs/action-menu
 
-After enabling OSC, the 'Sit/Stand' option in the Quick Menu will be replaced with the 'Calibrate FBT' option.
+After enabling OSC, the **Sit/Stand** option in the Quick Menu will be replaced with the **Calibrate FBT** option.
 
 ![](../img/osc-option3.png)
 
 #### Legacy Calibration Mode
 
-Additionally, it's recommended to set the Legacy Calibration option to On in the Settings.
+Additionally, it's recommended to set the **Legacy Calibration** option to On in the Settings.
 
 ![](../img/osc-option4.png)
 
@@ -50,7 +50,7 @@ Preparation is now complete.
 
 ## Calibration
 
-After completing calibration in Dollars DEEP, click the "Calibrate FBT" option in the Quick Menu.
+After completing calibration in Dollars DEEP, click the **Calibrate FBT** option in the Quick Menu.
 
 ![](../img/osc1.png)
 

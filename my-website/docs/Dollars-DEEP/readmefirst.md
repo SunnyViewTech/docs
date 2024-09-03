@@ -7,33 +7,39 @@ title: Read Me First
 
 The important points applicable to Dollars MONO also apply to Dollars DEEP, so we reiterate them here.
 
-## The frame should be sufficiently large
+## Frame Coverage Recommendations
 
-Whether your input source is a camera or a video, **always ensure that the frame coverage of the acor is larger than the frame coverage of the virtual character**.
+Whether your input source is a camera or a video, **always ensure that the actor's frame coverage is larger than that of the virtual character**.
 
+### Shoulder-Up View
 If you want the virtual character to appear from the shoulders up, it's best to film the actor down to the elbows.
 
-![](../img/2023-10-20_21_13_48_1.png#center)
+![](../img/2023-10-20_21_13_48_1.png)
 
+### Elbow-Up View
 If you want the virtual character to appear from the elbows up, it's best to film the actor down to the hands.
 
-![](../img/2023-10-20_21_13_48_2.png#center)
+![](../img/2023-10-20_21_13_48_2.png)
 
-If you wish for the virtual character's hands to be fully visible, it's best to film the actor down to below the waist, so that when the hands hang down, they are still within the camera's frame.
+### Full Hand Visibility
+If you wish for the virtual character's hands to be fully visible, film the actor down to below the waist, ensuring that when the hands hang down, they remain within the camera's frame.
 
-![](../img/2023-10-20_21_13_48_3.png#center)
+![](../img/2023-10-20_21_13_48_3.png)
 
-If you wish for the virtual character to be fully visible, then the actor also needs to be fully in the frame.
+### Full-Body View
+If you want the virtual character to be fully visible, the actor also needs to be fully within the frame.
 
-![](../img/2023-10-20_21_13_48_4.png#center)
+![](../img/2023-10-20_21_13_48_4.png)
 
-The only exception is, if you wish for the virtual character to be fully visible in the frame, but you are using the upperbody mode, then the actor can be filmed down to below the waist, without needing to be fully in the frame.
+:::info[Exception]
+If you're using the upper-body mode and want the virtual character fully visible, the actor can be filmed down to below the waist without needing to be entirely within the frame.
 
-![](../img/2023-10-20_21_13_48_5.png#center)
+![](../img/2023-10-20_21_13_48_5.png)
 
+:::
 ## Calibration before motion capture
 
-Calibrating before motion capture can ensure better results in capturing movements and expressions.
+Proper calibration before motion capture ensures better accuracy in capturing movements and expressions.
 
 :::info
 During calibration, please relax your body and facial expressions, let your hands hang naturally by your sides, and look straight ahead.

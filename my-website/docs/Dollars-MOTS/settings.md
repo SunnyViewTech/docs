@@ -20,5 +20,7 @@ If another program on your computer is already using this port, you can resolve 
 ![](../img/2024_01_06_13_55_14-Dollars_MOTS.png)
 
 :::info
-After changing the port, you need to restart the program to apply the changes.
+
+After changing the port, you need to restart the programs to apply the changes.
+
 :::

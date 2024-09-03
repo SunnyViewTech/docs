@@ -5,17 +5,17 @@ title: Gesture Recognition
 
 # Gesture Recognition
 
-Dollars DEEP Lite currently supports the recognition of the following gestures,
+Dollars DEEP Lite currently supports recognition of the following gestures,
 
 ## Right Hand Swipe Left
 
 ## Left Hand Swipe Right
 
 ## Raise Right Hand
-Raise the right hand above the shoulder and maintain for 1 second.
+Raise the right hand above the shoulder and hold  for 1 second.
 
 ## Raise Left Hand
-Raise the left hand above the shoulder and maintain for 1 second.
+Raise the left hand above the shoulder and hold  for 1 second.
 
 ## Jump in Place
 

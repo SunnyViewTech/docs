@@ -10,12 +10,11 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
-## Character floating in Unity scene.
+## Character Floating in Unity Scenes
 
-If you find that you have moved a short distance in front of the camera, and Dollars MONO has recognized your movement, but in the Unity scene, your virtual character does not move, or moves a long distance, as shown in the image below,
+If you find that after moving a short distance in front of the camera, Dollars MONO has recognized your movement, but in the Unity scene, your character either does not move or moves a disproportionately long distance (as shown in the image below), this issue is usually caused by the scale of the Hips bone or its parent nodes not being set to 1.
+
 ![](../../img/unityfaq1.gif)
-
-This is usually because the Scale of the Hips bone of the virtual character, or its parent nodes, is not set to 1.
 
 For example, in the image below, the Scale of the Armature parent node of the Hips bone is 18.1.
 
@@ -29,6 +28,6 @@ At the same time, in the model's Import Settings, change the Scale Factor to the
 
 ![](../../img/2023_11_13_17_41_40.png)
 
-Afterwards, you will see that the virtual character can move normally.
+After making these adjustments, the character should move normally in the Unity scene.
 
 ![](../../img/unityfaq2.gif)

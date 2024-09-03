@@ -1,13 +1,13 @@
 ---
 sidebar_position: 50
-title: Record BVH Files
+title: Recording BVH Files
 ---
 
-# Record BVH Files
+# Recording BVH Files
 
-You can press the button in the picture to start and end the recording of the BVH file.
+To start and stop recording a BVH file, simply press the button shown in the image.
 
-![](../img/2023-10-20_22_49_40-806424_940206.png#center)
+![](../img/2023-10-20_22_49_40-806424_940206.png)
 
 :::info
 
@@ -17,6 +17,6 @@ Estimated size: 5M per minute
 
 :::
 
-The recorded files will be saved with the current timestamp as the file name in the root directory of the Dollar MONO program.
+The recorded files will be saved in the root directory of the Dollars MONO program, with the current timestamp used as the file name.
 
-![](../img/Fl6Q4YjY87r8iBedfrMyncM6LFMK.png#center)
+![](../img/Fl6Q4YjY87r8iBedfrMyncM6LFMK.png)

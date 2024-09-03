@@ -5,16 +5,19 @@ title: Calibration
 
 # Calibration
 
-When we place the camera, sometimes we tilt the camera to a certain degree in order to get a more comprehensive view of the person being captured.
+When positioning the camera, you may sometimes tilt it slightly to obtain a more comprehensive view of the person being captured.
 
-![](../img/FgAMw_QlQvpdfiT603iB_RPESgTL.png#center)
+![](../img/FgAMw_QlQvpdfiT603iB_RPESgTL.png)
 
-In this case, from the camera's point of view, the person will lean forward, resulting in inaccurate motion capture results.
+However, this tilt can cause the person to appear as if they are leaning forward from the camera's perspective, leading to inaccurate motion capture results.
 
-![](../img/FijtOg5pMMwatxMWa0xk9r2EYQPL.png#center)
+![](../img/FijtOg5pMMwatxMWa0xk9r2EYQPL.png)
 
-You can press the button in the red box to calibrate.
+To correct this, you can use the calibration feature by pressing the button within the red box.
 
-![](../img/2023-10-20_22_42_49-495404_724805..png#center)
+![](../img/2023-10-20_22_42_49-495404_724805..png)
 
-Please sit upright during calibration, when the countdown ends and the "Calibration Completed" message is displayed, you can start capturing motion.
+Calibration Steps:
+
+1. Sit upright during calibration.
+2. When the countdown ends and the "Calibration Completed" message is displayed, you can begin capturing motion.

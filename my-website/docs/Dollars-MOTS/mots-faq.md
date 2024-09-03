@@ -10,8 +10,8 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
-## Does Dollars MOTS support multi-language input?
+## Multi-Language Input Supports
 
 Dollars MOTS currently only supports input in English.
 
-Multi-language support is in the development plan.
+Multi-language supports is in the development plan.

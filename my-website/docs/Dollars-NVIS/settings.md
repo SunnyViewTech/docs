@@ -6,6 +6,7 @@ title: Settings
 # Settings
 
 Similar to other Dollars MoCap products, you can select your camera and calibrate using the button in the upper left corner. 
+
 ![](../img/2024_08_13_17_58_57-Dollars_NVIS2.png)
 
 By clicking the gear icon, you can access more options. 

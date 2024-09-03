@@ -40,11 +40,11 @@ That's pretty much it for preparation, let's move on to adding motion capture to
 
 ## Add Motion Capture
 
-Import the DollarsMoCap Unity plugin into the project and add the DollarsMoCap prefab into the scene.
+Import the DollarsMoCap Unity plugin into the project and add the **DollarsMoCap** prefab into the scene.
 
 ![](../img/image5.png#center)
 
-Then add the MoCapSrc component to UnityChanKAGURA, setting the DollarsMoCap prefab you just added to the src variable.
+Then add the **MoCapSrc** component to UnityChanKAGURA, setting the **DollarsMoCap** prefab you just added to the **src** variable.
 
 ![](../img/image6.png#center)
 
@@ -52,11 +52,11 @@ The motion capture is now complete.
 
 ## Import the Rokoko plugin
 
-Next, we import the downloaded Rokoko plugin. After importing it, we will get the following shader error, let's ignore them.
+Import the downloaded Rokoko plugin. After importing, you may encounter shader errors¡ªthese can be ignored.
 
 ![](../img/image7.png#center)
 
-Select RokokoPluginExampleScene_CustomActors in the Rokoko/Scenes directory, right-click on it, and select Open Scene Additive in the menu.
+In the Rokoko/Scenes directory, select **RokokoPluginExampleScene_CustomActors**, right-click on it, and select **Open Scene Additive**.
 
 ![](../img/image8.png#center)
 
@@ -64,33 +64,35 @@ The scene will be overlaid with an existing scene.
 
 ![](../img/image9.png#center)
 
-We select the Rokoko and StudioManager objects in Rokoko's scene and drag them into our scene.
+Select the **Rokoko** and **StudioManager** objects in Rokoko's scene and drag them into your scene.
 
-After that we right click on RokokoPluginExampleScene_CustomActors and select Remove Scene. Don't save the changes.
+After that, right click on **RokokoPluginExampleScene_CustomActors** and select **Remove Scene**. Don't save the changes.
 
 ![](../img/image10.png#center)
 
-After that, we deactivate the Environment object under the Rokoko object, as well as the Canvas component in Rokoko/CommandAPI/Canvas and Rokoko/Hierarchy_UI.
+Deactivate the **Environment** object under the **Rokoko** object, as well as the **Canvas** component in **Rokoko/CommandAPI/Canvas** and **Rokoko/Hierarchy_UI**.
 
 ![](../img/image11.png#center)
 
-The scene has now come back.
+The scene is now back to normal.
 
 ## Add Smartgloves
 
-We add Rokoko's Actor and Human Bone Mapping components to UnityChanKAGURA, and fill in the Profile Name of the Actor component with the corresponding name from Rokoko Studio.
+Add Rokoko's **Actor** and **HumanBoneMapping** components to UnityChanKAGURA.
+
+In the **Actor** component, fill in the **Profile Name** with the corresponding name from Rokoko Studio.
 
 ![](../img/image12.png#center)
 
-By clicking Copy from Animator in the HumanBoneMapping component, the component automatically recognizes the bones from UnityChanKAGURA and fills in the corresponding fields.
+In the **HumanBoneMapping** component, click **Copy from Animator**. This will automatically recognize the bones from UnityChanKAGURA and fill in the corresponding fields.
 
 ![](../img/image13.png#center)
 
-What we'll do next is to remove the fields outside of the finger, so that Rokoko only controls the finger, and the end result looks like this.
+Remove the fields besides those of the fingers, so that Rokoko only controls the fingers. The final setup should look like this,
 
 ![](../img/image14.png#center)
 
-Also, we need to make the UnityChan's finger joints as flat as possible in the editor so that we can get a better capture.
+In the editor, adjust UnityChan's finger joints to be as flat as possible to achieve better capture results.
 
 Before adjustment,
 
@@ -100,8 +102,8 @@ After adjustment,
 
 ![](../img/image16.png#center)
 
-Once that's done, start up Dollars VIVA and Rokoko Studio separately, and you can see that UnityChan's body is now controlled by Dollars, and its hands are now controlled by Rokoko.
+Once everything is set up, start Dollars VIVA and Rokoko Studio separately. You should see that UnityChan's body is controlled by Dollars VIVA, while her hands are controlled by Rokoko.
 
-The result,
+Final result,
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/YifUK3P_7h0?si=uTrddXNoAwcF1KMC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

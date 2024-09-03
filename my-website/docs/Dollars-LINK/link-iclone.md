@@ -8,12 +8,14 @@ slug: /connect-to-iclone
 
 ## Using the iClone Plugin
 
-After confirming that Dollars LINK can receive facial capture data from Live Link Face, you can learn [how to use the Dalle plugin in iClone here](/iClone).
+After confirming that Dollars LINK can receive facial capture data from Live Link Face, you can proceed to use the Dollars MoCap plugin in iClone.
 
-Then, you can perform facial capture in iClone via Live Link Face.
+You can learn how to use the plugin [here](/iClone).
+
+Once set up, you can perform facial capture in iClone via Live Link Face.
 
 ## Modifying the Port
 
-If you need to change the port, you can do so in the options.
+If you need to modify the port that listens to Live Link Face, you can change the corresponding port value in the Options window.
 
 ![](../img/2024_04_09_12_50_33-Dollars_LINK.png)

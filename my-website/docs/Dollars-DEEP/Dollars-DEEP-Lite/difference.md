@@ -5,7 +5,9 @@ title: Difference from DEEP
 
 # Difference from DEEP
 
-Dollars DEEP Lite is a lower-tier version of DEEP. DEEP Lite sacrifices some capture capabilities and precision but improves transmission smoothness, making it suitable for creating interactive human applications in Unreal Engine.
+Dollars DEEP Lite is a lower-tier version of DEEP.
+
+While DEEP Lite sacrifices some capture capabilities and precision, it improves transmission smoothness, making it ideal for creating interactive human applications in Unreal Engine.
 
 Here is a detailed comparison between DEEP and DEEP Lite,
 

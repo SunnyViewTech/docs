@@ -4,7 +4,7 @@ title: non-VRM Facial Cap
 slug: /blender-facecap
 ---
 
-# Real-time Face Capture for non-VRM Files
+# Real-time Face Capture for Non-VRM Files
 
 For non-VRM files, you can achieve real-time facial capture using the LiveLinkFace streaming method and the help of third-party plugins.
 :::info

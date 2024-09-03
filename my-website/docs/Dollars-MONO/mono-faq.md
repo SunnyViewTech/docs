@@ -11,43 +11,43 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
-## The camera cannot be turned on
+## The Camera Cannot Be Turned On
 
-We recommend that you try to turn on the camera using another program to confirm that the camera is properly connected to your computer.
+We recommend trying to turn on the camera using another program to confirm that it is properly connected to your computer. 
 
-You can also go to Camera Settings in Winows to check if Dollars MONO has permission to use the camera.
+Additionally, check the Camera Settings in Windows to ensure that Dollars MONO has permission to use the camera.
 
-## The Character are floating or stuck in the ground
+## Characters Are Floating or Stuck in the Grounds
 
-When you are using the camera for real-time capture, performing a [calibration](/Dollars-MONO/calibration) and selecting the appropriate [Motion Capture Mode](/Dollars-MONO/mode) before you start motion capture will alleviate floating or sinking into the ground.
+If you're using the camera for real-time capture, performing a [calibration](/Dollars-MONO/calibration) and selecting the appropriate [Motion Capture Mode](/Dollars-MONO/mode) before starting will help prevent characters from floating or sinking into the ground.
 
 If you are experiencing this problem when motion capture is performed via video, you can try to play the video via an external player, capture the playback using OBS, adjust the position appropriately, and then input Dollars MONO via the virtual camera.
 
-You can refer to [Using OBS Virtual Camera as Input](/Dollars-MONO/virtualcam) for more information about how to use the virtual camera of OBS.
+For more information on using the OBS virtual camera, refer to the section [Using Virtual Camera as Input](/Dollars-MONO/virtualcam).
 
-## Video capture is stuttering
+## Video Capture Is Stuttering
 
 You can try to lower the video resolution, or video frame rate.
 
 Or you can use an external player to play the video, and then transfer the video into Dollars MONO via OBS's virtual camera. Using an external player can also provide you some playback control, which is easier to use.
 
-You can refer to [Using OBS Virtual Camera as Input](/Dollars-MONO/virtualcam) for more information about how to use the virtual camera of OBS.
+You can refer to [Using Virtual Camera as Input](/Dollars-MONO/virtualcam) for more information about how to use the OBS virtual camera.
 
-## Availability of Mac, mobile version
+## Availability of Mac and Mobile Versionss
 
 There are no Mac or cell phone versions of the Dollars MoCap products at this time.
 
-## How to use your cell phone camera
+## How to Use Your Cell Phone Camera as Input
 
-First, you need to find the software for your cell phone and map the image from your cell phone to your computer. Then, you can use the OBS virtual camera to transfer the image to Dollars MONO.
+To use your cell phone camera, first, find appropriate software to stream the image from your phone to your computer. Then, use the OBS virtual camera to transfer the image into Dollars MONO.
 
-You can refer to [Using OBS Virtual Camera as Input](/Dollars-MONO/virtualcam) for more information about how to use the virtual camera of OBS.
+You can refer to [Using Virtual Camera as Input](/Dollars-MONO/virtualcam) for more information about how to use the OBS virtual camera.
 
-## Does it support multiple people/multiple cameras
+## Support for Multiple People or Cameras
 
-Dollars MONO currently only supports single person, single camera.
+Dollars MONO currently supports only a single person and a single camera.
 
-If you want to have multiple characters in the same scene, you can refer to the following tutorial:
+If you want to have multiple characters in the same scene, you can refer to the following tutorials:
 
 [Multi-person motion capture in UE](/ue-multiplayer)
 

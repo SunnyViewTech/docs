@@ -62,7 +62,7 @@ MediaPipe's human body will be tilted forward (see below), the degree of tilt va
 
 Therefore, it is recommended to perform a calibration before starting in order to achieve better motion capture results.
 
-![](../img/mediapipe.png#center)
+![](../img/mediapipe.png)
 
 Just relax and look ahead while calibrating.
 

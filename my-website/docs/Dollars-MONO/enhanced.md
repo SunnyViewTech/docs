@@ -16,8 +16,8 @@ Enhanced mode offers improved performance in the following areas,
 
 Please be aware of the following when using enhanced mode,
 
-- Enhanced mode uses more GPU.
-- If there are multiple people in the frame, tracking in enhanced mode may be more prone to interference.
-- In landscape mode, the range of motion for the actor is limited. The ideal range is indicated by the red lines in the diagram below.
+- **Increased GPU Usage:** Enhanced Mode requires more GPU resources.
+- **Multiple Subjects:** If there are multiple people in the frame, tracking in Enhanced Mode may be more susceptible to interference.
+- **Landscape Mode Limitations:** In landscape mode, the actor's range of motion is limited. The ideal range is indicated by the red lines in the diagram below.
 
 - ![](../img/2024_05_05_20_59_11-Dollars_MONO.png)

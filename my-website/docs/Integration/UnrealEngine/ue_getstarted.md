@@ -19,34 +19,34 @@ You need to download the Unreal plugin and the required Control Rig from the Dol
 
 ## Copy the Plugin to Your Projects
 
-Unzip the downloaded file and copy the Dollars directory and the Control Rig directory (here we use UE4 Mannequin as an example) to the Content directory of your project. Make sure the Dollars directory structure remains unchanged.
+Unzip the downloaded file and copy the **Dollars** directory and the Control Rig directory (here we use UE4 Mannequin as an example) to the **Content** directory of your project. Make sure the **Dollars** directory structure remains unchanged.
 
 After opening your project, the file structure should look like below,
 
 ![](../../img/2024_05_29_16_57_36-dollars42.png)
 
 :::warning
-Changing the location of the Dollars directory during the initial copy will cause compilation errors.
+Changing the location of the **Dollars** directory during the initial copy will cause compilation errors.
 :::
 
 :::info
-If you wish to change the location of the Dollars directory, you can open the project, ensure it compiles correctly, and then move the directory within the Unreal Editor.
+If you wish to change the location of the **Dollars** directory, you can open the project, ensure it compiles correctly, and then move the directory within the Unreal Editor.
 :::
 
 ## Activate the Plugins
 
-In UE4, the plugins you need to activate include Ctrl Rig and OSC.
+- In Unreal Engine 4 (UE4): Activate the **Ctrl Rig** and **OSC** plugins.
 
 ![](../../img/2024_05_29_16_18_33-dollars426.png)
 
 ![](../../img/2024_05_29_16_18_53-dollars426r.png)
 
-In UE5, since Ctrl Rig is activated by default, you only need to activate OSC.
+- In Unreal Engine 5 (UE5): Since **Ctrl Rig** is activated by default, you only need to activate **OSC**.
 
 ![](../../img/2024_05_29_16_11_11-dollars52.png)
 
 ## Get Started!
 
-After activating the plugins and restarting the project, the preparations are over and you can start the integration with your characters.
+After activating the plugins and restarting the project, the preparations are complete, and you can start integrating Dollars MoCap with your characters.
 
 You can further explore methods for integrating different skeletons with Dollars MoCap [here](/ue).
