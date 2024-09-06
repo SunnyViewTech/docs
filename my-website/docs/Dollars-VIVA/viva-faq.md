@@ -44,4 +44,5 @@ This allows you to capture the movements of multiple individuals simultaneously 
 
 ## Valve Index Finger Tracking Does Not Work
 
-Turn on all the controllers and make sure they are steadily visible in the SteamVR panel before opening Dollars VIVA.
+- Turn on all the controllers and make sure they are steadily visible in the SteamVR panel before opening Dollars VIVA.
+- Make sure the SteamVR UI window is not open. You can close it by pressing the menu button.
