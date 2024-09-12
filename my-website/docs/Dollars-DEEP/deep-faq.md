@@ -10,7 +10,7 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
-## Lower Body Does Not Moves
+## Lower Body Does Not Move
 
 If the lower body of the motion capture avatar is not moving, please confirm the following:
 
