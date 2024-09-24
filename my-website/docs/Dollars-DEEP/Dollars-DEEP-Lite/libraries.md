@@ -7,7 +7,7 @@ title: Installation and Switching Runtime Libraries
 
 ## Download
 
-First, download the required DLL files from [here](https://kilimanjaro.dollarsmocap.com/DEEP_Lite/Dollars_DEEP_Lite_DLLs.zip.
+First, download the required DLL files from [here](https://kilimanjaro.dollarsmocap.com/DEEP_Lite/Dollars_DEEP_Lite_DLLs.zip).
 
 After downloading, unzip the files and place them in the DEEP Lite directory.
 

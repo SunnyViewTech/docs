@@ -15,6 +15,8 @@ The following Dollars MoCap products support facial capture using the LiveLinkFa
 
 :::
 
+## Dollars MoCap Subject
+
 For these products, you can enable the corresponding switch in the settings. You can also modify the port used according to your needs.
 
 ![](../../img/2024_08_13_18_50_08-Dollars_EGAO.png)
@@ -34,3 +36,9 @@ Once you see the Dollars MoCap subject, you can select it as the facial capture 
 The following is an example of MetaHuman.
 
 ![](../../img/2024_08_13_18_56_11.png)
+
+## Using Your Own Characters
+
+If you want to use Live Link Face with your own characters, please refer to this video,
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/bFVMd7pMb3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
