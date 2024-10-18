@@ -13,4 +13,4 @@ https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/
 
 Once properly installed, run NVIS and you will see two windows for the NVIS front end (top half of the image below) as well as the back end (bottom half of the image below).
 
-![](../img/2024_08_13_17_50_05-2024-08-1.png)
+![](../img/2024_10_18_11_49_36.jpg)
