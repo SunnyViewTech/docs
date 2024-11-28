@@ -1,9 +1,9 @@
 ---
 sidebar_position: 40
-title: Facial Capture
+title: Facial Capture Settings
 ---
 
-# Facial Capture
+# Facial Capture Settings
 
 Dollars MONO provides ARKit-compatible facial expression capture.
 

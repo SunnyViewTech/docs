@@ -5,17 +5,27 @@ title: Archive
 
 # Download Archive
 
+## Nov 15th, 2024
+- BVH now supports Cascadeur format
+
+Download [v.241115](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_241115.zip)
+
+## July 11st, 2024
+- Facial capture in UE now compatible with Live Link Face
+- Various minor fixes
+
+Download [v.240711](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_240711.zip)
 
 ## Apr 30th, 2024
 - Added enhanced mode!
 
-- Download [v.240430](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_240430.zip)
+Download [v.240430](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_240430.zip)
 
 ## Jan 22nd, 2024
 - Added facial capture sensitivity settings
 - Optimized BVH output
 
-- Download [v.240122](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_240122.zip)
+Download [v.240122](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_240122.zip)
 
 ## Nov 30th, 2023
 - Improved tracking quality
