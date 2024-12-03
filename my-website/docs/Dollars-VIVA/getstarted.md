@@ -29,7 +29,7 @@ When wearing the tracker on your head, be sure to ensure that the green light of
 
 Please note that the location of the green light on the VIVE Tracker 3.0 is different from that on the 2.0.
 
-For the 3.0, the corner opposite the side with the green light should be pointing upwards.s
+For the 3.0, the corner opposite the side with the green light should be pointing upwards.
 
 ![](../img/Fh8_CGkjtgeLAi78SJW600jm1E90.png)
 
