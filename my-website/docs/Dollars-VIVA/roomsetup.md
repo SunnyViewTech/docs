@@ -5,9 +5,23 @@ title: Room Setup Using Only VIVE Tracker
 
 # Room Setup Using Only VIVE Tracker
 
-In standard SteamVR room setup, both a headset and controllers are typically required. If the headset is unavailable, it can be simulated by modifying configuration files. However, if controllers are also absent, room setup cannot be completed as expected. In such cases, SteamVR defaults to using a base station as the origin of the tracking space, which can lead to significant limitations during use. This guide introduces a method for performing room setup using only the VIVE Tracker.
+In standard SteamVR room setup, both a headset and controllers are typically required. If the headset is unavailable, it can be simulated by modifying configuration files. However, if controllers are also absent, room setup cannot be completed as expected. In such cases, SteamVR defaults to using a base station as the origin of the tracking space, which can lead to significant limitations during use.
 
-If you are unfamiliar with the process of simulating a headset, please refer to the article below for detailed instructions.
+This guide introduces a method for performing room setup using only the VIVE Trackers and the Dollars VIVA program.
+
+:::info Note
+
+Although Dollars VIVA is a paid software, the features demonstrated in this guide are completely free to use.
+
+You can download the latest version of Dollars VIVA here.
+
+https://www.dollarsmocap.com/download
+
+:::
+
+## Simulating a Headset
+
+Before starting the setup, you need to first simulate a headset. Please refer to the article below for detailed instructions.
 
 https://vvvv.org/blog/using-htc-vive-trackers-without-headset
 
@@ -21,9 +35,13 @@ If the modifications have been overwritten by SteamVR, you will need to make the
 
 :::
 
-Once the modification is successfully applied, you should see a hexagonal icon upon launching SteamVR. Please note that when using a simulated headset, the room setup dialog will appear each time SteamVR is launched. You can safely ignore this prompt.
+Once the modification is successfully applied, you should see a hexagonal icon upon launching SteamVR.
+
+Please note that when using a simulated headset, the room setup dialog will appear each time SteamVR is launched. You can safely ignore this prompt.
 
 ![](../img/01.png)
+
+## Steps for Room Setup
 
 Before starting the setup, you need to decide the origin point and orientation of the actor within the motion capture space.
 
@@ -43,7 +61,7 @@ Ensure the green light on the Tracker(2.0) is facing the desired orientation of 
 
 ![](../img/03.png)
 
-For the 3.0, the corner opposite the side with the green light should be facing the desired orientation.
+For the VIVE Tracker 3.0, the corner opposite the side with the green light should be facing the desired orientation.
 
 ![](../img/Fh8_CGkjtgeLAi78SJW600jm1E90.png)
 
