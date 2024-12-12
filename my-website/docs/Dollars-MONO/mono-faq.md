@@ -11,6 +11,56 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
 
+## Program Crashes on Startup
+
+**Reason 1: Missing Required Redistributable**
+
+**Solution:**
+
+1. Visit the following page and download the latest Visual C++ redistributable:
+
+[Microsoft Official Download Page](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
+Download: [vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+
+2. Install the redistributable and restart your computer, then try launching MONO again.
+
+**Reason 2: Camera Initialization Failure**
+
+**Solution:**
+1. Download the latest version of OBS from here. https://obsproject.com
+
+2. Open OBS and add a **Video Capture Device**.
+
+![](../img/2024_12_12_11_25_04-OBS.png)
+
+3. In the **Device** list, locate **OBS Virtual Camera** and note its position in the list.
+
+![](../img/2024_12_12_11_25_30.png)
+
+4. Open the **settings.json** file located in the MONO directory (if this file does not exist, you can find it at: `C:\Users\{Your Username}\AppData\LocalLow\SunnyView\Dollars_MONO`)
+
+![](../img/2024_12_12_11_30_09.png)
+
+5. In the **settings.json** file, change the value of **camID** to the position of **OBS Virtual Camera** in the list minus 1.
+
+For example, if **OBS Virtual Camera** is in the 3rd position, set **camID** to 2.
+
+![](../img/2024_12_12_11_33_49.png)
+
+6. Launch MONO and check if it starts correctly.
+
+If MONO starts normally after these changes, it suggests that one of the cameras in your list may be causing the crash. You can try each camera one by one and observe which one causes the program to crash.
+
+If you identify a camera causing the issue, please send the list of cameras in MONO to hi@sunnyview.tech, and specify which camera is causing the crash. We will further investigate the issue. Thank you for your cooperation and support!
+
+:::danger Known Issue
+
+The **screen-capture-recorder** camera from ShareX may cause MONO to crash. We recommend avoiding the selection of this camera using the steps outlined above.
+
+:::
+
+
 ## The Camera Cannot Be Turned On
 
 We recommend trying to turn on the camera using another program to confirm that it is properly connected to your computer. 
