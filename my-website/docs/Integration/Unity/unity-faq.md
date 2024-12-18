@@ -31,3 +31,19 @@ At the same time, in the model's Import Settings, change the Scale Factor to the
 After making these adjustments, the character should move normally in the Unity scene.
 
 ![](../../img/unityfaq2.gif)
+
+## Face Capture Not Working
+
+You can check the following,
+
+- Ensure that the character's Blendshape is valid.
+- Verify that the face capture mapping file is correctly set.
+- Ensure there are no other components that might alter the Blendshape value (such as **VRMInstance**).
+
+For **VRMInstance**, you can set its **Update Type** to **None**.
+
+![](../../img/2024_12_18_11_38_31.png)
+
+If you want to keep the Update for **VRMInstance**, set the **Update Type** to **Update**, and in the **Script Execution Order**, place **VRMInstance** before **FaceCapController** to ensure that Dollars MoCap face capture data is not overwritten.
+
+![](../../img/2024_12_18_11_38_49.png)
