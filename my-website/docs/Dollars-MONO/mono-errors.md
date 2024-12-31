@@ -24,7 +24,7 @@ Here are some common error messages in MONO and their solutions,
 - In Windows settings, ensure that Dollars MONO has permission to access the camera.
 - Use the built-in Camera app in Windows to test if the camera is functioning properly.
 - Close any other software that may be using the camera and try again.
-- 
+
 ## Playback Error
 
 **Possible Causes:**
@@ -36,6 +36,21 @@ Here are some common error messages in MONO and their solutions,
 - Use a compatible video format (MP4 with H.264 encoding is recommended).
 - If the file does not play, try re-encoding the video file.
 
+## The Directory Contains Non-English Characters
+
+**Possible Causes:**
+
+The directory or path where the MONO program is located contains non-English characters (such as CJK characters, special symbols, etc.)
+
+**Solutions:**
+
+Ensure that the directory and path where the program is located only contain English characters (including letters, numbers, and common symbols).
+
+For example:
+
+Correct path: `C:\Program Files\Dollars_MONO`
+
+Incorrect path: `C:\程序文件\Dollars_MONO`
 
 ## Port already in use
 

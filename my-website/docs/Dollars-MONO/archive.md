@@ -5,6 +5,13 @@ title: Archive
 
 # Download Archive
 
+## Nov 28th, 2024
+- Integrated NVIS facial capture
+- Improved video playback experience
+- Enhanced mode enabled by default
+
+Download [v.241128](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_241128.zip)
+
 ## Nov 15th, 2024
 - BVH now supports Cascadeur format
 
@@ -68,7 +75,6 @@ Download [v.230918](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230918
 - (Partial) Fixed hand jitter during video playback
 
 Download [v.230903](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230903.zip)
- 
 
 ## July 22nd, 2023
 - VAM Facial Capture
@@ -86,7 +92,6 @@ Download [v.230722](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230722
 
 Download [v.230708](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230708.zip)
 
-
 ## June 26th, 2023
 - Brand new motion solving engine!
 - Fixed frame drops in BVH files
@@ -99,7 +104,6 @@ Download [v.230626](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230626
 - Minor bug fixes
 
 Download [v.230421](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230421.zip)
-
 
 ## March 6th, 2023
 - Add a relay camera to share webcam across multiple programs
