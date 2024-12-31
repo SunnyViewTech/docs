@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="generator" content="Docusaurus v3.5.2">
 <title data-rh="true">Error Messages | Dollars MoCap - SunnyViewTech</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://docs.dollarsmocap.com/img/docusaurus-social-card.jpg"><meta data-rh="true" name="twitter:image" content="https://docs.dollarsmocap.com/img/docusaurus-social-card.jpg"><meta data-rh="true" property="og:url" content="https://docs.dollarsmocap.com/Dollars-MONO/mono-errors"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Error Messages | Dollars MoCap - SunnyViewTech"><meta data-rh="true" name="description" content="When MONO encounters an error, an appropriate message will be displayed at the top of the program interface."><meta data-rh="true" property="og:description" content="When MONO encounters an error, an appropriate message will be displayed at the top of the program interface."><link data-rh="true" rel="icon" href="/img/dollars_icon.png"><link data-rh="true" rel="canonical" href="https://docs.dollarsmocap.com/Dollars-MONO/mono-errors"><link data-rh="true" rel="alternate" href="https://docs.dollarsmocap.com/Dollars-MONO/mono-errors" hreflang="en"><link data-rh="true" rel="alternate" href="https://docs.dollarsmocap.com/Dollars-MONO/mono-errors" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://1NN5UDWXQ6-dsn.algolia.net" crossorigin="anonymous"><link rel="search" type="application/opensearchdescription+xml" title="Dollars MoCap - SunnyViewTech" href="/opensearch.xml"><link rel="stylesheet" href="/assets/css/styles.d091ce2b.css">
-<script src="/assets/js/runtime~main.854955d8.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.8fca0d66.js" defer="defer"></script>
 <script src="/assets/js/main.52cece73.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -24,7 +24,6 @@
 <li>In Windows settings, ensure that Dollars MONO has permission to access the camera.</li>
 <li>Use the built-in Camera app in Windows to test if the camera is functioning properly.</li>
 <li>Close any other software that may be using the camera and try again.</li>
-<li></li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="playback-error">Playback Error<a href="#playback-error" class="hash-link" aria-label="Direct link to Playback Error" title="Direct link to Playback Error">​</a></h2>
 <p><strong>Possible Causes:</strong></p>
@@ -36,6 +35,14 @@
 <li>Use a compatible video format (MP4 with H.264 encoding is recommended).</li>
 <li>If the file does not play, try re-encoding the video file.</li>
 </ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="the-directory-contains-non-english-characters">The Directory Contains Non-English Characters<a href="#the-directory-contains-non-english-characters" class="hash-link" aria-label="Direct link to The Directory Contains Non-English Characters" title="Direct link to The Directory Contains Non-English Characters">​</a></h2>
+<p><strong>Possible Causes:</strong></p>
+<p>The directory or path where the MONO program is located contains non-English characters (such as CJK characters, special symbols, etc.)</p>
+<p><strong>Solutions:</strong></p>
+<p>Ensure that the directory and path where the program is located only contain English characters (including letters, numbers, and common symbols).</p>
+<p>For example:</p>
+<p>Correct path: <code>C:\Program Files\Dollars_MONO</code></p>
+<p>Incorrect path: <code>C:\程序文件\Dollars_MONO</code></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="port-already-in-use">Port already in use<a href="#port-already-in-use" class="hash-link" aria-label="Direct link to Port already in use" title="Direct link to Port already in use">​</a></h2>
 <p><strong>Possible Causes:</strong></p>
 <ul>
@@ -50,6 +57,6 @@
 <p><strong>Possible Causes:</strong></p>
 <p>When using the NVIS module, the required library files may not have been installed correctly.</p>
 <p><strong>Solutions:</strong></p>
-<p>Please refer to the instructions <a href="/Dollars-MONO/facialcap-module">here</a> to download and install the necessary dynamic library files.</p></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/Dollars-MONO/engines"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Stream</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/mono-faq"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">FAQ</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#camera-error" class="table-of-contents__link toc-highlight">Camera Error</a></li><li><a href="#playback-error" class="table-of-contents__link toc-highlight">Playback Error</a></li><li><a href="#port-already-in-use" class="table-of-contents__link toc-highlight">Port already in use</a></li><li><a href="#dll-not-found" class="table-of-contents__link toc-highlight">DLL Not Found</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">SunnyView Technology Co.Ltd.<br>www.dollarsmocap.com<br>All Rights Reserved<br><br>Built with Docusaurus</div></div></div></footer></div>
+<p>Please refer to the instructions <a href="/Dollars-MONO/facialcap-module">here</a> to download and install the necessary dynamic library files.</p></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/Dollars-MONO/engines"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Stream</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/mono-faq"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">FAQ</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#camera-error" class="table-of-contents__link toc-highlight">Camera Error</a></li><li><a href="#playback-error" class="table-of-contents__link toc-highlight">Playback Error</a></li><li><a href="#the-directory-contains-non-english-characters" class="table-of-contents__link toc-highlight">The Directory Contains Non-English Characters</a></li><li><a href="#port-already-in-use" class="table-of-contents__link toc-highlight">Port already in use</a></li><li><a href="#dll-not-found" class="table-of-contents__link toc-highlight">DLL Not Found</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">SunnyView Technology Co.Ltd.<br>www.dollarsmocap.com<br>All Rights Reserved<br><br>Built with Docusaurus</div></div></div></footer></div>
 </body>
 </html>
