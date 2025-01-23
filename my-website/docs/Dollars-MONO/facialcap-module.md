@@ -9,6 +9,13 @@ Starting from version v.241128, MONO provides two facial capture modules: EGAO a
 
 ![](../img/2024_11_28_15_10_39.png)
 
+:::warning
+
+The macOS version of MONO currently only supports the EGAO facial capture module.
+
+:::
+
+
 ## EGAO
 
 EGAO is the facial capture module included with MONO since v.230708. It offers basic facial capture with very low system load, making it suitable for lightweight applications.
