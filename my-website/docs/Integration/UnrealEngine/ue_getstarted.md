@@ -49,4 +49,4 @@ If you wish to change the location of the **Dollars** directory, you can open th
 
 After activating the plugins and restarting the project, the preparations are complete, and you can start integrating Dollars MoCap with your characters.
 
-You can further explore methods for integrating different skeletons with Dollars MoCap [here](/ue).
+You can further explore methods for integrating different skeletons with Dollars MoCap [here](/ue-characters).
