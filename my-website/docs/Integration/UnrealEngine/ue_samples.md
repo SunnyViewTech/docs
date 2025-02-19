@@ -7,7 +7,9 @@ slug: /ue-samples
 # UE Samples Projects
 
 :::info
-Please open each project with the corresponding version of Unreal Engine.
+For MetaHuman projects that don’t rely on third-party plugins, right-click the .uproject file to upgrade to a higher version of Unreal Engine.
+
+For projects with specific plugins like Character Creator, VRM, or Daz3D, use the Unreal version they were designed for if you’re unsure how to upgrade the plugins.
 :::
 
 ## MetaHuman
