@@ -1,5 +1,5 @@
 ---
-sidebar_position: 18
+sidebar_position: 14
 title: Facial Capture Using LiveLinkFace Method
 slug: /ue-livelinkface
 ---

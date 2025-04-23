@@ -1,5 +1,5 @@
 ---
-sidebar_position: 19
+sidebar_position: 10
 title: Using Your Characters
 slug: /ue-characters
 ---	

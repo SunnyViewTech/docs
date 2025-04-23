@@ -2,7 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-const FeatureList = [
+const MotionCaptureProducts = [
   {
     title: 'Dollars MONO',
     link: '/category/dollars-mono',
@@ -40,14 +40,17 @@ const FeatureList = [
     description1: (
       <>
     Using HTC Vive and compatible hardwares,
-    </>
+      </>
     ),
     description2: (
       <>
 to offer low-cost, high-quality full-body motion capture
-    </>
+      </>
     ),
   },
+];
+
+const FacialCaptureProducts = [
   {
     title: 'Dollars EGAO',
     link: '/category/dollars-egao',
@@ -85,14 +88,17 @@ to offer low-cost, high-quality full-body motion capture
     description1: (
       <>
     Use Live Link Face 
-    </>
+      </>
     ),
     description2: (
       <>
       for facial capture in iClone8
-    </>
+      </>
     ),
   },
+];
+
+const InnovativeProducts = [
   {
     title: 'Dollars MOTS',
     link: '/category/dollars-mots',
@@ -100,13 +106,30 @@ to offer low-cost, high-quality full-body motion capture
     description1: (
       <>
     Generate full-body motions based on text!
-    </>
+      </>
     ),
     description2: (
       <>
-    </>
+      </>
     ),
   },
+  {
+    title: 'Dollars SOMA',
+    link: '/category/dollars-soma',
+    Svg: '/img/victory.png',
+    description1: (
+      <>
+       Camera-based Body and Hand Gesture Recognition
+      </>
+    ),
+    description2: (
+      <>
+      </>
+    ),
+  },
+];
+
+const IntegrationFeatures = [
   {
     title: 'Integration with Game Engines and DCC Software',
     link: '/category/integration',
@@ -156,13 +179,87 @@ function Feature({Svg, title, description1, description2, link}) {
   );
 }
 
+// For the second row features, we'll use a wider layout (col--6 instead of col--4)
+function AdditionalFeature({Svg, title, description1, description2, link}) {
+  return (
+    <div className={clsx('col col--6')} >
+      <a href={link} style={{ textDecoration: 'none'}}>
+          <div className="text--center">
+            <img src={Svg} alt="alternative text" className={styles.featureSvg} />
+          </div>
+          <div className="text--center padding-horiz--md">
+            <h3 style={{marginTop:'2em'}}>{title}</h3>
+            <p>{description1}<br/>{description2}</p>
+            <p></p>
+          </div>
+      </a>
+    </div>
+  );
+}
+
+// For the innovative products, we'll use a centered layout
+function InnovativeFeature({Svg, title, description1, description2, link}) {
+  return (
+    <div className={clsx('col col--6 offset-col--3')} >
+      <a href={link} style={{ textDecoration: 'none'}}>
+          <div className="text--center">
+            <img src={Svg} alt="alternative text" className={styles.featureSvg} />
+          </div>
+          <div className="text--center padding-horiz--md">
+            <h3 style={{marginTop:'2em'}}>{title}</h3>
+            <p>{description1}<br/>{description2}</p>
+            <p></p>
+          </div>
+      </a>
+    </div>
+  );
+}
+
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props, idx) => (
+          <div className="col col--12">
+            <h2 className="text--center" style={{marginBottom: '2rem', fontSize: '2rem', fontWeight: 'bold'}}>MoCap Products</h2>
+          </div>
+        </div>
+        <div className="row">
+          {MotionCaptureProducts.map((props, idx) => (
             <Feature key={idx} {...props} />
+          ))}
+        </div>
+        
+        <div className="row" style={{marginTop: '4rem'}}>
+          <div className="col col--12">
+            <h2 className="text--center" style={{marginBottom: '2rem', fontSize: '2rem', fontWeight: 'bold'}}>FaceCap Products</h2>
+          </div>
+        </div>
+        <div className="row">
+          {FacialCaptureProducts.map((props, idx) => (
+            <Feature key={idx} {...props} />
+          ))}
+        </div>
+        
+        <div className="row" style={{marginTop: '4rem'}}>
+          <div className="col col--12">
+            <h2 className="text--center" style={{marginBottom: '2rem', fontSize: '2rem', fontWeight: 'bold'}}>Interaction Products</h2>
+          </div>
+        </div>
+        <div className="row">
+          {InnovativeProducts.map((props, idx) => (
+            <InnovativeFeature key={idx} {...props} />
+          ))}
+        </div>
+        
+        <div className="row" style={{marginTop: '4rem'}}>
+          <div className="col col--12">
+            <h2 className="text--center" style={{marginBottom: '2rem', fontSize: '2rem', fontWeight: 'bold'}}>Intergration and FAQ</h2>
+          </div>
+        </div>
+        <div className="row">
+          {IntegrationFeatures.map((props, idx) => (
+            <AdditionalFeature key={idx} {...props} />
           ))}
         </div>
       </div>
