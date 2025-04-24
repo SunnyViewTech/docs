@@ -5,6 +5,18 @@ title: Archive
 
 # Download Archive
 
+## Mar 30th, 2025
+- Optimization for inZOI
+- Bug fixes
+
+Download [v.250330](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_250330_2.zip)
+
+## Jan 3rd, 2025
+- MONO runs at 60 FPS!
+- Bug fixes
+
+Download [v.250103](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_250103_2.zip)
+
 ## Nov 28th, 2024
 - Integrated NVIS facial capture
 - Improved video playback experience
