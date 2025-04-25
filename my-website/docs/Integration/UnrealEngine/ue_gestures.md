@@ -17,18 +17,20 @@ The following Dollars MoCap products support sending gesture events to UE,
 
 The process of receiving gesture events in an Unreal project is similar to receiving motion capture data. The steps are as follows:
 
-## 1. Add the Plugin
+## Listening for Gesture Events
+
+### 1. Add the Plugin
 
 First, you need to add the plugin to your project. You can view related information [here](/ue-getstarted).
 
-## 2. Prerequisites
+### 2. Prerequisites
 
 To receive gesture events, please ensure the following conditions are met:
 
 - Your character blueprint inherits from ```BP_DollarsMoCapActor```
 - Add  ```BP_DollarsReceiver``` to the scene and select this Receiver in your character blueprint.
 
-## 3. Receiving Gesture Events
+### 3. Receiving Gesture Events
 
 In addition to the above settings, you also need to perform the following operations:
 
