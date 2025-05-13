@@ -23,7 +23,7 @@ https://www.dollarsmocap.com/download
 
 Before starting the setup, you need to first simulate a headset. Please refer to the article below for detailed instructions.
 
-https://vvvv.org/blog/using-htc-vive-trackers-without-headset
+https://vvvv.org/blog/2018/using-htc-vive-trackers-without-headset/
 
 :::warning Note
 
