@@ -4,6 +4,12 @@ title: non-VRM Facial Cap
 slug: /blender-facecap
 ---
 
+:::danger Note
+The method introduced here relies on third-party paid plugins.
+
+If you prefer to use the free, native DollarsMoCap Blender plugin, please refer to [this section](/blender-plugin).
+:::
+
 # Real-time Face Capture for Non-VRM Files
 
 For non-VRM files, you can achieve real-time facial capture using the LiveLinkFace streaming method and the help of third-party plugins.

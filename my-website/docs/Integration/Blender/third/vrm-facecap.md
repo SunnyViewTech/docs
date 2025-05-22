@@ -4,6 +4,12 @@ title: VRM Facial Cap
 slug: /blender-vrm-facecap
 ---
 
+:::danger Note
+The method introduced here relies on third-party paid plugins.
+
+If you prefer to use the free, native DollarsMoCap Blender plugin, please refer to [this section](/blender-plugin).
+:::
+
 # Real-time Facial Capture for VRM Files
 
 :::info Version used in this article
@@ -34,7 +40,7 @@ Download config.py from [here](https://kilimanjaro.dollarsmocap.com/config.py) a
 
 The difference between the two is as follows, the left side is modified.
 
-![](../../img/2024_01_23_10_07_00-config.py.png)
+![](../../../img/2024_01_23_10_07_00-config.py.png)
 
 ## Confirming VRM Blend Shape Proxy
 
@@ -108,15 +114,15 @@ If the blend shape names do not follow the required format, modify them.
 
 For example this VRM file, https://hub.vroid.com/characters/6076267521797946217/models/7503229929586800812
 
-![](../../img/2024_01_23_10_36_19-Blender.png)
+![](../../../img/2024_01_23_10_36_19-Blender.png)
 
 Before,
 
-![](../../img/2024_01_23_10_44_00-Blender.png)
+![](../../../img/2024_01_23_10_44_00-Blender.png)
 
 After,
 
-![](../../img/2024_01_23_10_44_14-Blender.png)
+![](../../../img/2024_01_23_10_44_14-Blender.png)
 
 ### 4. Export the Modified VRM
 
@@ -131,7 +137,7 @@ If the VRM Proxy is already in the correct format, you can proceed with facial c
 
 For example this VRM file, https://hub.vroid.com/characters/7173430845109381047/models/6304450858378362082
 
-![](../../img/2024_01_23_12_58_02-Blender.png)
+![](../../../img/2024_01_23_12_58_02-Blender.png)
 :::
 
 
