@@ -18,7 +18,7 @@ In the DollarsMoCap program, enable the Blender streaming. You can modify the po
 
 Import your model into Blender.
 
-For specific model requirements, please refer to the [Model Requirements](/blender-plugin#models) section.
+For specific model requirements, please refer to the [Model Requirements](/blender-addon#models) section.
 
 ### 3. Configure Facial Capture Meshes
 
@@ -46,11 +46,11 @@ Select the armature of your model.
 
 ![](../../img/2025_05_22_11_33_23.png)
 
-The plugin will automatically match bones based on their names. You can also manually adjust the mapping in the Bone Remapping panel.
+The addon will automatically match bones based on their names. You can also manually adjust the mapping in the Bone Remapping panel.
 
 ![](../../img/2025_05_22_11_34_21.png)
 
-The plugin will automatically detect the hip bone height, but you can manually edit this value (in meters) as needed.
+The addon will automatically detect the hip bone height, but you can manually edit this value (in meters) as needed.
 
 ![](../../img/2025_05_22_11_35_12.png)
 

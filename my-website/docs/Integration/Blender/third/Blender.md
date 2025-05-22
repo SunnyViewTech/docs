@@ -5,9 +5,9 @@ slug: /blender
 ---
 
 :::danger Note
-The method introduced here relies on third-party paid plugins.
+The method introduced here relies on third-party paid addons.
 
-If you prefer to use the free, native DollarsMoCap Blender plugin, please refer to [this section](/blender-plugin).
+If you prefer to use the free, native DollarsMoCap Blender addon, please refer to [this section](/blender-addon).
 :::
 
 # Blender

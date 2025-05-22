@@ -1,14 +1,14 @@
 ---
 sidebar_position: 10
-title: Using the Plugin
-slug: /blender-plugin
+title: Using the Addon
+slug: /blender-addon
 ---
 
-# Using the DollarsMoCap Plugin in Blender
+# Using the DollarsMoCap Addon in Blender
 
 :::info
 
-The following Dollars MoCap products support native Blender plugin,
+The following Dollars MoCap products support native Blender addon,
 
 - Dollars MONO (since v.250522)
 
@@ -20,7 +20,7 @@ Recording is currently not supported in Blender 4.4.
 
 ## Download and Installation
 
-You can download the native DollarsMoCap Blender plugin from [the DollarsMoCap website](https://www.dollarsmocap.com/download).
+You can download the native DollarsMoCap Blender addon from [the DollarsMoCap website](https://www.dollarsmocap.com/download).
 
 After downloading (no need to unzip), install it in Blender's Preference Menu as follows,
 
@@ -87,12 +87,12 @@ If your model contains multiple face-related meshes, the blendshape names in eac
 
 #### Notes：
 
-If your blendshapes do not follow the ARKit naming convention, you can remap them in the plugin’s Blendshape Remapping panel.
+If your blendshapes do not follow the ARKit naming convention, you can remap them in the addon’s Blendshape Remapping panel.
 
 ![](../../img/2025_05_21_21_40_02.png)
 
-## Uninstalling the Plugin
+## Uninstalling the Addon
 
-To uninstall the DollarsMoCap plugin, click the triangle icon on the left to expand the plugin details, then click Remove to uninstall.
+To uninstall the DollarsMoCap addon, click the triangle icon on the left to expand the addon details, then click Remove to uninstall.
 
 ![](../../img/2025_05_22_10_51_52.png)
