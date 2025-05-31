@@ -11,6 +11,7 @@ slug: /blender-addon
 The following Dollars MoCap products support native Blender addon,
 
 - Dollars MONO (since v.250522)
+- Dollars EGAO (since v.250601)
 
 :::
 
