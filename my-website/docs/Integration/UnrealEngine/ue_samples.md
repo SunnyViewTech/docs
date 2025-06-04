@@ -14,6 +14,12 @@ For projects with specific plugins like Character Creator, VRM, or Daz3D, use th
 
 ## MetaHuman
 
+UE 5.6
+
+https://drive.usercontent.google.com/download?id=1XhVOEyfDUqqyrfq3kUsDyNE9m8-fnIdA&export=download&authuser=0
+
+## MetaHuman
+
 UE 5.4
 
 https://drive.usercontent.google.com/download?id=1VA30HYOz9kajTMjjRrxNYxy6mXCXUzZx&export=download&authuser=0
