@@ -39,9 +39,11 @@ https://drive.usercontent.google.com/download?id=19P-NaPRptPstWC6JLAnDQ_QNEco4Yx
 
 1. In the scene, select **Dollar Receiver** and click **Listen** in the details panel.
 
+If the **OSCServer** variable is not None before clicking **Listen**, you can click **Stop** to clear it.
+
 ![](../../img/2025_06_06_20_22_05.png)
 
-2. You will see that the **OSCServer** variable is assigned.
+2. After clicking **Listen**, you will see that the **OSCServer** variable is assigned.
 
 ![](../../img/2025_06_06_20_24_15.png)
 
