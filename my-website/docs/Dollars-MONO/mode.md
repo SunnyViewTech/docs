@@ -5,13 +5,21 @@ title: Motion Capture Mode
 
 # Motion Capture Mode
 
-Dollar MONO offers three motion capture modes,
+Dollars MONO offers three motion capture modes. You can switch between these modes according to your needs by clicking the button.
+
 
 - Upper Body Mode
-- Jump Mode
-- Ground Mode
+- Full Body (Jump) Mode
+- Full Body (Ground) Mode
 
-You can switch between these modes according to your needs by clicking the button.
+:::warning Note
+
+When Enhanced Mode is activated, Full Body (Jump) and Full Body (Ground) are merged into a single Full Body mode.
+
+At this point, the program provides only two available modes, Upper Body Mode and Full Body Mode.
+
+:::
+
 
 ![](../img/FqK6yqb6STxaAsL3gM4uMeaVlMc4.png)
 
@@ -19,7 +27,7 @@ You can switch between these modes according to your needs by clicking the butto
 
 In the Upper Body mode, motion capture will only capture your upper body, while the lower body will be locked.
 
-## Jump Mode
+## Full Body (Jump) Mode
 
 In the Jump mode, changes in your waist position will be interpreted as changes in height, allowing for actions such as jumping and crouching.
 
@@ -33,7 +41,7 @@ The same video in Ground Mode,
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Ss0bqUFUzRM?si=sBoEBp7P58LduU9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Ground Mode
+## Full Body (Ground) Mode
 
 In Ground Mode, changes in your waist position are interpreted as movements on the ground, enabling actions such as moving forward or backward. 
 
