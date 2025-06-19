@@ -23,7 +23,6 @@ Recording frequency: 60FPS
 
 Estimated size: 10MB per minute
 
-
 ## File Name and Save Location
 
 ### v.250618 and later versions
@@ -42,12 +41,26 @@ Recorded files will be named using the current timestamp and saved by default in
 
 ```~/.config/unity3d/SunnyView/Dollars_MONO/```
 
-You can change the export directory in the settings.
+You can change the export folder in the Options dialog.
+
+![](../img/2025_06_19_17_09_11-Dollars_MONO.jpg)
+
+By clicking the **Reset** button, you can restore the save location to the default directory above.
 
 Please ensure that the specified target directory has write permission. If MONO fails to save files in the selected directory, they will be saved automatically to the default path listed above.
 
-:::warning Note
+:::info Note
 
 After changing the save directory, we recommend performing a test recording to confirm that the new location is writable.
 
 :::
+
+### Versions prior to v.250618
+
+- Windows
+
+The recorded files will be saved in the root directory of the Dollars MONO program, with the current timestamp used as the file name.
+
+- MacOS
+
+```/Users/[Username]/Library/Application Support/com.SunnyView.Dollars-MONO```

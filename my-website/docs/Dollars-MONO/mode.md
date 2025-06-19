@@ -12,7 +12,7 @@ Dollars MONO offers three motion capture modes. You can switch between these mod
 - Full Body (Jump) Mode
 - Full Body (Ground) Mode
 
-:::warning Note
+:::info Note
 
 When Enhanced Mode is activated, Full Body (Jump) and Full Body (Ground) are merged into a single Full Body mode.
 
