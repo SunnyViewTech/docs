@@ -12,11 +12,8 @@ The following Dollars MoCap products support native Blender addon,
 
 - Dollars MONO (since v.250522)
 - Dollars EGAO (since v.250601)
+- Dollars NVIS (since v.250609)
 
-:::
-
-:::warning Note
-Recording is currently not supported in Blender 4.4.
 :::
 
 ## Download and Installation
