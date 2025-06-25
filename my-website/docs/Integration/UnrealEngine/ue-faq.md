@@ -6,6 +6,8 @@ slug: /ue-faq
 
 # FAQ
 
+Thanks to the users who helped us resolve these issues!
+
 import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc} />
@@ -22,17 +24,13 @@ You can find examples of combining expressions and movements in almost all of Do
 
 This usually occurs because the directory structure was changed outside of Unreal Editor, causing object references to break. We recommend following [the steps here](/ue-getstarted) to rectify the issue.
 
-## Motion Lag in Unreal Engine
+## Motion lags in Unreal when the mocap program is in the background
 
-Ensure that **Use Less CPU when in Background** is **not** checked in the Editor Preferences.
+Please try turning off "Hardware-accelerated GPU scheduling".
 
-![](../../img/2024_08_13_19_58_26.png)
+![](../../img/image.jpg)
 
-And, when the Unreal Engine window is active, it may cause motion capture to drop frames. You can try:
-
-- Keeping the window of another program active
-
-- Limiting the Unreal Engine's frame rate
+Go to **Settings** > **System** > **Display** > **Graphics** > **Change Default Graphics Settings**, toggle off the option, and restart the computer.
 
 ## Motion Capture Does Not Work After Packaging in Unreal Engine 5.x
 
@@ -40,7 +38,7 @@ You can try the following solutions,
 
 - Change the Unreal Editor interface to English.
 
-- If you are working on a MetaHuman project, remove the Post Process Animation Blueprint from the Animation Blueprint.s
+- If you are working on a MetaHuman project, remove the Post Process Animation Blueprint from the Animation Blueprint.
 
 ![](../../img/2023_11_03_23_28_05-DollarsMetaHuman_FC.png)
 
