@@ -17,9 +17,13 @@ https://kilimanjaro.dollarsmocap.com/ineditor/Dollars.zip
 
 https://kilimanjaro.dollarsmocap.com/ineditor/Dollars_UE4Mannequin.zip
 
-- Control Rig for MetaHuman
+- Control Rig for MetaHuman(downloaded via Quixel Bridge)
 
 https://kilimanjaro.dollarsmocap.com/ineditor/Dollars_MetaHuman.zip
+
+- Control Rig for MetaHuman(created locally in 5.6 and above)
+
+https://kilimanjaro.dollarsmocap.com/ineditor/Dollars_MetaHumanCharacters.zip
 
 ## Sample Projects
 
@@ -31,9 +35,13 @@ https://drive.usercontent.google.com/download?id=1vxRN-WnplO-BMeUs5lecrM12WX6YGv
 
 https://drive.usercontent.google.com/download?id=11wwUxRap5BoDB2lCZ9KWceTUJzJfsAi0&export=download&authuser=0
 
-- MetaHuman
+- MetaHuman(downloaded via Quixel Bridge)
 
 https://drive.usercontent.google.com/download?id=19P-NaPRptPstWC6JLAnDQ_QNEco4YxPJ&export=download&authuser=0
+
+- MetaHuman(created locally in 5.6 and above)
+
+https://drive.usercontent.google.com/download?id=1WDlx7f8eXGDqfsp3Hh49tGzPb0p46kj2&export=download&authuser=0
 
 ## Using the Sample Project (UE4 Mannequin)
 
