@@ -55,7 +55,7 @@ If the **OSCServer** variable is not None before clicking **Listen**, you can cl
 
 ![](../../img/2025_06_06_20_24_15.png)
 
-3. Select the character blueprint and click **Update Anim in Editor** in the details panel.
+3. Select the character blueprint and click **Update Anim in Editor** in the details panel. (MetaHumans generated locally in 5.6 or above do not require this step)
 
 ![](../../img/2025_06_06_20_25_12.png)
 
