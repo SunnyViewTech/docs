@@ -1,5 +1,5 @@
 ---
-sidebar_position: 30
+sidebar_position: 12
 title: Using the Plugin in the Editor(Beta)
 slug: /ue-ineditor
 ---	
@@ -60,3 +60,19 @@ If the **OSCServer** variable is not None before clicking **Listen**, you can cl
 ![](../../img/2025_06_06_20_25_12.png)
 
 4. Enable UE Streaming in the Dollars application, and you will be able to control the character directly in the editor in real time, without entering Play mode.
+
+## Using Your Characters
+
+Please use the plugin and Ctrl Rig provided on this page to replace the versions downloaded from the DollarsMoCap website, and complete the integration steps as shown in our [tutorial videos](/ue-characters).
+
+In addition, complete the following two steps,
+
+1. In the character blueprint, add a custom event that enables **Set Update Animation in Editor** for all Skeletal Meshes. Also enable **Call In Editor** for this event.
+
+![](../../img/2025_07_14_19_35_19-DollarsUE4MannquininEditor.jpg)
+
+2. In the scene, in addition to placing the character blueprint and DollarsReceiver, also add Dollars > Blueprints > EUB_DollarsTick.
+
+![](../../img/2025_07_14_19_37_28-DollarsUE4MannquininEditor.jpg)
+
+Once these steps are completed, you will be able to receive OSC data and drive the character animation without entering Play Mode.

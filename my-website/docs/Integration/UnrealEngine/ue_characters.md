@@ -16,9 +16,13 @@ There are two methods to add motion capture for your character:
 
 If your character is based on the following skeletons, you can use the corresponding Ctrl Rig provided by Dollars MoCap to implement motion capture:
 
-- MetaHuman
+- MetaHuman (downloaded via Quixel Bridge)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/LgHAZTLJ0Ns?si=9jfzE313srk2m9TZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- MetaHuman (created locally in 5.6 and above)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/TD-0HCf3Viw?si=YVE5MYdrh057aWl-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - Daz3D Genesis8 & 8.1
 
