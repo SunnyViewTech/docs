@@ -5,6 +5,24 @@ title: Archive
 
 # Download Archive
 
+## Jul 7th, 2025
+- Arm Clipping Prevention
+- Use as Guest
+
+Download [v.250707](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_250707.zip)
+
+## Jun 18th, 2025
+- Updated to NVIDIA AR SDK 0.8.7
+- Bug fixes
+
+Download [v.250618](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_250618.zip)
+
+## May 22nd, 2025
+- Live streaming to Blender
+- Added option to set export folder
+
+Download [v.250522](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_250522.zip)
+
 ## Mar 30th, 2025
 - Optimization for inZOI
 - Bug fixes
