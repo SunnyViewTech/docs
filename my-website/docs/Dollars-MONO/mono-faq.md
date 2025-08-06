@@ -60,12 +60,9 @@ The **screen-capture-recorder** camera from ShareX may cause MONO to crash. We r
 
 :::
 
-
 ## The Camera Cannot Be Turned On
 
-We recommend trying to turn on the camera using another program to confirm that it is properly connected to your computer. 
-
-Additionally, check the Camera Settings in Windows to ensure that Dollars MONO has permission to use the camera.
+Please check [this](/Dollars-MONO/mono-errors#camera-error) out.
 
 ## Characters Are Floating or Stuck in the Grounds
 

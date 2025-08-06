@@ -5,6 +5,10 @@ title: Error Messages
 
 # Error Messages
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
+
 When MONO encounters an error, an appropriate message will be displayed at the top of the program interface.
 
 ![](../img/2024_11_28_15_18_03.png)
@@ -22,8 +26,9 @@ Here are some common error messages in MONO and their solutions,
 **Solutions:**
 
 - In Windows settings, ensure that Dollars MONO has permission to access the camera.
-- Use the built-in Camera app in Windows to test if the camera is functioning properly.
+- Use the built-in Camera app in Windows, or OBS to test if the camera is functioning properly.
 - Close any other software that may be using the camera and try again.
+- If none of the above works, you may try opening the camera in OBS and sending the stream via OBS Virtual Camera. More details [here](/Dollars-MONO/virtualcam).
 
 ## Playback Error
 
