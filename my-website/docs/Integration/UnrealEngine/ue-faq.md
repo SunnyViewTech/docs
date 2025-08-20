@@ -24,13 +24,19 @@ You can find examples of combining expressions and movements in almost all of Do
 
 This usually occurs because the directory structure was changed outside of Unreal Editor, causing object references to break. We recommend following [the steps here](/ue-getstarted) to rectify the issue.
 
-## Motion lags in Unreal when the mocap program is in the background
+## Motion lags in Unreal
 
-Please try turning off "Hardware-accelerated GPU scheduling".
+1. Turn off **Hardware-accelerated GPU scheduling**
+
+Go to **Settings** > **System** > **Display** > **Graphics** > **Change Default Graphics Settings**, toggle off the option, and restart the computer.
 
 ![](../../img/image.jpg)
 
-Go to **Settings** > **System** > **Display** > **Graphics** > **Change Default Graphics Settings**, toggle off the option, and restart the computer.
+2. In Unreal Editor Preferences
+
+Make sure **Use Less CPU when in Background** is **NOT** checked
+
+![](../../img/2024_08_13_19_58_26.png)
 
 ## Motion Capture Does Not Work After Packaging in Unreal Engine 5.x
 
