@@ -1,11 +1,11 @@
 ---
 sidebar_position: 6.5
-title: Connecting Femto Bolt
+title: Connecting Femto Series
 ---
 
-# Connecting Femto Bolt
+# Connecting Femto Series
 
-Before using DEEP, please follow these steps to ensure that Femto Bolt is properly connected and can perform skeletal recognition.
+Before using DEEP, please follow these steps to ensure that Femto series is properly connected and can perform skeletal recognition.
 
 ## Ensure Camera is Functioning
 

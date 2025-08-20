@@ -25,7 +25,7 @@ If you are using Azure Kinect, please select 'Azure Kinect' in the Video Options
 
 ![](../img/2023-10-20.png)
 
-### Using Femto Bolt
+### Using Femto Bolt (also applicable to Femto Mega)
 
 If you are using Femto Bolt, please select 'Femto Bolt RGB' in the Video Options.
 
