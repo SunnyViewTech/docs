@@ -16,7 +16,7 @@ You can download the Dollars iClone8 plugin from the [Dollars MoCap website](htt
 
 - Unzip the downloaded file
 
-- Copy the `DollarsMarkerlessMoCap` directory into the plugins directory of iClone8.
+- Copy the `DollarsMoCap` directory into the plugins directory of iClone8.
 
 - Typically, the plugin directory is located at `C:\Program Files\Reallusion\iClone 8\Bin64\OpenPlugin`.
 
