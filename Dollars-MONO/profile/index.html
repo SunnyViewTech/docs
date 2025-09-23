@@ -6,7 +6,7 @@
 <title data-rh="true">Setting a Profile | Dollars MoCap - SunnyViewTech</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://docs.dollarsmocap.com/img/docusaurus-social-card.jpg"><meta data-rh="true" name="twitter:image" content="https://docs.dollarsmocap.com/img/docusaurus-social-card.jpg"><meta data-rh="true" property="og:url" content="https://docs.dollarsmocap.com/Dollars-MONO/profile"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Setting a Profile | Dollars MoCap - SunnyViewTech"><meta data-rh="true" name="description" content="Since version v.250707, MONO supports motion capture Profile configuration."><meta data-rh="true" property="og:description" content="Since version v.250707, MONO supports motion capture Profile configuration."><link data-rh="true" rel="icon" href="/img/dollars_icon.png"><link data-rh="true" rel="canonical" href="https://docs.dollarsmocap.com/Dollars-MONO/profile"><link data-rh="true" rel="alternate" href="https://docs.dollarsmocap.com/Dollars-MONO/profile" hreflang="en"><link data-rh="true" rel="alternate" href="https://docs.dollarsmocap.com/Dollars-MONO/profile" hreflang="x-default"><link data-rh="true" rel="preconnect" href="https://1NN5UDWXQ6-dsn.algolia.net" crossorigin="anonymous"><link rel="search" type="application/opensearchdescription+xml" title="Dollars MoCap - SunnyViewTech" href="/opensearch.xml">
 
 <script id="runllm-widget-script" type="module" src="https://widget.runllm.com" crossorigin="true" runllm-name="Dollars MoCap AI Assistant" runllm-assistant-id="1151" runllm-position="BOTTOM_RIGHT" runllm-keyboard-shortcut="Mod+j" runllm-preset="docusaurus" async></script><link rel="stylesheet" href="/assets/css/styles.c8062731.css">
-<script src="/assets/js/runtime~main.d103fcfa.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.7d2be7e4.js" defer="defer"></script>
 <script src="/assets/js/main.88ec1ba1.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -18,7 +18,8 @@
 <p>For more information, refer to,</p>
 <p><a href="https://github.com/SunnyViewTech/MuscleSettings" target="_blank" rel="noopener noreferrer">https://github.com/SunnyViewTech/MuscleSettings</a></p>
 <div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Note</div><div class="admonitionContent_BuS1"><p>It remains technically challenging to completely eliminate clipping during real-time capture. This feature is designed to provide an effective mitigation approach.</p></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="setup">Setup<a href="#setup" class="hash-link" aria-label="Direct link to Setup" title="Direct link to Setup">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="setup-steps">Setup Steps<a href="#setup-steps" class="hash-link" aria-label="Direct link to Setup Steps" title="Direct link to Setup Steps">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="preparation">Preparation<a href="#preparation" class="hash-link" aria-label="Direct link to Preparation" title="Direct link to Preparation">​</a></h3>
 <ol>
 <li>
 <p>Make sure your character is properly configured with the Dollars plugin so that motion data can sync correctly.</p>
@@ -29,24 +30,72 @@
 <li>
 <p>Enter the Profile editing mode.</p>
 </li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="set-arm-up-down-range">Set Arm Up-Down Range<a href="#set-arm-up-down-range" class="hash-link" aria-label="Direct link to Set Arm Up-Down Range" title="Direct link to Set Arm Up-Down Range">​</a></h3>
+<p>When the virtual avatar has a large head or body, the arms placed at the sides may easily intersect with the head or body. You can reduce this issue by limiting the arm’s up and down movement range.</p>
+<ol>
 <li>
-<p>Drag the Current Position slider to the far left, and set the minimum range for the Upper Arm.</p>
+<p>Set the lower limit of Upper Arm Front-Back Range to 0 and move Current Position to the minimum value.</p>
 </li>
 <li>
-<p>Drag the Current Position slider to the far right, and set the maximum range for the Upper Arm.</p>
-</li>
-<li>
-<p>Move the Current Position slider to observe and confirm if the settings meet your needs.</p>
+<p>Set the upper limit of Lower Arm Stretch Range to 80 and move Current Position to the maximum value. At this point, the avatar will be in an APose.</p>
 </li>
 </ol>
-<p><img decoding="async" loading="lazy" src="/assets/images/2025-07-07_17-57-21-808-5b0c98e4cfe02f8d0fbd0e3be530f122.gif" width="800" height="903" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="/assets/images/2025-09-23-adb79310e5bc0456fc943f3bf9bfab25.jpg" width="1264" height="1452" class="img_ev3q"></p>
+<ol start="3">
+<li>
+<p>Move Current Position all the way to the left and adjust the minimum value of Upper Arm Up-Down Range.</p>
+</li>
+<li>
+<p>Move Current Position all the way to the right and adjust the maximum value of Upper Arm Up-Down Range.</p>
+</li>
+<li>
+<p>Adjust Current Position back and forth, observe the avatar’s movement, and confirm whether the effect meets expectations.</p>
+</li>
+</ol>
+<video controls="" width="50%"><source src="/2025-09-23 19-37-54-638_1.mp4"></video>
+<ol start="6">
+<li>Click <strong>Save</strong> to complete the setup.</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="set-arm-front-back-range">Set Arm Front-Back Range<a href="#set-arm-front-back-range" class="hash-link" aria-label="Direct link to Set Arm Front-Back Range" title="Direct link to Set Arm Front-Back Range">​</a></h3>
+<p>When the avatar’s arms are too long, they may cross in front of the body. You can reduce this issue by limiting the arm’s front and back movement range.</p>
+<ol>
+<li>
+<p>Set the upper limit of Lower Arm Stretch Range to 80 and move Current Position to the maximum value.</p>
+</li>
+<li>
+<p>Set the lower limit of Upper Arm Front-Back Range to 0 and move Current Position to the minimum value.</p>
+</li>
+<li>
+<p>Set the minimum value of Upper Arm Up-Down Range to 60 and move Current Position to the minimum value. At this point, the avatar will be in a TPose.</p>
+</li>
+</ol>
+<p><img decoding="async" loading="lazy" src="/assets/images/2025-09-23_19-58-49-339-bbdad72a2ebaff9229c9888355fdf2b7.jpg" width="1272" height="1548" class="img_ev3q"></p>
+<ol start="4">
+<li>Adjust the upper and lower limits of Upper Arm Front-Back Range.</li>
+</ol>
+<video controls="" width="50%"><source src="/2025-09-23 19-58-49-339_1.mp4"></video>
+<ol start="5">
+<li>If necessary, adjust the upper and lower limits of Upper Arm Up-Down Range.</li>
+</ol>
+<video controls="" width="50%"><source src="/2025-09-23 19-58-49-339_2.mp4"></video>
+<ol start="6">
+<li>Adjust the upper and lower limits of Lower Arm Stretch Range.</li>
+</ol>
+<video controls="" width="50%"><source src="/2025-09-23 19-58-49-339_3.mp4"></video>
 <ol start="7">
-<li>
-<p>Click <strong>Save</strong> to complete the setup. The saved Profile will be automatically loaded each time the program starts.</p>
-</li>
-<li>
-<p>You can create different Profiles for different characters and load them as needed.</p>
-</li>
-</ol></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/Dollars-MONO/bvh"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Recording BVH Files</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/Dollars-MONO/virtualcam"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Using Virtual Camera as Input</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#setup" class="table-of-contents__link toc-highlight">Setup</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">SunnyView Technology Co.Ltd.<br>www.dollarsmocap.com<br>All Rights Reserved<br><br>Built with Docusaurus</div></div></div></footer></div>
+<li>Adjust both Upper Arm Up-Down Range and Lower Arm Stretch Range so that the size of their ranges is similar.</li>
+</ol>
+<video controls="" width="50%"><source src="/2025-09-23 19-58-49-339_4.mp4"></video>
+<ol start="8">
+<li>Adjust each Current Position, and check the result.</li>
+</ol>
+<video controls="" width="50%"><source src="/2025-09-23 19-58-49-339_5.mp4"></video>
+<ol start="8">
+<li>Click <strong>Save</strong> to complete the setup.</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="multiple-profiles">Multiple Profiles<a href="#multiple-profiles" class="hash-link" aria-label="Direct link to Multiple Profiles" title="Direct link to Multiple Profiles">​</a></h2>
+<p>The saved Profile will be automatically loaded each time the program starts.</p>
+<p>You can also set up separate Profiles for different characters and load them as needed.</p></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/Dollars-MONO/bvh"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">Recording BVH Files</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/Dollars-MONO/virtualcam"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Using Virtual Camera as Input</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#setup-steps" class="table-of-contents__link toc-highlight">Setup Steps</a><ul><li><a href="#preparation" class="table-of-contents__link toc-highlight">Preparation</a></li><li><a href="#set-arm-up-down-range" class="table-of-contents__link toc-highlight">Set Arm Up-Down Range</a></li><li><a href="#set-arm-front-back-range" class="table-of-contents__link toc-highlight">Set Arm Front-Back Range</a></li></ul></li><li><a href="#multiple-profiles" class="table-of-contents__link toc-highlight">Multiple Profiles</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">SunnyView Technology Co.Ltd.<br>www.dollarsmocap.com<br>All Rights Reserved<br><br>Built with Docusaurus</div></div></div></footer></div>
 </body>
 </html>
