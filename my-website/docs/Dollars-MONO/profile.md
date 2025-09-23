@@ -23,7 +23,9 @@ It remains technically challenging to completely eliminate clipping during real-
 
 :::
 
-## Setup
+## Setup Steps
+
+### Preparation
 
 1. Make sure your character is properly configured with the Dollars plugin so that motion data can sync correctly.
 
@@ -31,14 +33,74 @@ It remains technically challenging to completely eliminate clipping during real-
 
 3. Enter the Profile editing mode.
 
-4. Drag the Current Position slider to the far left, and set the minimum range for the Upper Arm.
+### Set Arm Up-Down Range
 
-5. Drag the Current Position slider to the far right, and set the maximum range for the Upper Arm.
+When the virtual avatar has a large head or body, the arms placed at the sides may easily intersect with the head or body. You can reduce this issue by limiting the arm’s up and down movement range.
 
-6. Move the Current Position slider to observe and confirm if the settings meet your needs.
+1. Set the lower limit of Upper Arm Front-Back Range to 0 and move Current Position to the minimum value.
 
-![](../img/2025-07-07_17-57-21-808.gif)
+2. Set the upper limit of Lower Arm Stretch Range to 80 and move Current Position to the maximum value. At this point, the avatar will be in an APose.
 
-7. Click **Save** to complete the setup. The saved Profile will be automatically loaded each time the program starts.
+![](../img/2025-09-23.jpg)
 
-8. You can create different Profiles for different characters and load them as needed.
+3. Move Current Position all the way to the left and adjust the minimum value of Upper Arm Up-Down Range.
+
+4. Move Current Position all the way to the right and adjust the maximum value of Upper Arm Up-Down Range.
+
+5. Adjust Current Position back and forth, observe the avatar’s movement, and confirm whether the effect meets expectations.
+
+<video controls width="50%">
+  <source src="/2025-09-23 19-37-54-638_1.mp4"/>
+</video>
+
+6. Click **Save** to complete the setup.
+
+### Set Arm Front-Back Range
+
+When the avatar’s arms are too long, they may cross in front of the body. You can reduce this issue by limiting the arm’s front and back movement range.
+
+1. Set the upper limit of Lower Arm Stretch Range to 80 and move Current Position to the maximum value.
+
+2. Set the lower limit of Upper Arm Front-Back Range to 0 and move Current Position to the minimum value.
+
+3. Set the minimum value of Upper Arm Up-Down Range to 60 and move Current Position to the minimum value. At this point, the avatar will be in a TPose.
+
+![](../img/2025-09-23_19-58-49-339.jpg)
+
+4. Adjust the upper and lower limits of Upper Arm Front-Back Range.
+
+<video controls width="50%">
+  <source src="/2025-09-23 19-58-49-339_1.mp4"/>
+</video>
+
+5. If necessary, adjust the upper and lower limits of Upper Arm Up-Down Range.
+
+<video controls width="50%">
+  <source src="/2025-09-23 19-58-49-339_2.mp4"/>
+</video>
+
+6. Adjust the upper and lower limits of Lower Arm Stretch Range.
+
+<video controls width="50%">
+  <source src="/2025-09-23 19-58-49-339_3.mp4"/>
+</video>
+
+7. Adjust both Upper Arm Up-Down Range and Lower Arm Stretch Range so that the size of their ranges is similar.
+
+<video controls width="50%">
+  <source src="/2025-09-23 19-58-49-339_4.mp4"/>
+</video>
+
+8. Adjust each Current Position, and check the result.
+
+<video controls width="50%">
+  <source src="/2025-09-23 19-58-49-339_5.mp4"/>
+</video>
+
+8. Click **Save** to complete the setup.
+
+## Multiple Profiles
+
+The saved Profile will be automatically loaded each time the program starts.
+
+You can also set up separate Profiles for different characters and load them as needed.
