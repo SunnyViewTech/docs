@@ -51,7 +51,7 @@ When the virtual avatar has a large head or body, the arms placed at the sides m
   <source src="/2025-09-23 19-37-54-638_1.mp4"/>
 </video>
 
-6. Click **Save** to complete the setup.
+5. Click **Save** to complete the setup.
 
 ### Set Arm Front-Back Range
 
