@@ -37,9 +37,9 @@ It remains technically challenging to completely eliminate clipping during real-
 
 When the virtual avatar has a large head or body, the arms placed at the sides may easily intersect with the head or body. You can reduce this issue by limiting the arm’s up and down movement range.
 
-1. Click the TPose button to adjust the avatar to a TPose.
+1. Click the **Reset** button in the bottom-right corner to adjust the avatar to a TPose.
 
-![](../img/2025_09_24_11_44_51-Dollars_MONO.jpg)
+![](../img/2025-09-25_18-20-03-654.jpg)
 
 2. Move Current Position all the way to the left and adjust the minimum value of Upper Arm Up-Down Range.
 
@@ -57,9 +57,9 @@ When the virtual avatar has a large head or body, the arms placed at the sides m
 
 When the avatar’s arms are too long, they may cross in front of the body. You can reduce this issue by limiting the arm’s front and back movement range.
 
-1. Click the TPose button to adjust the avatar to a TPose.
+1. Click the **Reset** button in the bottom-right corner to adjust the avatar to a TPose.
 
-![](../img/2025_09_24_11_44_51-Dollars_MONO.jpg)
+![](../img/2025-09-25_18-20-03-654.jpg)
 
 2. Adjust the upper and lower limits of Upper Arm Front-Back Range.
 
