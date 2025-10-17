@@ -48,6 +48,21 @@ to offer low-cost, high-quality full-body motion capture
       </>
     ),
   },
+  {
+    title: 'Dollars SAYA',
+    link: '/category/dollars-saya',
+    Svg: '/img/selfie.png',
+    description1: (
+      <>
+        Use a single iOS device to
+      </>
+    ),
+    description2: (
+      <>
+        to capture face, hands, and upper body.
+      </>
+    ),
+  },
 ];
 
 const FacialCaptureProducts = [
