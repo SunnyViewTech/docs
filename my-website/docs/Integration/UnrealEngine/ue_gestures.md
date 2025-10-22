@@ -53,3 +53,13 @@ The image below shows a simple example.
 - The ```gesture``` parameter indicates the name of the captured body or hand gesture.
 - For ZoomIn and ZoomOut gesture, the ```value``` parameter represents the ratio of the current distance between hands to the distance when the action was triggered.
 - For other gestures, this ```value``` is always 0.
+
+## Sample Project
+
+You can find an example here of controlling the camera FOV using ZoomIn and ZoomOut, as well as switching effects through gestures.
+
+https://drive.usercontent.google.com/download?id=1bkA7TKnakPtBucU47BntW1hHJJtAyh5q&export=download&authuser=0
+
+<video controls width="50%">
+  <source src="/ScreenRecording2025-10-22170831_1.mp4"/>
+</video>
