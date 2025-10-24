@@ -42,7 +42,7 @@ After positioning your device, establish communication with your computer.
 **Dollars SAYA** can stream real-time capture data to PC programs or VTuber software.
 
 1. In the SAYA main interface, activate the corresponding protocol to start real-time streaming.  
-   - **VMC Protocol**: For VTuber software, virtual avatars, or Unity/Unreal Engine input.  
+   - **VMC Protocol**: For VTuber software, virtual avatars, or Unity integration.  
    - **UE Protocol**: For driving Unreal Engine characters via Dollars MoCap integration.  
    - **Live Link Face Protocol**: For real-time facial animation in Unreal Engine.
 
@@ -54,16 +54,29 @@ During calibration, keep your body and face relaxed, arms naturally at your side
 
 ## Tips
 
+### General Motion Capture Advice
+
+**Environment Setup**  
+Keep the background clean and lighting consistent.  
+Avoid moving objects in the background to help the system track gestures and body motion more accurately.
+
+**Clothing**  
+Avoid wearing clothes that are similar in color to the background, especially for the upper body.  
+Avoid loose or reflective clothing, as these may interfere with key point detection.
+
 ### iOS Optimization
 
-- **Improve Network Stability**  
-  If wireless streaming feels unstable, use a **wired Ethernet adapter (Lightning/USB-C to RJ45)** to connect your device directly to the router.  
-  This significantly reduces latency and prevents Wi-Fi interruptions.
+**Improve Network Stability**  
+If wireless streaming feels unstable, use a **wired Ethernet adapter (Lightning/USB-C to RJ45)** to connect your device directly to the router.  
+This significantly reduces latency and prevents Wi-Fi interruptions.
 
-- **USB Mode**  
-  You can also connect directly to your computer via **USB cable**.  
-  In this mode, it’s recommended to enable **Airplane Mode** to avoid calls or notifications interrupting your session.
+**USB Mode**  
+You can also connect directly to your computer via **USB cable**.  
+In this mode, it’s recommended to enable **Airplane Mode** to avoid calls or notifications interrupting your session.
 
-- **Environment Setup**  
-  Keep the background clean and lighting consistent.  
-  Avoid moving objects in the background to help the system track gestures and body motion more accurately.
+**Monitor Device Temperature**  
+When using ARKit, the device may heat up after long periods of operation. We have implemented multiple optimizations to reduce heat generation, but the device temperature may still rise during extended use.  
+We recommend
+
+- Using cooling accessories such as a small fan.
+- Testing before long live sessions. The test duration should be longer than your expected live stream time to understand your device’s thermal performance.  
