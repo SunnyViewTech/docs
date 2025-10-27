@@ -72,17 +72,15 @@ If you are experiencing this problem when motion capture is performed via video,
 
 For more information on using the OBS virtual camera, refer to the section [Using Virtual Camera as Input](/Dollars-MONO/virtualcam).
 
-## Video Capture Is Stuttering
+You can also try enabling the [Smart Ground Snap](/Dollars-MONO/ground) option.
+
+## Video Stuttering and Other Issues
 
 You can try to lower the video resolution, or video frame rate.
 
 Or you can use an external player to play the video, and then transfer the video into Dollars MONO via OBS's virtual camera. Using an external player can also provide you some playback control, which is easier to use.
 
 You can refer to [Using Virtual Camera as Input](/Dollars-MONO/virtualcam) for more information about how to use the OBS virtual camera.
-
-## Availability of Mac and Mobile Versionss
-
-There are no Mac or cell phone versions of the Dollars MoCap products at this time.
 
 ## How to Use Your Cell Phone Camera as Input
 
