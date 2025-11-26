@@ -44,3 +44,11 @@ If the ```OSCServer``` variable is not None before clicking ```Listen```, you ca
 ![](../../img/2025_06_06_20_25_12.png)
 
 4. Enable UE Streaming in the Dollars application, and you will be able to control the character directly in the editor in real time, without entering Play mode.
+
+:::warning
+
+After clicking Listen, if you need to run the project, please make sure to click Stop first.
+
+Otherwise it may cause a port conflict, and the motion capture data will not be received correctly during runtime.
+
+:::
