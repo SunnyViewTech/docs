@@ -139,20 +139,6 @@ const config = {
       plugins: [
     require.resolve('docusaurus-plugin-image-zoom')
   ],
-    scripts: [
-    {
-      id: "runllm-widget-script",
-      type: "module",
-    src: "https://widget.runllm.com",
-    crossorigin: "true",
-    "runllm-name": "Dollars MoCap AI Assistant",
-    "runllm-assistant-id": "1151",
-    "runllm-position": "BOTTOM_RIGHT",
-    "runllm-keyboard-shortcut": "Mod+j",
-    "runllm-preset": "docusaurus",
-    async: true,
-    },
-  ],
 };
 
 export default config;
