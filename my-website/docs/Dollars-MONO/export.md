@@ -1,35 +1,37 @@
 ---
 sidebar_position: 50
-title: Recording BVH Files
+title: File Export
 ---
 
-# Recording BVH Files
+# File Export
 
-To start and stop recording a BVH file, simply press the button shown in the image.
+You can press the buttons shown in the image below to start and stop exporting motion and facial capture files.
 
 ![](../img/2023-10-20_22_49_40-806424_940206.png)
 
-## Recording Frame Rate
+## Export formats
 
-### v.241128 and earlier versions
+MONO currently supports the following formats,
 
-Recording frequency: 30FPS
+1. FBX
+2. BVH
+3. BVH for Cascadeur
 
-Estimated size: 5MB per minute
+If you plan to use BVH in iClone or Cartoon Animator, please choose the second format.
 
-### v.241223 and later versions
+If you plan to use BVH in Cascadeur, please choose the third format.
 
-Recording frequency: 60FPS
-
-Estimated size: 10MB per minute
+In other cases, you can select any format you prefer.
 
 ## File Name and Save Location
 
-### v.250618 and later versions
+Motion files will be named with "Dollars_" followed by a timestamp.
 
-Recorded files will be named using the current timestamp and saved by default in the following directories, depending on your operating system,
+Facial expression files will be named with "Dollars_BS_" followed by a timestamp.
 
-- Windows
+Depending on the operating system, the files will be saved in the following directory.
+
+- - Windows
 
 ```C:\Users\[Username]\AppData\LocalLow\SunnyView\Dollars_MONO\```
 
@@ -54,13 +56,3 @@ Please ensure that the specified target directory has write permission. If MONO 
 After changing the save directory, we recommend performing a test recording to confirm that the new location is writable.
 
 :::
-
-### Versions prior to v.250618
-
-- Windows
-
-The recorded files will be saved in the root directory of the Dollars MONO program, with the current timestamp used as the file name.
-
-- MacOS
-
-```/Users/[Username]/Library/Application Support/com.SunnyView.Dollars-MONO```
