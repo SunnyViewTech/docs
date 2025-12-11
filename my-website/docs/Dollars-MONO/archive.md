@@ -5,6 +5,35 @@ title: Archive
 
 # Download Archive
 
+
+## Nov 10th, 2025
+- Fixed a crash caused by connecting more than 20 webcams
+
+Download [v.251110](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_251110.zip)
+
+## Oct 31st, 2025
+- Fixed black screen issue in NVIS
+- Fixed launch issue with non-English installation paths
+
+Download [v.251031](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_251031.zip)
+
+## Sep 24th, 2025
+- More Profile Settings
+
+Download [v.250924](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_2509243.zip)
+
+## Aug 5th, 2025
+- Smart Ground Snap
+- Individual Adjustment of Facial Parameters
+- Bug fixes
+
+Download [v.250805](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_250805_3.zip)
+
+## Jul 16th, 2025
+- Live streaming to vvvv
+
+Download [v.250716](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_250716.zip)
+
 ## Jul 7th, 2025
 - Arm Clipping Prevention
 - Use as Guest
