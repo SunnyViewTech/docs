@@ -34,3 +34,9 @@ Alternatively, you may note the span value displayed on screen at the moment the
 You can cancel the measurement at any time by clicking the same button again.
 
 After completing the measurement, you may further fine tune the upper arm span if needed to achieve better results.
+
+## Measurement Demo Video
+
+The following video demonstrates the upper arm span measurement process.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8QZHgYUHGC0?si=41a8x38yEUy9Lag_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
