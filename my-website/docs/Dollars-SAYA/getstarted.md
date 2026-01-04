@@ -10,7 +10,7 @@ title: Get Started
 For the best capture results, please follow the steps below to correctly position your device.
 
 - **Position**  
-  Place your **iPhone or iPad** horizontally in front of your body with the camera facing you, keeping the device aligned with your body center.  
+  Place your **iPhone or iPad** horizontally in front of your body with the camera facing you, and keep it as level with your face as possible.  
   It is recommended to use a stable tripod or phone holder to prevent small movements from affecting capture accuracy.
 
 - **Angle Adjustment**  
@@ -18,7 +18,9 @@ For the best capture results, please follow the steps below to correctly positio
   If the device angle is too high or too low, the system may fail to fully detect your hands or upper body.
 
 - **Framing**  
-  Make sure the camera view captures as much of your **upper body** as possible, including shoulders, arms, and head.  
+  When your hands are at rest (for example, hanging down or when you're using a mouse or keyboard), make sure they are outside the camera frame.  
+  When you raise your hands, both should be fully visible within the camera frame.  
+
   If space allows, step slightly back to achieve a more complete capture range.
 
 - **Lighting Conditions**  
@@ -45,12 +47,6 @@ After positioning your device, establish communication with your computer.
    - **VMC Protocol**: For VTuber software, virtual avatars, or Unity integration.  
    - **UE Protocol**: For driving Unreal Engine characters via Dollars MoCap integration.  
    - **Live Link Face Protocol**: For real-time facial animation in Unreal Engine.
-
-## Calibration
-
-Before motion capture, perform calibration to ensure optimal tracking of body and facial movements.
-
-During calibration, keep your body and face relaxed, arms naturally at your sides, and eyes looking straight ahead.
 
 ## Tips
 
