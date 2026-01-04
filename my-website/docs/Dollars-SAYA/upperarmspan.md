@@ -21,6 +21,8 @@ Please complete synchronization between SAYA and your model before measuring, as
 
 Click the button at the bottom of the program to start the measurement.
 
+![](../img/2026_01_04_15_06_262.png)
+
 During measurement, bring your fingertips close together in front of your chest. Avoid placing your hands too close, as this may confuse the tracking and affect accuracy.
 
 Once measurement begins, the program will automatically adjust the upper arm span in a loop. Observe your model, and when the wrists just touch, nod your head to confirm.
