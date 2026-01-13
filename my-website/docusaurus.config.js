@@ -30,8 +30,20 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+  defaultLocale: 'en',
+    locales: ['en', 'ja'],
+        localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US',
+      },
+      ja: {
+        label: '日本語',
+        direction: 'ltr',
+        htmlLang: 'ja',
+      },
+    },
   },
 
   presets: [
@@ -84,7 +96,12 @@ const config = {
             href: 'https://discord.gg/JNbb8sKjXH',
             position: 'right',
           },
+                {
+        type: 'localeDropdown',
+        position: 'left',
+      },
         ],
+
       },
 
     algolia: {

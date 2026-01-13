@@ -47,3 +47,22 @@ footer
     width: auto;
     height: auto;
 }
+
+/* Japanese translation in progress banner - only in doc content area */
+html[lang="ja"] .theme-doc-markdown::before {
+    content: "このページは翻訳中です / This page is being translated";
+    display: block;
+    background: #fff3cd;
+    color: #856404;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+    border: 1px solid #ffc107;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+/* Hide banner for Dollars-SAYA pages (translation complete) */
+html[lang="ja"][class*="docs-doc-id-Dollars-SAYA"] .theme-doc-markdown::before {
+    display: none;
+}

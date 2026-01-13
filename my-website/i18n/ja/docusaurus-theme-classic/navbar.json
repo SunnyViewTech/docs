@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Dollars MoCap Documentation",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Dollars Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Dollars MoCap": {
+    "message": "Dollars MoCap",
+    "description": "Navbar item with label Dollars MoCap"
+  },
+  "item.label.Discord": {
+    "message": "Discord",
+    "description": "Navbar item with label Discord"
+  }
+}

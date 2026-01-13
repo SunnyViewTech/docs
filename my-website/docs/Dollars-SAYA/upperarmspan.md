@@ -1,6 +1,7 @@
 ---
 sidebar_position: 30
 title: Measure Upper Arm Span
+className: translation-complete
 ---
 
 # Measure Upper Arm Span

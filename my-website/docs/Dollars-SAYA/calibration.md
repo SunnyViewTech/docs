@@ -1,6 +1,7 @@
 ---
 sidebar_position: 20
 title: Calibration
+className: translation-complete
 ---
 
 # Calibration

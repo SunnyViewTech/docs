@@ -1,0 +1,86 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Dollars MONO": {
+    "message": "Dollars MONO",
+    "description": "The label for category Dollars MONO in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dollars MONO.link.generated-index.description": {
+    "message": "The following documentation will help you achieve better capture results with Dollars MONO.",
+    "description": "The generated-index page description for category Dollars MONO in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dollars DEEP": {
+    "message": "Dollars DEEP",
+    "description": "The label for category Dollars DEEP in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dollars DEEP.link.generated-index.description": {
+    "message": "The documentation for Dollars MONO is also suitable for Dollars DEEP. Below are some aspects that are unique to Dollars DEEP or different from MONO.",
+    "description": "The generated-index page description for category Dollars DEEP in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dollars DEEP Lite": {
+    "message": "Dollars DEEP Lite",
+    "description": "The label for category Dollars DEEP Lite in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dollars VIVA": {
+    "message": "Dollars VIVA",
+    "description": "The label for category Dollars VIVA in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dollars SAYA": {
+    "message": "Dollars SAYA",
+    "description": "The label for category Dollars SAYA in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dollars EGAO": {
+    "message": "Dollars EGAO",
+    "description": "The label for category Dollars EGAO in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dollars EGAO.link.generated-index.description": {
+    "message": "The documentation for Dollars MONO is also suitable for Dollars EGAO. Below are some aspects that are unique to Dollars EGAO or different from MONO.",
+    "description": "The generated-index page description for category Dollars EGAO in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dollars NVIS": {
+    "message": "Dollars NVIS",
+    "description": "The label for category Dollars NVIS in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dollars LINK": {
+    "message": "Dollars LINK",
+    "description": "The label for category Dollars LINK in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dollars MOTS": {
+    "message": "Dollars MOTS",
+    "description": "The label for category Dollars MOTS in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dollars SOMA": {
+    "message": "Dollars SOMA",
+    "description": "The label for category Dollars SOMA in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Integration": {
+    "message": "Integration",
+    "description": "The label for category Integration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Integration.link.generated-index.description": {
+    "message": "Regardless of which Dollars MoCap product you are using, you can use the methods in this section to integrate with various software.",
+    "description": "The generated-index page description for category Integration in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.UnrealEngine": {
+    "message": "UnrealEngine",
+    "description": "The label for category UnrealEngine in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Unity": {
+    "message": "Unity",
+    "description": "The label for category Unity in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Blender": {
+    "message": "Blender",
+    "description": "The label for category Blender in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Third Party Plugins": {
+    "message": "Third Party Plugins",
+    "description": "The label for category Third Party Plugins in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.iClone and CTA": {
+    "message": "iClone and CTA",
+    "description": "The label for category iClone and CTA in sidebar tutorialSidebar"
+  }
+}

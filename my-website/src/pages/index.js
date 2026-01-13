@@ -3,6 +3,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Translate from '@docusaurus/Translate';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -12,8 +13,12 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">Dollars MoCap Documentation</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 className="hero__title">
+          <Translate id="homepage.title">Dollars MoCap Documentation</Translate>
+        </h1>
+        <p className="hero__subtitle">
+          <Translate id="homepage.tagline">Infuse Life into Characters</Translate>
+        </p>
       </div>
     </header>
   );

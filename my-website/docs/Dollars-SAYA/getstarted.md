@@ -1,6 +1,7 @@
 ---
 sidebar_position: 10
 title: Get Started
+className: translation-complete
 ---	
 
 # Get Started
