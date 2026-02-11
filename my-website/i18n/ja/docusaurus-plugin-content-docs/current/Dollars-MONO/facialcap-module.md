@@ -33,4 +33,4 @@ Once the libraries are properly installed and activated, you will be able to see
 
 ![](../img/2024_11_28_15_01_49.png)
 
-
+Starting from MONO v.260212, the NVIS module is embedded within MONO and will no longer open a separate window.
