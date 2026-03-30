@@ -54,3 +54,7 @@ The completed data flow:
 ## Adjust Smoothing
 
 The DollarsMoCap Hand Fallback node has a **Smooth Time** slider (default 0.2) that controls how smoothly the transition occurs between motion capture and preset animations.
+
+## Tips
+- When your hands are relaxed, make sure they are outside the camera frame. If they hover at the edge, the character's hands may get stuck in an in-between state, neither fully following motion capture nor fully in the preset animation.
+- Choose a preset animation where the hands are in a lower position. Since hands typically leave the frame from the bottom during motion capture, this makes the transition more natural.
