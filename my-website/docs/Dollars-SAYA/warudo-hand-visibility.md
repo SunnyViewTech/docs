@@ -27,9 +27,9 @@ Download **DollarsMoCapHandFallbackNode.cs** from the [Dollars MoCap website](ht
 In Warudo, click **Menu → Open Data Folder**. The `Playground` folder is inside the opened directory.
 :::
 
-Warudo will automatically compile and load the script. Once compiled, the **DollarsMoCap Hand Fallback** node will appear in the blueprint node list.
+Warudo will automatically compile and load the script. Once compiled, you will find the node under the **DollarsMoCap** category in the blueprint node list.
 
-![](../img/2026_03_30_17_38_33.png)
+![](../img/2026_03_31_13_37_38.png)
 
 ## 2. Modify the VMC Tracking Blueprint
 
