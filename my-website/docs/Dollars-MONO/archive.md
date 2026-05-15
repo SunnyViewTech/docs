@@ -6,6 +6,24 @@ title: Archive
 # Download Archive
 
 
+## Feb 12th, 2026
+- File batch processing
+- NVIS converted to DLL
+- FBX related fixes
+
+Download [v.260212](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260212_4.zip)
+
+## Jan 27th, 2026
+- Set export frame rate
+- Other FBX related bug fixes
+
+Download [v.260127](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260127.zip)
+
+## Dec 11th, 2025
+- FBX Export
+
+Download [v.251211](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_251211_2.zip)
+
 ## Nov 10th, 2025
 - Fixed a crash caused by connecting more than 20 webcams
 
@@ -76,7 +94,7 @@ Download [v.241128](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_241128.zip
 
 Download [v.241115](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_241115.zip)
 
-## July 11st, 2024
+## Jul 11th, 2024
 - Facial capture in UE now compatible with Live Link Face
 - Various minor fixes
 
@@ -97,7 +115,6 @@ Download [v.240122](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_240122.zip
 - Improved tracking quality
 - Added notifications for new version availability
 - Implemented error messaging when the iClone port is occupied
-- Conducted minor bug fixes
 - Minor bug fixes
 
 Download [v.231130](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_231130.zip)
@@ -135,7 +152,7 @@ Download [v.230918](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230918
 
 Download [v.230903](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230903.zip)
 
-## July 22nd, 2023
+## Jul 22nd, 2023
 - VAM Facial Capture
 - Support OBS Virtual Camera
 - DollarsRelayCamera removed
@@ -145,29 +162,29 @@ Download [v.230903](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230903
 
 Download [v.230722](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230722.zip)
 
-## July 8th, 2023
+## Jul 8th, 2023
 - Facial Capture!
 - (Known Issues) Hand jitter during video playback
 
 Download [v.230708](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230708.zip)
 
-## June 26th, 2023
+## Jun 26th, 2023
 - Brand new motion solving engine!
 - Fixed frame drops in BVH files
 - Resolved the lagging issue during video file playback
 
 Download [v.230626](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230626.zip)
 
-## April 21st, 2023
+## Apr 21st, 2023
 - Live streaming to iClone8
 - Minor bug fixes
 
 Download [v.230421](https://kilimanjaro.sunnyview.tech/Dollars_Markerless_230421.zip)
 
-## March 6th, 2023
+## Mar 6th, 2023
 - Add a relay camera to share webcam across multiple programs
 - Add tolerance settings
 - Change default motion capture mode to upper body mode 
 
-## February 23rd, 2023
+## Feb 23rd, 2023
 - Reduce file size by 50%, decrease CPU usage by 30%, and GPU usage by 50%

@@ -26,7 +26,7 @@ Download [v.240227](https://kilimanjaro.dollarsmocap.com/Dollars_DEEP_240227.zip
 
 Download [v.240119](https://kilimanjaro.dollarsmocap.com/Dollars_DEEP_240119.zip)
 
-## Dec 11st, 2023
+## Dec 11th, 2023
 - Added facial capture sensitivity parameter
 - Fixed streaming failure
 
@@ -38,7 +38,6 @@ Download [v.231211](https://kilimanjaro.dollarsmocap.com/Dollars_DEEP_231211.zip
 - Corrected issue with arms and legs moving on opposite sides
 - Added notifications for new version availability
 - Implemented error messaging when the iClone port is occupied
-- Conducted minor bug fixes
 - Minor bug fixes
 
 Download [v.231129](https://kilimanjaro.dollarsmocap.com/Dollars_DEEP_231129_2.zip)
