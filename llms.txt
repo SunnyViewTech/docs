@@ -1,0 +1,30 @@
+# Dollars MoCap Documentation
+
+> Official documentation for Dollars MoCap, an AI-powered motion capture and facial capture software suite by SunnyView Technology. Includes setup guides, feature references, troubleshooting, and integration tutorials for Unreal Engine, Unity, Blender, and iClone.
+
+## Motion Capture Products
+
+- [Dollars MONO](https://docs.dollarsmocap.com/category/dollars-mono): Markerless full-body motion capture from a single webcam or video file. Setup, enhanced mode, facial capture modules, export formats, and FAQ.
+- [Dollars DEEP](https://docs.dollarsmocap.com/category/dollars-deep): Depth-camera motion capture using Azure Kinect or Orbbec Femto. Calibration, camera placement, capture modes.
+- [Dollars VIVA](https://docs.dollarsmocap.com/category/dollars-viva): HTC Vive Tracker motion capture.
+- [Dollars SAYA](https://docs.dollarsmocap.com/category/dollars-saya): iOS-based motion and facial capture.
+
+## Facial Capture Products
+
+- [Dollars EGAO](https://docs.dollarsmocap.com/category/dollars-egao): Free webcam-based facial capture with ARKit blendshapes.
+- [Dollars NVIS](https://docs.dollarsmocap.com/category/dollars-nvis): NVIDIA AR SDK facial capture.
+- [Dollars LINK](https://docs.dollarsmocap.com/category/dollars-link): iClone 8 facial animation bridge.
+
+## Interaction Products
+
+- [Dollars MOTS](https://docs.dollarsmocap.com/category/dollars-mots): Text-to-motion generation.
+- [Dollars SOMA](https://docs.dollarsmocap.com/category/dollars-soma): Pose and gesture recognition.
+
+## Integration Guides
+
+- [Integration Overview](https://docs.dollarsmocap.com/category/integration): Integration guides for engines and DCC software.
+- Unreal Engine, Unity, Blender, iClone integration documentation.
+
+## Related Sites
+
+- [Main Site](https://www.dollarsmocap.com): Product overview, pricing, and downloads.
