@@ -12,6 +12,12 @@ For MetaHuman projects that don’t rely on third-party plugins, right-click the
 For projects with specific plugins like Character Creator, VRM, or Daz3D, use the Unreal version they were designed for if you’re unsure how to upgrade the plugins.
 :::
 
+## MetaHuman (using MetaHuman Vampire Character Asset)
+
+UE 5.8
+
+https://drive.usercontent.google.com/u/0/uc?id=1CQaCQXXbx2HEpCaaD8tzbUC6JKDzYNst&export=download
+
 ## MetaHuman
 
 UE 5.6

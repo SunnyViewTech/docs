@@ -113,6 +113,8 @@ This way, even with a different skeleton, your character can follow Dollars MoCa
 
 ![](../../img/2026_07_01_14_15_06.png)
 
+The finished project for this section is available on the [UE Samples](/ue-samples) page, as the MetaHuman (using MetaHuman Vampire Character Asset, UE 5.8) project.
+
 ## Packaging
 
 The Live Link source is not saved with the level, so before packaging you need to save it as a Preset and have it load automatically on startup.
