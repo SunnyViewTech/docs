@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 50
 title: Using the Plugin in the Editor
 slug: /ue-ineditor
 ---	

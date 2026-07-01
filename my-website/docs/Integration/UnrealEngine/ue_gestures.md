@@ -1,5 +1,5 @@
 ---
-sidebar_position: 18
+sidebar_position: 80
 title: Gesture Recognition
 slug: /ue-gestures
 ---

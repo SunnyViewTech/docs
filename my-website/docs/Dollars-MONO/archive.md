@@ -7,10 +7,12 @@ title: Archive
 
 ## Jun 15, 2026
 - Bug Fixes
+
 Download [v.260615](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260615.zip)
 
 ## May 15, 2026
 - Improved UI and UX
+
 Download [v.260515](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260515.zip)
 
 ## Feb 12th, 2026

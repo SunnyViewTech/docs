@@ -1,5 +1,5 @@
 ---
-sidebar_position: 25
+sidebar_position: 100
 title: Advanced Topics
 slug: /ue-advanced
 ---

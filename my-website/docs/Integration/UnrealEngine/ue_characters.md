@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 20
 title: Using Your Characters
 slug: /ue-characters
 ---	
@@ -8,11 +8,21 @@ slug: /ue-characters
 
 ## Motion Capture
 
-There are two methods to add motion capture for your character:
+Dollars MoCap adds motion capture to your character through two plugins, **Live Link** and **OSC**. The OSC plugin includes two methods, Ctrl Rig and IK Rig.
 
-### Using Ctrl Rig
+### Using the Live Link Plugin
 
-#### Using the Ctrl Rig provided by Dollars MoCap
+If your version supports Live Link (MONO v.260623 and above, and Unreal Engine 5.3 and above), we recommend using this method first.
+
+For detailed steps, see [Using the Live Link Plugin](/ue-livelink).
+
+### Using the OSC Plugin
+
+The OSC plugin provides the following two methods.
+
+#### Using Ctrl Rig
+
+##### Using the Ctrl Rig provided by Dollars MoCap
 
 If your character is based on the following skeletons, you can use the corresponding Ctrl Rig provided by Dollars MoCap to implement motion capture:
 
@@ -32,7 +42,7 @@ If your character is based on the following skeletons, you can use the correspon
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/NDslO7iYeto?si=HcyFICE6W6LivT6f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#### Customizing Ctrl Rig Based on the Model Skeleton
+##### Customizing Ctrl Rig Based on the Model Skeleton
 
 If your character does not use the above skeletons, you can make the required Ctrl Rig.
 
@@ -44,7 +54,7 @@ If your character does not use the above skeletons, you can make the required Ct
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fsNpU4sruSI?si=GywYrdof1zjxi00A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Using IK Rig
+#### Using IK Rig
 
 You can also use IK Rig to implement motion capture in Unreal Engine 5.4 or later versions.
 
@@ -52,11 +62,15 @@ You can also use IK Rig to implement motion capture in Unreal Engine 5.4 or late
 
 ### How to Choose
 
-1. Can you use the Ctrl Rig provided by Dollars MoCap?
+1. Does your Dollars MoCap product support Live Link, and is Unreal Engine 5.3 or above?
+   - Yes &rarr; We recommend the Live Link plugin.
+   - No  &rarr; Use the OSC plugin, then continue.
+
+2. (OSC plugin) Can you use the Ctrl Rig provided by Dollars MoCap?
    - Yes &rarr; Use it directly.
    - No  &rarr; Continue to check the Unreal Engine version.
 
-2. Check Unreal Engine Version
+3. Check Unreal Engine Version
    - 5.4 or later &rarr; Use IK Rig.
    - 5.3 or earlier &rarr; Customize Ctrl Rig based on the skeleton.
 
