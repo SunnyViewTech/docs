@@ -16,7 +16,7 @@ For projects with specific plugins like Character Creator, VRM, or Daz3D, use th
 
 UE 5.8
 
-https://drive.usercontent.google.com/u/0/uc?id=1CQaCQXXbx2HEpCaaD8tzbUC6JKDzYNst&export=download
+https://drive.usercontent.google.com/download?id=1QaBwAWZErcsIWFo1JiYMYkc8CH0VO_f_&export=download&authuser=0
 
 ## MetaHuman
 
