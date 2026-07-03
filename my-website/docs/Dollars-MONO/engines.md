@@ -3,16 +3,40 @@ sidebar_position: 80
 title:  Stream
 ---
 
-# Stream To Unity & Unreal
+# Stream to Other Applications
 
-You can enable or disable the streaming function in the options dialog.
+## Streaming Settings
 
-- - **Target IP:** This is the IP address of the computer where the game engine (Unity or Unreal) is located. If you are using both the motion capture software and the engine on the same computer, leave this as 127.0.0.1.
+You can enable or disable streaming to each engine through the options under Sync Engines.
 
-- **Port:** This is the port that the Dollars MoCap engine plugin is listening on. Using these ports, you can facilitate multi-person motion capture within a single project.
- 
-![](../img/2023-10-20_22_58_04-349257_443785.png)
+The Target IP is the IP address of the computer running the engine. If motion capture and the engine run on the same computer, keep the default 127.0.0.1.
 
-After adjusting the streaming settings, the corresponding information will be displayed in the upper left corner of the program.
+The Port is the port that the Dollars MoCap engine plugin listens on.
 
-![](../img/Fssio5cvW52BexBffDBFmwMG5xPw.png)
+![](../img/2026_07_03_13_55_28.png)
+
+The currently active streaming options are shown at the bottom left of the program.
+
+![](../img/2026_07_03_13_42_37.png)
+
+## Multi-person Mocap
+
+When multi-person mocap is enabled, a number such as 0 or 1 appears above each avatar.
+
+![](../img/2026_07_03_13_43_39.png)
+
+### UE Live Link Plugin
+
+With the Live Link plugin, you will see up to five Subjects in a single mocap source.
+
+![](../img/2026-06-30_21-42-30-953.jpg)
+
+The Subject numbers match those in the mocap program, so select the corresponding Subject to drive each character.
+
+### Other Plugins
+
+With the other plugins, each avatar's motion is streamed on its own port, starting from the configured port and counting up by avatar number.
+
+For example, with the port set to 39639, avatar 0 streams on 39639, avatar 1 on 39640, and so on.
+
+In the third-party program, add a receiver for each of these ports to drive multiple characters at the same time.
