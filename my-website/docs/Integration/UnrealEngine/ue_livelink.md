@@ -113,6 +113,12 @@ This way, even with a different skeleton, your character can follow Dollars MoCa
 
 ![](../../img/2026_07_01_14_15_06.png)
 
+Note that for MetaHuman characters, you need to check the Use Live Link and Use ARKit options on the blueprint in the scene.
+
+![](../../img/2026_07_08_11_34_09.png)
+
+### Sample project
+
 The finished project for this section is available on the [UE Samples](/ue-samples) page, as the MetaHuman (using MetaHuman Vampire Character Asset, UE 5.8) project.
 
 ## Packaging
