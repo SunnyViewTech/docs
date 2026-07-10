@@ -12,7 +12,9 @@ Dollars MoCap adds motion capture to your character through two plugins, **Live 
 
 ### Using the Live Link Plugin
 
-If your version supports Live Link (MONO v.260623 and above, and Unreal Engine 5.3 and above), we recommend using this method first.
+If your version supports Live Link (MONO v.260623 and above, and Unreal Engine 5.3 and above) and you are familiar with Unreal's IK retargeting, we recommend using this method first.
+
+If you are not yet familiar with IK retargeting, see Epic's official documentation [Runtime IK Retargeting](https://dev.epicgames.com/documentation/unreal-engine/runtime-ik-retargeting-in-unreal-engine).
 
 For detailed steps, see [Using the Live Link Plugin](/ue-livelink).
 
