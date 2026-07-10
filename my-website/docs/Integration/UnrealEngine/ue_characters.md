@@ -18,6 +18,10 @@ If you are not yet familiar with IK retargeting, see Epic's official documentati
 
 For detailed steps, see [Using the Live Link Plugin](/ue-livelink).
 
+The following video demonstrates the full workflow using a MetaHuman character.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/LwfCuZ-sicc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Using the OSC Plugin
 
 The OSC plugin provides the following two methods.
