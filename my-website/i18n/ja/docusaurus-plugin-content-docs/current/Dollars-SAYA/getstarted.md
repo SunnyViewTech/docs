@@ -44,10 +44,14 @@ className: translation-complete
 
 **Dollars SAYA** は、リアルタイムキャプチャデータを PC プログラムや VTuber ソフトウェアにストリーミングできます。
 
-1. SAYAのメインインターフェースで、対応するプロトコルを有効にしてリアルタイムストリーミングを開始します。
-   - **VMC**: VTuber ソフトウェア、または Unity 連携用。
-   - **UE**: Dollars MoCap プラグインによる Unreal Engine キャラクターの駆動用。
-   - **LLF**: Unreal Engine でのリアルタイム顔アニメーション（Live Link Face）用。
+SAYA のメインインターフェースで、対応するプロトコルのスイッチをオンにすると、リアルタイムストリーミングが開始されます。
+
+![](../img/2026-07-14_14-02-55-659.jpg)
+
+- **VMC**: VTuber ソフトウェア、バーチャルアバター、または Unity 連携用。
+- **UE**: Dollars MoCap の OSC プラグインによる Unreal Engine キャラクターの駆動用。
+- **LL**: Dollars MoCap の Live Link プラグインによる Unreal Engine キャラクターの駆動用。
+- **LLF**: Unreal Engine でのリアルタイム顔アニメーション（Live Link Face）用。
 
 ## ヒント
 

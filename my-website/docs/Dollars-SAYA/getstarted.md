@@ -28,7 +28,7 @@ For the best capture results, please follow the steps below to correctly positio
   Use soft and even lighting.  
   Avoid strong backlight or low-light environments, as they can reduce tracking accuracy.
 
-- ## Connect to Computer
+## Connect to Computer
 
 After positioning your device, establish communication with your computer.
 
@@ -44,10 +44,14 @@ After positioning your device, establish communication with your computer.
 
 **Dollars SAYA** can stream real-time capture data to PC programs or VTuber software.
 
-1. In the SAYA main interface, activate the corresponding protocol to start real-time streaming.  
-   - **VMC Protocol**: For VTuber software, virtual avatars, or Unity integration.  
-   - **UE Protocol**: For driving Unreal Engine characters via Dollars MoCap integration.  
-   - **Live Link Face Protocol**: For real-time facial animation in Unreal Engine.
+In the SAYA main interface, turn on the switch of the corresponding protocol to start real-time streaming,
+
+![](../img/2026-07-14_14-02-55-659.jpg)
+
+- **VMC**: For VTuber software, virtual avatars, or Unity integration.
+- **UE**: For driving Unreal Engine characters via the Dollars MoCap OSC plugin.
+- **LL**: For driving Unreal Engine characters via the Dollars MoCap Live Link plugin.
+- **LLF**: For real-time facial capture in Unreal Engine.
 
 ## Tips
 
