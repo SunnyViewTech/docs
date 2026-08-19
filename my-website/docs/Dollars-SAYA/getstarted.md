@@ -18,6 +18,12 @@ For the best capture results, please follow the steps below to correctly positio
   Keep the device as **vertical** as possible, avoiding tilting forward or backward.  
   If the device angle is too high or too low, the system may fail to fully detect your hands or upper body.
 
+- **Orientation Adjustment**  
+  SAYA starts in landscape left by default.  
+  To capture in a different orientation, turn off **rotation lock** in **Control Center**, then rotate the device to the angle you need.
+
+![](../img/controlcenter-3.png)
+
 - **Framing**  
   When your hands are at rest (for example, hanging down or when you're using a mouse or keyboard), make sure they are outside the camera frame.  
   When you raise your hands, both should be fully visible within the camera frame.  
@@ -44,14 +50,14 @@ After positioning your device, establish communication with your computer.
 
 **Dollars SAYA** can stream real-time capture data to PC programs or VTuber software.
 
-In the SAYA main interface, turn on the switch of the corresponding protocol to start real-time streaming,
+In the SAYA settings dialog, turn on the switch of the corresponding protocol to start real-time streaming,
 
-![](../img/2026-07-14_14-02-55-659.jpg)
+![](../img/20260819_121135.580.png)
 
 - **VMC**: For VTuber software, virtual avatars, or Unity integration.
 - **UE**: For driving Unreal Engine characters via the Dollars MoCap OSC plugin.
-- **LL**: For driving Unreal Engine characters via the Dollars MoCap Live Link plugin.
-- **LLF**: For real-time facial capture in Unreal Engine.
+- **Live Link for Face**: For real-time facial capture in Unreal Engine.
+- **Live Link(UE Plugin)**: For driving Unreal Engine characters via the Dollars MoCap Live Link plugin.
 
 ## Tips
 

@@ -1,10 +1,18 @@
 ---
-sidebar_position: 30
-title: 肩幅の測定
+sidebar_position: 100
+title: （非推奨）肩幅の測定
 className: translation-complete
 ---
 
 # 肩幅の測定
+
+:::warning 非推奨
+
+最新バージョンの SAYA では肩幅の測定機能は削除され、[VRM の読み込み](./loadvrm.md) に置き換えられました。モデルのボーン比率に基づいて直接モーションを解算します。
+
+このページの内容は旧バージョンにのみ適用されます。
+
+:::
 
 ## 測定の目的
 

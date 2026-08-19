@@ -16,7 +16,7 @@ Additionally, individual facial features may introduce baseline deviations that 
 
 Click the button at the bottom of the program to start calibration.
 
-![](../img/2026_01_04_15_06_26.png)
+![](../img/2026_08_19_10_48_22-SAYA.png)
 
 During calibration, relax your body and facial expression, let your arms hang naturally, and look straight ahead.
 

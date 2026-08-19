@@ -1,10 +1,18 @@
 ---
-sidebar_position: 30
-title: Measure Upper Arm Span
+sidebar_position: 100
+title: (Deprecated) Measure Upper Arm Span
 className: translation-complete
 ---
 
 # Measure Upper Arm Span
+
+:::warning Deprecated
+
+The latest version of SAYA has removed the upper arm span measurement. It is replaced by [Load VRM](./loadvrm.md), which solves motion directly based on your model's bone proportions.
+
+This page only applies to older versions.
+
+:::
 
 ## Purpose of Measurement
 
