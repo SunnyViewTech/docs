@@ -1,9 +1,17 @@
 ---
-sidebar_position: 32
-title: Motion Capture Tolerance
+sidebar_position: 110
+title: (Deprecated) Motion Capture Tolerance
 ---
 
 # Motion Capture Tolerance
+
+:::warning Deprecated
+
+Since MONO v.260828, the related options have been removed.
+
+This page only applies to older versions.
+
+:::
 
 
 The level of tolerance directly affects the performance of the motion capture system and can be adjusted based on the specific use case.

@@ -1,9 +1,17 @@
 ---
-sidebar_position: 36
-title: Smart Ground Snap
+sidebar_position: 130
+title: (Deprecated) Smart Ground Snap
 ---
 
 # Smart Ground Snap
+
+:::warning Deprecated
+
+Since MONO v.260828, the related options have been removed.
+
+This page only applies to older versions.
+
+:::
 
 The Smart Ground Snap feature can automatically adjust the vertical position of the character when necessary, preventing the character from sinking into the ground.
 

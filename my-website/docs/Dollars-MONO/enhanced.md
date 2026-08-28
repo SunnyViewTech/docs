@@ -1,9 +1,17 @@
 ---
-sidebar_position: 35
-title: Enhanced Mode
+sidebar_position: 120
+title: (Deprecated) Enhanced Mode
 ---
 
 # Enhanced Mode
+
+:::warning Deprecated
+
+Since MONO v.260828, the related options have been removed.
+
+This page only applies to older versions.
+
+:::
 
 You can check the "Enhanced Mode" option in the Options window to achieve higher quality motion capture.
 
