@@ -5,6 +5,21 @@ title: Archive
 
 # Download Archive
 
+## Aug 28, 2026
+- Improved capture quality
+- Restored batch processing
+- Removed video mode
+- Bug fixes
+
+Download [v.260828](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260828.zip)
+
+## Jun 23, 2026
+- Improved capture quality
+- Multi-person mocap
+- Camera rotation
+
+Download [v.260623](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260623_2.zip)
+
 ## Jun 15, 2026
 - Bug Fixes
 

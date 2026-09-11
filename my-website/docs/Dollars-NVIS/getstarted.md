@@ -1,9 +1,15 @@
 ---
-sidebar_position: 10
-title: Get Started
+sidebar_position: 90
+title: (Deprecated) Get Started
 ---
 
 # Get Started
+
+:::warning Deprecated
+
+Since NVIS v.260912, installing the NVIDIA SDK is no longer required. This page only applies to older versions.
+
+:::
 
 Before using Dollars NVIS, you need to download the corresponding package for your graphics card from the NVIDIA Broadcast Download Center and install it. Reboot is recommended after installation.
 

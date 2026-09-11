@@ -48,7 +48,7 @@ const FacialCaptureProducts = [
     title: translate({id: 'homepage.nvis.title', message: 'Dollars NVIS'}),
     link: '/category/dollars-nvis',
     Svg: '/img/nvis.png',
-    description1: translate({id: 'homepage.nvis.desc1', message: 'Powered by NVIDIA,'}),
+    description1: translate({id: 'homepage.nvis.desc1', message: 'A brand-new face capture model,'}),
     description2: translate({id: 'homepage.nvis.desc2', message: 'delivering facial capture close to an iPhone'}),
   },
   {

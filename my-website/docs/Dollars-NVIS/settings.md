@@ -1,9 +1,15 @@
 ---
-sidebar_position: 20
-title: Settings
+sidebar_position: 100
+title: (Deprecated) Settings
 ---
 
 # Settings
+
+:::warning Deprecated
+
+This page only applies to older versions.
+
+:::
 
 Similar to other Dollars MoCap products, you can select your camera and calibrate using the button in the upper left corner. 
 

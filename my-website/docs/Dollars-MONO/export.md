@@ -16,6 +16,7 @@ MONO currently supports the following formats,
 1. FBX
 2. BVH
 3. BVH for Cascadeur
+4. BVH for VAM
 
 FBX supports exporting both motion and facial data, while BVH supports exporting motion data only.
 
@@ -24,6 +25,8 @@ FBX supports exporting both motion and facial data, while BVH supports exporting
 If you plan to use BVH in iClone or Cartoon Animator, please choose the second format.
 
 If you plan to use BVH in Cascadeur, please choose the third format.
+
+If you plan to use BVH in Virt-A-Mate, please choose the fourth format.
 
 In other cases, you can select any format you prefer.
 
