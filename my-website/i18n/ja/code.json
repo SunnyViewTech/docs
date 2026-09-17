@@ -486,7 +486,7 @@
     "message": "Dollars SAYA"
   },
   "homepage.saya.desc1": {
-    "message": "1 台の iOS デバイスで"
+    "message": "1 台のデバイスで"
   },
   "homepage.saya.desc2": {
     "message": "顔、手、上半身をキャプチャ"
@@ -504,7 +504,7 @@
     "message": "Dollars NVIS"
   },
   "homepage.nvis.desc1": {
-    "message": "NVIDIA の技術を利用し、"
+    "message": "新しいフェイスキャプチャモデルで、"
   },
   "homepage.nvis.desc2": {
     "message": "iPhone に近いフェイスキャプチャをウェブカメラで実現"

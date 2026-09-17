@@ -11,16 +11,16 @@ className: translation-complete
 For the best capture results, please follow the steps below to correctly position your device.
 
 - **Position**  
-  Place your **iPhone or iPad** horizontally in front of your body with the camera facing you, and keep it as level with your face as possible.  
+  Place your device horizontally in front of your body with the camera facing you, and keep it as level with your face as possible.  
   It is recommended to use a stable tripod or phone holder to prevent small movements from affecting capture accuracy.
 
 - **Angle Adjustment**  
-  Keep the device as **vertical** as possible, avoiding tilting forward or backward.  
+  Keep the device as vertical as possible, avoiding tilting forward or backward.  
   If the device angle is too high or too low, the system may fail to fully detect your hands or upper body.
 
 - **Orientation Adjustment**  
   SAYA starts in landscape left by default.  
-  To capture in a different orientation, turn off **rotation lock** in **Control Center**, then rotate the device to the angle you need.
+  To capture in a different orientation, turn off rotation lock in Control Center, then rotate the device to the angle you need.
 
 ![](../img/controlcenter-3.png)
 
@@ -38,9 +38,9 @@ For the best capture results, please follow the steps below to correctly positio
 
 After positioning your device, establish communication with your computer.
 
-1. Open the **Dollars SAYA** app and go to the **Settings** page.  
+1. Open the Dollars SAYA app and go to the Settings page.  
 2. In the “Target IP” field, enter your computer’s local network IP address.  
-3. Once confirmed, tap **Save**.
+3. Once confirmed, tap Save.
 
 > **Tip**  
 > When connecting via USB, your device may be assigned a new IP address.  
@@ -48,7 +48,7 @@ After positioning your device, establish communication with your computer.
 
 ## Streaming to PC Software
 
-**Dollars SAYA** can stream real-time capture data to PC programs or VTuber software.
+Dollars SAYA can stream real-time capture data to PC programs or VTuber software.
 
 In the SAYA settings dialog, turn on the switch of the corresponding protocol to start real-time streaming,
 
@@ -71,18 +71,18 @@ Avoid moving objects in the background to help the system track gestures and bod
 Avoid wearing clothes that are similar in color to the background, especially for the upper body.  
 Avoid loose or reflective clothing, as these may interfere with key point detection.
 
-### iOS Optimization
+### Device Optimization
 
 **Improve Network Stability**  
-If wireless streaming feels unstable, use a **wired Ethernet adapter (Lightning/USB-C to RJ45)** to connect your device directly to the router.  
+If wireless streaming feels unstable, use a wired Ethernet adapter (Lightning/USB-C to RJ45) to connect your device directly to the router.  
 This significantly reduces latency and prevents Wi-Fi interruptions.
 
 **USB Mode**  
-You can also connect directly to your computer via **USB cable**.  
-In this mode, it’s recommended to enable **Airplane Mode** to avoid calls or notifications interrupting your session.
+You can also connect directly to your computer via USB cable.  
+In this mode, it’s recommended to enable Airplane Mode to avoid calls or notifications interrupting your session.
 
 **Monitor Device Temperature**  
-When using ARKit, the device may heat up after long periods of operation. We have implemented multiple optimizations to reduce heat generation, but the device temperature may still rise during extended use.  
+The device may heat up after long periods of operation. We have implemented multiple optimizations to reduce heat generation, but the device temperature may still rise during extended use.  
 We recommend
 
 - Using cooling accessories such as a small fan.

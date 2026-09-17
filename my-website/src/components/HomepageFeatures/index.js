@@ -31,7 +31,7 @@ const MotionCaptureProducts = [
     title: translate({id: 'homepage.saya.title', message: 'Dollars SAYA'}),
     link: '/category/dollars-saya',
     Svg: '/img/selfie.png',
-    description1: translate({id: 'homepage.saya.desc1', message: 'Use a single iOS device to'}),
+    description1: translate({id: 'homepage.saya.desc1', message: 'Use a single device to'}),
     description2: translate({id: 'homepage.saya.desc2', message: 'to capture face, hands, and upper body.'}),
   },
 ];

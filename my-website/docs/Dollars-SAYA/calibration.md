@@ -8,7 +8,7 @@ className: translation-complete
 
 ## Purpose of Calibration
 
-If the iOS device is tilted forward or backward during placement, it may cause the captured character to lean accordingly. Calibration helps correct this issue.
+If the device is tilted forward or backward during placement, it may cause the captured character to lean accordingly. Calibration helps correct this issue.
 
 Additionally, individual facial features may introduce baseline deviations that affect expression accuracy. Calibration allows for more accurate detection of dynamic facial expressions.
 

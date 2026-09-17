@@ -19,7 +19,7 @@ After you load your VRM, SAYA solves and outputs motion directly based on that m
 
 ## Steps
 
-1. Transfer your character's VRM file to your iOS device, for example via AirDrop, iCloud Drive, or a USB cable.
+1. Transfer your character's VRM file to your device, for example via AirDrop, cloud storage, or a USB cable.
 2. In SAYA, tap the button below and choose your VRM in the dialog.
 
 ![](../img/2026_08_19_10_48_22-SAYA2.png)
