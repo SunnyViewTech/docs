@@ -5,6 +5,12 @@ title: Archive
 
 # Download Archive
 
+## Sep 22, 2026
+- Restored video mode
+- Bug fixes
+
+Download [v.260922](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260922.zip)
+
 ## Sep 12, 2026
 - Added VAM-compatible BVH export
 - Updated NVIS to the brand-new face capture model
