@@ -5,17 +5,25 @@ title: Archive
 
 # Download Archive
 
+## Sep 29, 2026
+- Enhanced Hands
+- Faster video mode
+- Calibration countdown
+- Bug fixes
+
+Download [v.260929 Portable](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260929.zip) · [v.260929 Installer](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260929_Setup.exe)
+
 ## Sep 22, 2026
 - Restored video mode
 - Bug fixes
 
-Download [v.260922](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260922.zip)
+Download [v.260922 Portable](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260922.zip) · [v.260922 Installer](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260922_Setup.exe)
 
 ## Sep 12, 2026
 - Added VAM-compatible BVH export
 - Updated NVIS to the brand-new face capture model
 
-Download [v.260912](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260912.zip)
+Download [v.260912 Portable](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260912.zip) · [v.260912 Installer](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260912_Setup.exe)
 
 ## Aug 28, 2026
 - Improved capture quality
@@ -23,7 +31,7 @@ Download [v.260912](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260912.zip
 - Removed video mode
 - Bug fixes
 
-Download [v.260828](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260828.zip)
+Download [v.260828 Portable](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260828.zip) · [v.260828 Installer](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_260828_Setup.exe)
 
 ## Jun 23, 2026
 - Improved capture quality
