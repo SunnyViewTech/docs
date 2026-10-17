@@ -36,3 +36,9 @@ After enabling NDI output, it may take 30 seconds to a minute for the source to 
 If it still does not appear after waiting, make sure the device and the computer are on the same local network, and check whether the computer's firewall is blocking NDI.
 
 :::
+
+## Latency Compared with VMC
+
+The following video compares the latency of NDI output with VMC streaming (with the avatar rendered by software on the computer), for your reference when choosing between them. NDI in the video uses the default settings of the NDI Source in OBS.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/JEidb1GrR6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

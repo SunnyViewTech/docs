@@ -5,17 +5,21 @@ title: Load VRM
 
 # Load VRM
 
-## Why Load a VRM
+## What Loading a VRM Does
 
-By default, SAYA solves motion based on the body proportions of the built-in Dollars MoCap model. When your character differs noticeably from the built-in model in proportions such as shoulder width and arm length, poses that require precise alignment, like pressing both hands together, can end up off, with the hands apart or clipping into each other.
+By default, SAYA solves motion based on the body proportions of the built-in Dollars MoCap model. If your character differs significantly from the built-in model in proportions such as shoulder width and arm length, the motion may be off. For example, in poses that require precise alignment, such as pressing both hands together, the hands may not meet correctly or may even clip into each other.
 
-![](../img/3582471_m.jpg)
+![](../img/2026.08.19_11.30.png)
 
-![](../img/[2026.08.19_11.30.54].png)
+In addition, if your character's waist height differs significantly from the built-in model, foot placement may be off, causing the feet to sink into the floor or float above it.
 
-After you load your VRM, SAYA solves and outputs motion directly based on that model's bone proportions. Characters of different body types fit your motion naturally, with no need to manually enter parameters such as the upper arm span.
+![](../img/2026_10_17_22_13_27.png)
+
+After you load your VRM model, SAYA solves motion based on that model's bone proportions, so the motion fits your character's own body shape and reduces misaligned hands, clipping, and foot placement problems.
 
 ![](../img/[2026.08.19_11.30.35].png)
+
+![](../img/2026_10_17_22_16_56.png)
 
 ## Steps
 

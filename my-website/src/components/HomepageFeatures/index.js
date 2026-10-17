@@ -32,7 +32,7 @@ const MotionCaptureProducts = [
     link: '/category/dollars-saya',
     Svg: '/img/selfie.png',
     description1: translate({id: 'homepage.saya.desc1', message: 'Use a single device to'}),
-    description2: translate({id: 'homepage.saya.desc2', message: 'to capture face, hands, and upper body.'}),
+    description2: translate({id: 'homepage.saya.desc2', message: 'to capture face, hands, and full-body motion.'}),
   },
 ];
 

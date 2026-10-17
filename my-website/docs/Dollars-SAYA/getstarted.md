@@ -8,35 +8,51 @@ className: translation-complete
 
 ## Device Placement
 
-For the best capture results, please follow the steps below to correctly position your device.
+For the best capture results, place your device according to how you use SAYA, and keep it as vertical as possible, avoiding tilting forward or backward.
 
-- **Position**  
-  Place your device horizontally in front of your body with the camera facing you, and keep it as level with your face as possible.  
-  It is recommended to use a stable tripod or phone holder to prevent small movements from affecting capture accuracy.
+### Half-Body Capture
 
-- **Angle Adjustment**  
-  Keep the device as vertical as possible, avoiding tilting forward or backward.  
-  If the device angle is too high or too low, the system may fail to fully detect your hands or upper body.
+- **Position**
+  Place the device in front of your body, as level with your face as possible.
 
-- **Orientation Adjustment**  
-  SAYA starts in landscape left by default.  
-  To capture in a different orientation, turn off rotation lock in Control Center, then rotate the device to the angle you need.
-
-![](../img/controlcenter-3.png)
-
-- **Framing**  
-  When your hands are at rest (for example, hanging down or when you're using a mouse or keyboard), make sure they are outside the camera frame.  
-  When you raise your hands, both should be fully visible within the camera frame.  
+- **Framing**
+  When your hands are at rest (for example, hanging down or when you're using a mouse or keyboard), make sure they are outside the camera frame.
+  When you raise your hands, both should be fully visible within the camera frame.
 
   If space allows, step slightly back to achieve a more complete capture range.
 
-- **Lighting Conditions**  
-  Use soft and even lighting.  
-  Avoid strong backlight or low-light environments, as they can reduce tracking accuracy.
+### Full-Body Capture
+
+- **Position**
+  Place the device directly in front of you, at roughly waist height, and keep enough distance from your body.
+
+- **Framing**
+  Your whole body from head to feet should stay in frame, and your feet should not leave the frame while you move.
+  Leave enough room to move so that you do not step out of the camera's view.
+
+### Orientation
+
+SAYA starts in landscape left by default. To capture in a different orientation, turn off rotation lock in Control Center, then rotate the device to the angle you need.
+
+![](../img/controlcenter-3.png)
+
+## Capture Environment
+
+### Lighting
+
+Shoot in bright, even lighting so that your face, hands, and body outline are clearly visible. Avoid strong backlight, dark environments, or frequently changing light to reduce tracking errors.
+
+### Background
+
+Choose a simple, tidy background, and avoid objects that resemble your movements or other people moving in the background. Keep a clear color contrast between your body and the background to help the system detect body and hand key points more accurately.
+
+### Clothing
+
+Wear clothes that contrast clearly with the background, and avoid tops or trousers that are close to the background color. Avoid clothing that is too loose, hides your body outline, or is highly reflective.
 
 ## Connect to Computer
 
-After positioning your device, establish communication with your computer.
+After placing your device, follow the steps below to connect to your computer.
 
 1. Open the Dollars SAYA app and go to the Settings page.  
 2. In the “Target IP” field, enter your computer’s local network IP address.  
@@ -50,7 +66,7 @@ After positioning your device, establish communication with your computer.
 
 Dollars SAYA can stream real-time capture data to PC programs or VTuber software.
 
-In the SAYA settings dialog, turn on the switch of the corresponding protocol to start real-time streaming,
+In the SAYA settings page, turn on the switch for the corresponding protocol to stream capture data to software on your computer in real time.
 
 ![](../img/20260819_121135.580.png)
 
@@ -60,16 +76,6 @@ In the SAYA settings dialog, turn on the switch of the corresponding protocol to
 - **Live Link(UE Plugin)**: For driving Unreal Engine characters via the Dollars MoCap Live Link plugin.
 
 ## Tips
-
-### General Motion Capture Advice
-
-**Environment Setup**  
-Keep the background clean and lighting consistent.  
-Avoid moving objects in the background to help the system track gestures and body motion more accurately.
-
-**Clothing**  
-Avoid wearing clothes that are similar in color to the background, especially for the upper body.  
-Avoid loose or reflective clothing, as these may interfere with key point detection.
 
 ### Device Optimization
 
@@ -86,4 +92,4 @@ The device may heat up after long periods of operation. We have implemented mult
 We recommend
 
 - Using cooling accessories such as a small fan.
-- Testing before long live sessions. The test duration should be longer than your expected live stream time to understand your device’s thermal performance.  
+- Testing in advance, for longer than your planned live stream, to understand how your device handles heat during extended use.  
