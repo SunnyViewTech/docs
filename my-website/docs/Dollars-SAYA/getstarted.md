@@ -8,26 +8,26 @@ className: translation-complete
 
 ## Device Placement
 
-For the best capture results, place your device according to how you use SAYA, and keep it as vertical as possible, avoiding tilting forward or backward.
+For the best capture results, place your device according to your tracking mode, and try to keep it roughly upright without much forward or backward tilt.
 
-### Half-Body Capture
+### Upper-Body Mode
 
-- **Position**
-  Place the device in front of your body, as level with your face as possible.
+- **Position**  
+  Place the device in front of your body, at roughly face height.
 
-- **Framing**
-  When your hands are at rest (for example, hanging down or when you're using a mouse or keyboard), make sure they are outside the camera frame.
+- **Framing**  
+  When your hands are at rest (for example, hanging down or when you're using a mouse or keyboard), make sure they are outside the camera frame.  
   When you raise your hands, both should be fully visible within the camera frame.
 
   If space allows, step slightly back to achieve a more complete capture range.
 
-### Full-Body Capture
+### Full-Body Mode
 
-- **Position**
+- **Position**  
   Place the device directly in front of you, at roughly waist height, and keep enough distance from your body.
 
-- **Framing**
-  Your whole body from head to feet should stay in frame, and your feet should not leave the frame while you move.
+- **Framing**  
+  Your whole body from head to feet should stay in frame, and your feet should not leave the frame while you move.  
   Leave enough room to move so that you do not step out of the camera's view.
 
 ### Orientation
