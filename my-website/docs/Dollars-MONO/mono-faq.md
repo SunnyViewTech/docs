@@ -87,18 +87,3 @@ You can refer to [Using Virtual Camera as Input](/Dollars-MONO/virtualcam) for m
 To use your cell phone camera, first, find appropriate software to stream the image from your phone to your computer. Then, use the OBS virtual camera to transfer the image into Dollars MONO.
 
 You can refer to [Using Virtual Camera as Input](/Dollars-MONO/virtualcam) for more information about how to use the OBS virtual camera.
-
-## Support for Multiple People or Cameras
-
-Dollars MONO currently supports only a single person and a single camera.
-
-If you want to have multiple characters in the same scene, you can refer to the following tutorials:
-
-[Multi-person motion capture in UE](/ue-multiplayer)
-
-[Multi-person motion capture in Unity](/unity-multiplayer)
-
-Multi-person motion capture in Virt-A-Mate
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/lbtP2zccvSM?si=otn1dgiLiaNkjKi_&amp;start=265" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-

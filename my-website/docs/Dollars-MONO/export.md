@@ -5,9 +5,9 @@ title: File Export
 
 # File Export
 
-You can press the buttons shown in the image below to start and stop exporting motion and facial capture files.
+Click the button shown below or press the **R** key to start or stop recording motion and facial capture files.
 
-![](../img/2023-10-20_22_49_40-806424_940206.png)
+![](../img/2026_10_29_20_43_09-Dollars_MONO.png)
 
 ## Export formats
 
@@ -17,6 +17,7 @@ MONO currently supports the following formats,
 2. BVH
 3. BVH for Cascadeur
 4. BVH for VAM
+5. VAM Timeline
 
 FBX supports exporting both motion and facial data, while BVH supports exporting motion data only.
 
@@ -52,7 +53,7 @@ Depending on the operating system, the files will be saved in the following dire
 
 You can change the export folder in the Options dialog.
 
-![](../img/2025_06_19_17_09_11-Dollars_MONO.jpg)
+![](../img/2026_10_29_20_43_55-Dollars_MONO.png)
 
 By clicking the **Reset** button, you can restore the save location to the default directory above.
 

@@ -7,7 +7,7 @@ title: Motion Capture Sensitivity
 
 You can adjust the motion capture sensitivity settings to achieve different results based on your needs.
 
-![](../img/2023-10-20_22_45_26-723848_365811.png)
+![](../img/2026_10_29_20_39_46-Dollars_MONO.png)
 
 The video below demonstrates the impact of varying sensitivity levels on the motion capture outcomes.
 

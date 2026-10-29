@@ -5,19 +5,28 @@ title: Calibration
 
 # Calibration
 
-When positioning the camera, you may sometimes tilt it slightly to obtain a more comprehensive view of the person being captured.
+## What Calibration Does
 
-![](../img/FgAMw_QlQvpdfiT603iB_RPESgTL.png)
+If the camera is tilted at an angle (for example, forward or backward), the avatar's body posture may be off. Calibration compensates for the camera tilt.
 
-However, this tilt can cause the person to appear as if they are leaning forward from the camera's perspective, leading to inaccurate motion capture results.
+Calibration also moves the person to the origin, making it easier to align with the scene.
 
-![](../img/FijtOg5pMMwatxMWa0xk9r2EYQPL.png)
+Additionally, individual facial features may introduce baseline deviations that affect expression accuracy. Calibration allows for more accurate detection of dynamic facial expressions.
 
-To correct this, you can use the calibration feature by pressing the button within the red box.
+## How to Calibrate
 
-![](../img/2023-10-20_22_42_49-495404_724805..png)
+Click the **Calibrate** button or press the **C** key to start calibration.
 
-Calibration Steps:
+![](../img/2026_10_29_20_39_07-Dollars_MONO.png)
 
-1. Sit upright during calibration.
-2. When the countdown ends and the "Calibration Completed" message is displayed, you can begin capturing motion.
+During calibration, sit or stand at the origin of the capture area, relax your body and facial expression, let your arms hang naturally, and look straight ahead.
+
+Once the countdown ends and the "Calibration Completed" message appears, you can begin normal motion capture.
+
+## Calibrating Without a Person in Frame
+
+If no one is in the frame during calibration, MONO compensates for the camera tilt based on the image. In this case, the person's position and facial expressions are not calibrated.
+
+## When Calibration Fails
+
+If no one is in the frame and the scene is a single solid color (such as a green screen), MONO cannot determine the camera tilt from the image, and calibration cannot be completed. Step into the frame and calibrate again.

@@ -7,7 +7,7 @@ title: Facial Capture Modules
 
 Starting from version v.241128, MONO provides two facial capture modules: EGAO and NVIS. You can choose to use either module based on your needs in the settings.
 
-![](../img/2024_11_28_15_10_39.png)
+![](../img/2026_10_29_20_40_18-Dollars_MONO.png)
 
 :::warning
 
