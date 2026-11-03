@@ -25,6 +25,5 @@ The following options remain effective during batch processing,
 
 The following options will be automatically adjusted,
 
-- Enhanced mode is enabled by default
-- Motion capture mode defaults to full-body jumping mode
+- Motion capture mode defaults to Full Body mode
 - Motion capture Profile is not applied by default

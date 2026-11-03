@@ -25,6 +25,12 @@ It remains technically challenging to completely eliminate clipping during real-
 
 ## Setup Steps
 
+:::warning Note
+
+Some of the steps below may differ from the latest version of MONO.
+
+:::
+
 ### Preparation
 
 1. Make sure your character is properly configured with the Dollars plugin so that motion data can sync correctly.

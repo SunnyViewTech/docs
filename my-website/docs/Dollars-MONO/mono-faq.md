@@ -72,8 +72,6 @@ If you are experiencing this problem when motion capture is performed via video,
 
 For more information on using the OBS virtual camera, refer to the section [Using Virtual Camera as Input](/Dollars-MONO/virtualcam).
 
-You can also try enabling the [Smart Ground Snap](/Dollars-MONO/ground) option.
-
 ## Video Stuttering and Other Issues
 
 You can try to lower the video resolution, or video frame rate.

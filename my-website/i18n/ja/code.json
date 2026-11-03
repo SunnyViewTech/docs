@@ -459,16 +459,16 @@
     "message": "Dollars MONO"
   },
   "homepage.mono.desc1": {
-    "message": "1 台のカメラまたは動画ファイルを使用して、"
+    "message": "1 台のカメラまたは動画で"
   },
   "homepage.mono.desc2": {
-    "message": "表情、ジェスチャー、全身の動きをリアルタイムでキャプチャ！"
+    "message": "表情・手・全身をリアルタイムキャプチャ"
   },
   "homepage.deep.title": {
     "message": "Dollars DEEP"
   },
   "homepage.deep.desc1": {
-    "message": "MONOをベースに、深度カメラを使用することで、"
+    "message": "深度カメラを使用して"
   },
   "homepage.deep.desc2": {
     "message": "腰と足のトラッキング精度を向上"
@@ -495,19 +495,19 @@
     "message": "Dollars EGAO"
   },
   "homepage.egao.desc1": {
-    "message": "完全無料のフェイスキャプチャソフトウェア、"
+    "message": "完全無料のフェイスキャプチャ"
   },
   "homepage.egao.desc2": {
-    "message": "VMC プロトコル、Unity、Unreal Engine、iClone8、Virt-A-Mate に対応"
+    "message": "VMC・Unity・UE などに対応"
   },
   "homepage.nvis.title": {
     "message": "Dollars NVIS"
   },
   "homepage.nvis.desc1": {
-    "message": "新しいフェイスキャプチャモデルで、"
+    "message": "新しいフェイスキャプチャモデルで"
   },
   "homepage.nvis.desc2": {
-    "message": "iPhone に近いフェイスキャプチャをウェブカメラで実現"
+    "message": "iPhone に近い精度をウェブカメラで"
   },
   "homepage.link.title": {
     "message": "Dollars LINK"

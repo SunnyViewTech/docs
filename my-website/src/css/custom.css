@@ -62,7 +62,8 @@ html[lang="ja"] .theme-doc-markdown::before {
     margin-bottom: 1rem;
 }
 
-/* Hide banner for Dollars-SAYA pages (translation complete) */
-html[lang="ja"][class*="docs-doc-id-Dollars-SAYA"] .theme-doc-markdown::before {
+/* Hide banner for fully translated products (Dollars-SAYA, Dollars-MONO) */
+html[lang="ja"][class*="docs-doc-id-Dollars-SAYA"] .theme-doc-markdown::before,
+html[lang="ja"][class*="docs-doc-id-Dollars-MONO"] .theme-doc-markdown::before {
     display: none;
 }
