@@ -4,7 +4,7 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Dollars MONO": {
-    "message": "Dollars MONO（日本語対応）",
+    "message": "Dollars MONO (日本語対応)",
     "description": "The label for category Dollars MONO in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Dollars MONO.link.generated-index.description": {
@@ -28,7 +28,7 @@
     "description": "The label for category Dollars VIVA in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Dollars SAYA": {
-    "message": "Dollars SAYA（日本語対応）",
+    "message": "Dollars SAYA (日本語対応)",
     "description": "The label for category Dollars SAYA in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Dollars SAYA.link.generated-index.description": {
