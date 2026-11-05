@@ -10,7 +10,7 @@ className: translation-complete
 
 ## inZOI の VRM を読み込む
 
-まず、[VRM の読み込み](./loadvrm.md) で inZOI に付属する VRM ファイルを読み込みます。モーションが inZOI キャラクターの体型に基づいて解算され、キャラクターによりフィットします。
+まず、[VRM の読み込み](./loadvrm.md) で inZOI に付属する VRM ファイルを読み込みます。モーションは inZOI キャラクターの体型に合わせて計算され、より自然にフィットします。
 
 ## inZOI 最適化を有効にする
 
