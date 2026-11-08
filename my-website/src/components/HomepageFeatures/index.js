@@ -60,23 +60,6 @@ const FacialCaptureProducts = [
   },
 ];
 
-const InnovativeProducts = [
-  {
-    title: translate({id: 'homepage.mots.title', message: 'Dollars MOTS'}),
-    link: '/category/dollars-mots',
-    Svg: '/img/T2M.png',
-    description1: translate({id: 'homepage.mots.desc1', message: 'Generate full-body motions based on text!'}),
-    description2: '',
-  },
-  {
-    title: translate({id: 'homepage.soma.title', message: 'Dollars SOMA'}),
-    link: '/category/dollars-soma',
-    Svg: '/img/victory.png',
-    description1: translate({id: 'homepage.soma.desc1', message: 'Camera-based Body and Hand Gesture Recognition'}),
-    description2: '',
-  },
-];
-
 const IntegrationFeatures = [
   {
     title: translate({id: 'homepage.integration.title', message: 'Integration with Game Engines and DCC Software'}),
@@ -131,25 +114,6 @@ function AdditionalFeature({Svg, title, description1, description2, link}) {
   );
 }
 
-// For the innovative products, we'll use a centered layout
-function InnovativeFeature({Svg, title, description1, description2, link}) {
-  const imgUrl = useBaseUrl(Svg);
-  return (
-    <div className={clsx('col col--6 offset-col--3')} >
-      <Link to={link} style={{ textDecoration: 'none'}}>
-          <div className="text--center">
-            <img src={imgUrl} alt="alternative text" className={styles.featureSvg} />
-          </div>
-          <div className="text--center padding-horiz--md">
-            <h3 style={{marginTop:'2em'}}>{title}</h3>
-            <p>{description1}<br/>{description2}</p>
-            <p></p>
-          </div>
-      </Link>
-    </div>
-  );
-}
-
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
@@ -177,19 +141,6 @@ export default function HomepageFeatures() {
         <div className="row">
           {FacialCaptureProducts.map((props, idx) => (
             <Feature key={idx} {...props} />
-          ))}
-        </div>
-
-        <div className="row" style={{marginTop: '4rem'}}>
-          <div className="col col--12">
-            <h2 className="text--center" style={{marginBottom: '2rem', fontSize: '2rem', fontWeight: 'bold'}}>
-              <Translate id="homepage.section.interaction">Interaction Products</Translate>
-            </h2>
-          </div>
-        </div>
-        <div className="row">
-          {InnovativeProducts.map((props, idx) => (
-            <InnovativeFeature key={idx} {...props} />
           ))}
         </div>
 

@@ -67,3 +67,8 @@ html[lang="ja"][class*="docs-doc-id-Dollars-SAYA"] .theme-doc-markdown::before,
 html[lang="ja"][class*="docs-doc-id-Dollars-MONO"] .theme-doc-markdown::before {
     display: none;
 }
+
+/* Retired products: pages stay reachable by URL but are hidden from the sidebar */
+.menu__list-item.sidebar-hidden {
+    display: none;
+}

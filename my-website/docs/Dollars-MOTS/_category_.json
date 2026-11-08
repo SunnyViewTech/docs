@@ -1,6 +1,7 @@
 {
   "label": "Dollars MOTS",
   "position": 48,
+  "className": "sidebar-hidden",
   "link": {
     "type": "generated-index",
   }
