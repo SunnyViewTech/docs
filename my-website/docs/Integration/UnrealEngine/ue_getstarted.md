@@ -29,7 +29,7 @@ However, there is an issue with motion capture not functioning after packaging i
 
 ### Download the Plugin
 
-Download the Live Link plugin from the Dollars MoCap website.
+Download the Live Link plugin from the [Dollars MoCap website](https://www.dollarsmocap.com/download#plugins).
 
 ![](../../img/2026_07_01_16_42_17.png)
 
@@ -62,7 +62,7 @@ Restart the project after enabling them.
 
 ### Download the Plugin
 
-Download the Unreal plugin and the required Control Rig from the Dollars MoCap website.
+Download the Unreal plugin and the required Control Rig from the [Dollars MoCap website](https://www.dollarsmocap.com/download#plugins).
 
 ![](../../img/2026_07_01_16_42_48.png)
 
