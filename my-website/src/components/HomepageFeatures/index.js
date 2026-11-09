@@ -51,13 +51,6 @@ const FacialCaptureProducts = [
     description1: translate({id: 'homepage.nvis.desc1', message: 'A brand-new face capture model,'}),
     description2: translate({id: 'homepage.nvis.desc2', message: 'delivering facial capture close to an iPhone'}),
   },
-  {
-    title: translate({id: 'homepage.link.title', message: 'Dollars LINK'}),
-    link: '/category/dollars-link',
-    Svg: '/img/link.png',
-    description1: translate({id: 'homepage.link.desc1', message: 'Use Live Link Face'}),
-    description2: translate({id: 'homepage.link.desc2', message: 'for facial capture in iClone8'}),
-  },
 ];
 
 const IntegrationFeatures = [
@@ -140,7 +133,7 @@ export default function HomepageFeatures() {
         </div>
         <div className="row">
           {FacialCaptureProducts.map((props, idx) => (
-            <Feature key={idx} {...props} />
+            <AdditionalFeature key={idx} {...props} />
           ))}
         </div>
 
