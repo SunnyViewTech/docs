@@ -48,10 +48,6 @@ BVH を Virt-A-Mate で使用する場合は、4 番目の形式を選択して�
 
 ```/Users/[Username]/Library/Application Support/com.SunnyView.Dollars-MONO```
 
-- Linux
-
-```~/.config/unity3d/SunnyView/Dollars_MONO/```
-
 **保存先** は **設定** で変更できます。
 
 ![](../img/2026_11_03_14_33_26-MONO.png)

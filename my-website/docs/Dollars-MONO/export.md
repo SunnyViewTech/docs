@@ -47,10 +47,6 @@ Depending on the operating system, the files will be saved in the following dire
 
 ```/Users/[Username]/Library/Application Support/com.SunnyView.Dollars-MONO```
 
-- Linux
-
-```~/.config/unity3d/SunnyView/Dollars_MONO/```
-
 You can change the export folder in the Options dialog.
 
 ![](../img/2026_10_29_20_43_55-Dollars_MONO.png)

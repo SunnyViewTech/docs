@@ -12,7 +12,7 @@ v.241128 以降、MONO には EGAO と NVIS の 2 種類のフェイスキャプ
 
 :::warning
 
-macOS 版および Linux 版の MONO は、現在 EGAO フェイスキャプチャモジュールのみに対応しています。
+macOS 版の MONO は、現在 EGAO フェイスキャプチャモジュールのみに対応しています。
 
 :::
 
