@@ -5,6 +5,13 @@ title: Archive
 
 # Download Archive
 
+## Oct 12, 2026
+- VAM Timeline export
+- Performance improvements
+- Bug fixes
+
+Download [v.261012 Portable](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_261012.zip) · [v.261012 Installer](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_261012_Setup.exe)
+
 ## Sep 29, 2026
 - Enhanced Hands
 - Faster video mode

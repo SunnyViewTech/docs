@@ -1,0 +1,9 @@
+{
+  "label": "Headset-Free",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "slug": "/vrchat-steamvr",
+    "description": "How to use VRChat without a VR device."
+  }
+}

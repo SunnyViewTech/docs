@@ -86,5 +86,29 @@
   "sidebar.tutorialSidebar.category.iClone and CTA": {
     "message": "iClone and CTA",
     "description": "The label for category iClone and CTA in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SteamVR": {
+    "message": "SteamVR (日本語対応)",
+    "description": "The label for category SteamVR in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SteamVR.link.generated-index.description": {
+    "message": "実機のヘッドセットがなくても、Dollars MoCap は SteamVR を通じて VR ヘッドセット、コントローラー、最大 8 個のトラッカーをシミュレートし、モーションキャプチャデータで動かすことができます。これにより、VRChat などのアプリでフルボディトラッキングを実現できます。",
+    "description": "The generated-index page description for category SteamVR in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VRChat": {
+    "message": "VRChat (日本語対応)",
+    "description": "The label for category VRChat in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.VRChat.link.generated-index.description": {
+    "message": "Dollars MoCap では、VRChat でフルボディトラッキングを行う方法を 2 つ提供しています。ヘッドセットなし方式では、Dollars MoCap for SteamVR を使って VR ヘッドセットとトラッカーをシミュレートします。OSC 方式では、OSC で体の位置を VRChat に送信します。",
+    "description": "The generated-index page description for category VRChat in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Headset-Free": {
+    "message": "ヘッドセットなし方式",
+    "description": "The label for category Headset-Free in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Headset-Free.link.generated-index.description": {
+    "message": "VR デバイスなしで VRChat を使用する方法を紹介します。",
+    "description": "The generated-index page description for category Headset-Free in sidebar tutorialSidebar"
   }
 }

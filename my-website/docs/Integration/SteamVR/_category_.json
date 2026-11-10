@@ -1,0 +1,9 @@
+{
+  "label": "SteamVR",
+  "position": 42,
+  "link": {
+    "type": "generated-index",
+    "slug": "/steamvr",
+    "description": "Without a physical headset, Dollars MoCap can simulate a VR headset, controllers and up to eight trackers through SteamVR and drive them with motion capture data, enabling full-body tracking in apps such as VRChat."
+  }
+}

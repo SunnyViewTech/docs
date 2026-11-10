@@ -6,6 +6,13 @@ className: translation-complete
 
 # ダウンロードアーカイブ
 
+## 2026年10月12日
+- VAM Timeline のエクスポートに対応
+- パフォーマンスの向上
+- 不具合の修正
+
+ダウンロード [v.261012 ポータブル版](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_261012.zip) · [v.261012 インストーラー版](https://kilimanjaro.dollarsmocap.com/Dollars_MONO_261012_Setup.exe)
+
 ## 2026年9月29日
 - ハンドトラッキングの強化
 - 動画モードの高速化
