@@ -4,6 +4,6 @@
   "link": {
     "type": "generated-index",
     "slug": "/vrchat",
-    "description": "Dollars MoCap offers two ways to do full-body tracking in VRChat. The headset-free method uses Dollars MoCap for SteamVR to simulate a VR headset and trackers. The OSC method sends your body positions to VRChat over OSC."
+    "description": "Dollars MoCap offers two ways to do full-body tracking in VRChat. The headset-free method uses the Dollars MoCap SteamVR Plugin to simulate a VR headset and trackers. The OSC method sends your body positions to VRChat over OSC."
   }
 }

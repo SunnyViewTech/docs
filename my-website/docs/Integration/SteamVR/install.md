@@ -12,7 +12,7 @@ Supported by Dollars MONO and Dollars SAYA since v.261110.
 The driver installation steps below assume that no physical headset is installed. If a physical headset is already set up on your computer, please refer to the SteamVR documentation on running two VR systems.
 :::
 
-Before you begin, install SteamVR through Steam, and download **Dollars MoCap for SteamVR** (the program is named DollarsMoCapSteamVRBridge, Bridge for short) from the [Dollars MoCap website](https://www.dollarsmocap.com/download#plugins).
+Before you begin, install SteamVR through Steam, and download the **Dollars MoCap SteamVR Plugin** (the program is named DollarsMoCapSteamVRBridge, Bridge for short) from the [Dollars MoCap website](https://www.dollarsmocap.com/download#plugins).
 
 ## Install the Driver
 

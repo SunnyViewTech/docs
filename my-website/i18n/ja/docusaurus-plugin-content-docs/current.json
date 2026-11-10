@@ -100,7 +100,7 @@
     "description": "The label for category VRChat in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.VRChat.link.generated-index.description": {
-    "message": "Dollars MoCap では、VRChat でフルボディトラッキングを行う方法を 2 つ提供しています。ヘッドセットなし方式では、Dollars MoCap for SteamVR を使って VR ヘッドセットとトラッカーをシミュレートします。OSC 方式では、OSC で体の位置を VRChat に送信します。",
+    "message": "Dollars MoCap では、VRChat でフルボディトラッキングを行う方法を 2 つ提供しています。ヘッドセットなし方式では、Dollars MoCap SteamVR Plugin を使って VR ヘッドセットとトラッカーをシミュレートします。OSC 方式では、OSC で体の位置を VRChat に送信します。",
     "description": "The generated-index page description for category VRChat in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Headset-Free": {

@@ -13,7 +13,7 @@ Dollars MONO と Dollars SAYA は v.261110 以降で対応しています。
 以下のドライバーのインストール手順は、実機のヘッドセットがインストールされていない場合を想定しています。すでに実機のヘッドセットをお使いの場合は、2 つの VR システムを併用する方法について SteamVR のドキュメントを参照してください。
 :::
 
-ご使用の前に、Steam から SteamVR をインストールし、[Dollars MoCap 公式サイト](https://www.dollarsmocap.com/download#plugins)から **Dollars MoCap for SteamVR**（プログラム名は DollarsMoCapSteamVRBridge、以下 Bridge）をダウンロードしてください。
+ご使用の前に、Steam から SteamVR をインストールし、[Dollars MoCap 公式サイト](https://www.dollarsmocap.com/download#plugins)から **Dollars MoCap SteamVR Plugin**（プログラム名は DollarsMoCapSteamVRBridge、以下 Bridge）をダウンロードしてください。
 
 ## ドライバーのインストール
 
