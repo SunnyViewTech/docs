@@ -18,8 +18,12 @@ Before you begin, install SteamVR through Steam, and download the **Dollars MoCa
 
 1. Place the Bridge folder in a permanent location. The driver is loaded from the folder where Bridge is located, so if you move the folder after installation, you will need to install the driver again.
 2. Close SteamVR.
-3. Open Bridge and click **Driver Setup** in the upper right corner.
+3. Right-click DollarsMoCapSteamVRBridge.exe, select **Run as administrator**, then click **Driver Setup** in the upper right corner.
 4. Change the settings as needed, then click **Install**.
+
+:::tip
+Bridge needs to run as administrator only when installing or uninstalling the driver. For everyday use after installation, open it normally.
+:::
 
 ![](../../img/steamvr-driver-settings.png)
 
@@ -49,4 +53,4 @@ Once streaming starts, the headset, controller and tracker icons in the SteamVR 
 
 ## Uninstall
 
-Close SteamVR, then click **Uninstall** on the driver setup page. Bridge removes the driver's registration, along with the room and tracker settings written by this driver. Other drivers and settings are not affected.
+Close SteamVR, run Bridge as administrator, then click **Uninstall** on the driver setup page. Bridge removes the driver's registration, along with the room and tracker settings written by this driver. Other drivers and settings are not affected.
